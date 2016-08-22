@@ -1,0 +1,21 @@
+# Virtual Environment
+env/
+
+# Generated Sphinx content
+docs/build/
+
+# Test artifacts
+.tox/
+.coverage
+
+# Python artifacts
+*.py{c,o}
+*.egg-info/
+build/
+dist/
+
+# Editor backups
+*.swp
+
+# OSX turds
+.DS_Store

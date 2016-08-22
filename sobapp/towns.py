@@ -86,10 +86,8 @@ def search_dict(value, dct):
     return result
 
 class Town:
-    small = 4
-    medium = 6
-    large = 8
     max_size = list(TOWN_SIZES.keys())[-1]
+    max_jobs = 3
 
     def __init__(self, name, locations=[], trait=None, kind=None):
         self.name = name
