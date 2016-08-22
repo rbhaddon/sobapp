@@ -1,12 +1,22 @@
 '''
 
 '''
+import enum
 
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.login import UserMixin, AnonymousUserMixin
+from sqlalchemy.ext.hybrid import hybrid_property
 from werkzeug.security import generate_password_hash, check_password_hash
 
+from sobapp import town_charts
+
 db = SQLAlchemy()
+
+
+class JobStatus(enum.Enum):
+    available = 'Available'
+    completed = 'Completed'
+    failed = 'Failed'
 
 
 class User(db.Model, UserMixin):
@@ -51,39 +61,39 @@ def base_to_dict(self):
     return {c.name: getattr(self, c.name) for c in self.__table__.columns}
 
 
-class Job(db.Model):
-    '''
-    HexCrawl Job model
- 
-    '''
-    __tablename__ = "job"
-
-    id = db.Column(db.Integer, primary_key=True)
-    title = db.Column(db.String(255), unique=True, nullable=False)
-    keywords = db.Column(db.String(512), unique=False, nullable=True)
-    background = db.Column(db.String(512), unique=False, nullable=True)
-    location = db.Column(db.String(512), unique=False, nullable=True)
-    time = db.Column(db.Integer, default=0)
-    description = db.Column(db.String(2048), unique=False, nullable=True)
-    reward = db.Column(db.String(1024), unique=False, nullable=True)
-    failure = db.Column(db.String(1024), unique=False, nullable=True)
-
-    def is_mandatory(self):
-        ''' Return boolean if job is mandatory '''
-        keywords = self.keywords.split(',')
-        return 'Mandatory!' in keywords
-
-    def __repr__(self):
-        # Perform any model-specific manipulations before returning
-        dct = base_to_dict(self)
-        out = "\n".join(["\t{0:20}: {1}".format(*item) for item in dct.items()])
-        return "\n\t-----\n" + out
+#class Job(db.Model):
+#    '''
+#    HexCrawl Job model
+#
+#    '''
+#    __tablename__ = "job"
+#
+#    id = db.Column(db.Integer, primary_key=True)
+#    title = db.Column(db.String(255), unique=True, nullable=False)
+#    keywords = db.Column(db.String(512), unique=False, nullable=True)
+#    background = db.Column(db.String(512), unique=False, nullable=True)
+#    location = db.Column(db.String(512), unique=False, nullable=True)
+#    time = db.Column(db.Integer, default=0)
+#    description = db.Column(db.String(2048), unique=False, nullable=True)
+#    reward = db.Column(db.String(1024), unique=False, nullable=True)
+#    failure = db.Column(db.String(1024), unique=False, nullable=True)
+#
+#    def is_mandatory(self):
+#        ''' Return boolean if job is mandatory '''
+#        keywords = self.keywords.split(',')
+#        return 'Mandatory!' in keywords
+#
+#    def __repr__(self):
+#        # Perform any model-specific manipulations before returning
+#        dct = base_to_dict(self)
+#        out = "\n".join(["\t{0:20}: {1}".format(*item) for item in dct.items()])
+#        return "\n\t-----\n" + out
 
 
 class Trait(db.Model):
     '''
     HexCrawl Town Trait model
- 
+
     '''
     __tablename__ = "trait"
 
@@ -96,3 +106,108 @@ class Trait(db.Model):
         dct = base_to_dict(self)
         out = "\n".join(["\t{0:20}: {1}".format(*item) for item in dct.items()])
         return "\n\t-----\n" + out
+
+
+class Campaign(db.Model):
+    '''
+    HexCrawl Campaign Tracker model
+
+    '''
+    __tablename__ = "campaigns"
+
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(255), unique=True, nullable=False)
+    players = db.Column(db.String(512), unique=False, nullable=True)
+
+    def __repr__(self):
+        # Perform any model-specific manipulations before returning
+        dct = base_to_dict(self)
+        out = "\n".join(["\t{0:20}: {1}".format(*item) for item in dct.items()])
+        return "\n\t-----\n" + out
+
+
+class Town(db.Model):
+    '''
+    HexCrawl campaign towns
+
+    '''
+    __tablename__ = "towns"
+
+    id = db.Column(db.Integer, primary_key=True)
+    roll = db.Column(db.Integer)
+    campaign_id = db.Column(
+        db.Integer,
+        db.ForeignKey('campaigns.id'),
+        nullable=False,
+        index=True,
+    )
+    campaign = db.relationship(
+        'Campaign',
+        backref=db.backref(
+            'towns',
+            cascade='all,delete-orphan',
+            lazy='select',
+            order_by='Town.roll'
+        )
+    )
+
+    @hybrid_property
+    def name(self):
+        return town_charts.TOWN_NAMES.get(self.roll, 'Unknown town name')
+
+
+class TownLocation(db.Model):
+    '''
+    HexCrawl campaign town locations
+
+    '''
+    __tablename__ = "town_locations"
+
+    id = db.Column(db.Integer, primary_key=True)
+    roll = db.Column(db.Integer)
+    town_id = db.Column(
+        db.Integer,
+        db.ForeignKey('towns.id'),
+        nullable=False,
+        index=True,
+    )
+    town = db.relationship(
+        'Town',
+        backref=db.backref(
+            'locations',
+            cascade='all,delete-orphan',
+            lazy='select',
+            order_by='TownLocation.roll'
+        )
+    )
+
+    @hybrid_property
+    def name(self):
+        return town_charts.TOWN_LOCATIONS.get(self.roll, 'Unknown location')
+
+
+class Job(db.Model):
+    '''
+    HexCrawl campaign town jobs
+
+    '''
+    __tablename__ = "town_jobs"
+
+    id = db.Column(db.Integer, primary_key=True)
+    roll = db.Column(db.Integer)
+    #status = db.Column('status', db.Enum(JobStatus))
+    town_id = db.Column(
+        db.Integer,
+        db.ForeignKey('towns.id'),
+        nullable=False,
+        index=True,
+    )
+    origin = db.relationship(
+        'Town',
+        backref=db.backref(
+            'jobs',
+            cascade='all,delete-orphan',
+            lazy='select',
+            order_by='Job.id'
+        )
+    )

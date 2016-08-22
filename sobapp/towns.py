@@ -198,3 +198,10 @@ class Town:
                     "This town already has location id {}".format(num))
             else:
                 self._locations.add(num)
+
+    def make_jobs(self):
+        pass
+
+    @property
+    def jobs(self):
+        return ['job_%d' % x for x in range(1, 4)]

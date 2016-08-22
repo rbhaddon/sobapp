@@ -7,4 +7,5 @@
 HC = True
 
 if HC:
-    from hc_charts import TOWN_TRAITS
+    pass
+    # from hc_charts import TOWN_TRAITS

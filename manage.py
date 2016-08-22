@@ -5,7 +5,7 @@ import os
 from flask.ext.script import Manager, Server
 from flask.ext.script.commands import ShowUrls, Clean
 from sobapp import create_app
-from sobapp.models import db, User, Job, Trait
+from sobapp.models import db, Job, Trait, Town, Campaign, TownLocation
 
 # default to dev config because no one should use this in
 # production anyway
@@ -24,7 +24,15 @@ def make_shell_context():
         in the context of the app
     """
 
-    return dict(app=app, db=db, User=User)
+    return dict(
+        app=app,
+        db=db,
+        Job=Job,
+        Town=Town,
+        Trait=Trait,
+        Campaign=Campaign,
+        TownLocation=TownLocation,
+    )
 
 
 @manager.command
