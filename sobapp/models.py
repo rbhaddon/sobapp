@@ -126,15 +126,17 @@ class Campaign(db.Model):
         return "\n\t-----\n" + out
 
 
-class Town(db.Model):
+class World(db.Model):
     '''
-    HexCrawl campaign towns
+    HexCrawl campaign worlds
 
     '''
-    __tablename__ = "towns"
+    __tablename__ = "worlds"
 
     id = db.Column(db.Integer, primary_key=True)
-    roll = db.Column(db.Integer)
+    name = db.Column(
+        db.String(255), unique=True, nullable=False, default="Wild West"
+    )
     campaign_id = db.Column(
         db.Integer,
         db.ForeignKey('campaigns.id'),
@@ -144,7 +146,37 @@ class Town(db.Model):
     campaign = db.relationship(
         'Campaign',
         backref=db.backref(
-            'towns',
+            'worlds',
+            cascade='all,delete-orphan',
+            lazy='select',
+            order_by='World.name'
+        )
+    )
+
+    @hybrid_property
+    def name(self):
+        return town_charts.TOWN_NAMES.get(self.roll, 'Unknown town name')
+
+
+class Town(db.Model):
+    '''
+    HexCrawl campaign towns
+
+    '''
+    __tablename__ = "towns"
+
+    id = db.Column(db.Integer, primary_key=True)
+    roll = db.Column(db.Integer)
+    world_id = db.Column(
+        db.Integer,
+        db.ForeignKey('worlds.id'),
+        nullable=False,
+        index=True,
+    )
+    campaign = db.relationship(
+        'World',
+        backref=db.backref(
+            'worlds',
             cascade='all,delete-orphan',
             lazy='select',
             order_by='Town.roll'
@@ -195,7 +227,7 @@ class Job(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
     roll = db.Column(db.Integer)
-    #status = db.Column('status', db.Enum(JobStatus))
+    # status = db.Column('status', db.Enum(JobStatus))
     town_id = db.Column(
         db.Integer,
         db.ForeignKey('towns.id'),

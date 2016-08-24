@@ -19,3 +19,9 @@ dist/
 
 # OSX turds
 .DS_Store
+
+# SQLite DB
+*.db
+
+# Generated dummy JSON data
+*fake.json
