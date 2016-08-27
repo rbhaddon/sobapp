@@ -25,3 +25,13 @@ dist/
 
 # Generated dummy JSON data
 *fake.json
+
+# Don't store any graphic assets yet
+*.jpg
+*.jpeg
+*.png
+*.gif
+world_default_high.jpg
+world_default_medium.jpg
+world_jargono_high.jpg
+world_jargono_medium.jpg
