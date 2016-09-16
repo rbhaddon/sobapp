@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
     Generate fake data for dev testing
 
@@ -8,6 +9,7 @@
 '''
 
 from collections import OrderedDict
+from functools import wraps
 import json
 from random import choice
 
@@ -27,19 +29,33 @@ def gen_roll_d100():
         yield i
 
 
+def hc_chart(func):
+    wraps(func)
+    def wrapper(*args, **kwargs):
+        chart = []
+        for roll, data in func(*args, **kwargs):
+            entry = OrderedDict()
+            entry['roll'] = roll
+            entry['data'] = data
+            chart.append(entry)
+
+        return chart
+    return wrapper
+
+
+@hc_chart
 def make_town_traits(fake):
     ''' make hexcrawl town traits '''
-    chart = OrderedDict()
 
     for roll in gen_roll_d36():
         data = OrderedDict()
         data['name'] = fake.city()
         data['description'] = fake.catch_phrase()
-        chart[roll] = data
 
-    return chart
+        yield (roll, data)
 
 
+@hc_chart
 def make_jobs(fake):
     ''' make hexcrawl jobs '''
     locations = [
@@ -96,8 +112,6 @@ def make_jobs(fake):
         # ensures 'Job' is first
         return ['Job'] + list(kw_set)
 
-    chart = OrderedDict()
-
     for roll in gen_roll_d100():
         data = OrderedDict()
         data['title'] = fake.job()
@@ -108,18 +122,13 @@ def make_jobs(fake):
         data['description'] = fake.paragraphs()
         data['reward'] = fake.paragraph()
         data['failure'] = fake.paragraph()
-        chart[roll] = data
 
-    return chart
+        yield (roll, data)
 
 
+@hc_chart
 def make_encounters(fake):
     ''' make hexcrawl terrain encounters '''
-    types = ["Desert Terrain", "Forest Terrain", "Mine Terrain",
-             "Mountain Terrain", "Plains Terrain", "Railroad Terrain",
-             "River Terrain", "Road Terrain", "Swamp Terrain", "Town Terrain",
-             "Town Ruins Terrain", "Growing Dread Encounter"]
-
     keywords = [
         "Active",
         "Active",
@@ -172,23 +181,18 @@ def make_encounters(fake):
         # ensures 'Enounter' is first
         return ['Encounter'] + list(kw_set)
 
-    chart = OrderedDict()
-    for terrain in types:
-        terrain_encounters = OrderedDict()
-        for roll in range(1, 21):
-            encounter = OrderedDict()
-            encounter['name'] = fake.company()
-            encounter['keywords'] = get_keywords()
-            encounter['description'] = fake.paragraph()
-            terrain_encounters[roll] = encounter
-        chart[terrain] = terrain_encounters
+    for roll in range(1, 21):
+        encounter = OrderedDict()
+        encounter['name'] = fake.company()
+        encounter['keywords'] = get_keywords()
+        encounter['description'] = fake.paragraph()
 
-    return chart
+        yield (roll, encounter)
 
 
+@hc_chart
 def make_madness(fake):
     ''' make hexcrawl madness chart '''
-    chart = OrderedDict()
     for roll in gen_roll_d36():
         madness = OrderedDict()
         if roll in (11, 12):
@@ -199,11 +203,11 @@ def make_madness(fake):
             madness['name'] = fake.word().capitalize()
             madness['flavor'] = fake.paragraph()
             madness['effect'] = fake.sentence()
-        chart[roll] = madness
 
-    return chart
+        yield (roll, madness)
 
 
+@hc_chart
 def make_injury(fake):
     ''' make hexcrawl injury chart '''
     body_parts = [
@@ -242,7 +246,6 @@ def make_injury(fake):
         "dislocated"
     ]
 
-    chart = OrderedDict()
     used_names = []
     for roll in gen_roll_d36():
         injury = OrderedDict()
@@ -261,37 +264,58 @@ def make_injury(fake):
             injury['flavor'] = fake.paragraph()
             injury['effect'] = fake.sentence()
 
-        chart[roll] = injury
-
-    return chart
+        yield (roll, injury)
 
 
+@hc_chart
 def make_mutation(fake):
     ''' make hexcrawl mutation chart '''
-    chart = OrderedDict()
     for roll in gen_roll_d36():
         mutation = OrderedDict()
         mutation['name'] = fake.word().capitalize()
         mutation['effect'] = fake.catch_phrase()
-        chart[roll] = mutation
 
-    return chart
+        yield (roll, mutation)
+
 
 
 def factory_main():
     ''' generate all the charts and combine them into one dict '''
-    all_data = OrderedDict()
     fake = Faker()
+    chart_tuples = [
+        ('town_traits', make_town_traits),
+        ('jobs_board', make_jobs),
+        ('injuries', make_injury),
+        ('madnesses', make_madness),
+        ('mutations', make_mutation),
+    ]
 
-    all_data['town_traits'] = make_town_traits(fake)
-    all_data['jobs_board'] = make_jobs(fake)
-    all_data['terrain_encounters'] = make_encounters(fake)
-    all_data['injury'] = make_injury(fake)
-    all_data['madness'] = make_madness(fake)
-    all_data['mutation'] = make_mutation(fake)
+    enc_types = ["Desert Terrain", "Forest Terrain", "Mine Terrain",
+             "Mountain Terrain", "Plains Terrain", "Railroad Terrain",
+             "River Terrain", "Road Terrain", "Swamp Terrain", "Town Terrain",
+             "Town Ruins Terrain", "Growing Dread Encounter"]
 
-    return all_data
+    terrains = ["desert", "forest", "mine", "mountain", "plains", "railroad",
+             "river", "road", "swamp", "town", "townruins", "growingdread"]
+    
+    for terrain in terrains:
+        chart_tuples.append(
+            ('terrain_encounter_{}'.format(terrain), make_encounters)
+        )
 
+    #prefix = 'hc_'
+    prefix = 'fake_hc_'
+    for chart_name, func in chart_tuples:
+        filename = '{p}{n}.json'.format(p=prefix, n=chart_name)
+        with open(filename, 'w') as out:
+            print('\tWriting {}'.format(filename))
+            json.dump({"array": func(fake)}, out, indent=4)
 
 if __name__ == '__main__':
-    print(json.dumps(factory_main()))
+    print("Warning: This will overwrite previously generated HC charts!")
+    try:
+        input("Continue?")
+    except KeyboardInterrupt:
+        print("Canceled.")
+    else:
+        factory_main()

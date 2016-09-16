@@ -24,7 +24,7 @@ dist/
 *.db
 
 # Generated dummy JSON data
-*fake.json
+fake*.json
 
 # Don't store any graphic assets yet
 *.jpg
