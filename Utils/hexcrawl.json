@@ -1,0 +1,1150 @@
+{
+    "town_traits": {
+        "11": {
+            "name": "Dry",
+            "description": "This Town has declared alcohol to be a vile sin and forbids the purchase of or the imbibing of any alcoholic demon drink. Heroes may not purchase any alcoholic Side Bag Tokens here but may attempt to sell them at the Camp Site for twice the price. When attempting to sell, roll a D6. On a 1 or 2, the sale is discovered and the Heroes must end their Town Stay and cannot enter Town for a week."
+        },
+        "12": {
+            "name": "Dark Secret",
+            "description": ""
+        },
+        "13": {
+            "name": "No Stones Allowed",
+            "description": ""
+        },
+        "14": {
+            "name": "Dark Stone Infused",
+            "description": ""
+        },
+        "15": {
+            "name": "Shortages",
+            "description": ""
+        },
+        "16": {
+            "name": "Obligation",
+            "description": ""
+        },
+        "21": {
+            "name": "Degenerate",
+            "description": ""
+        },
+        "22": {
+            "name": "Bad Water",
+            "description": ""
+        },
+        "23": {
+            "name": "Inbred",
+            "description": ""
+        },
+        "24": {
+            "name": "Xenophobic",
+            "description": ""
+        },
+        "25": {
+            "name": "Unstable Gate",
+            "description": ""
+        },
+        "26": {
+            "name": "Foreigners",
+            "description": ""
+        },
+        "31": {
+            "name": "Heathens",
+            "description": ""
+        },
+        "32": {
+            "name": "Cannibals",
+            "description": ""
+        },
+        "33": {
+            "name": "Religious Cult",
+            "description": ""
+        },
+        "34": {
+            "name": "Boring",
+            "description": ""
+        },
+        "35": {
+            "name": "Bartering",
+            "description": ""
+        },
+        "36": {
+            "name": "Corrupt",
+            "description": ""
+        },
+        "41": {
+            "name": "Thieving",
+            "description": ""
+        },
+        "42": {
+            "name": "Slavers",
+            "description": ""
+        },
+        "43": {
+            "name": "Amazonian",
+            "description": ""
+        },
+        "44": {
+            "name": "Peaceful",
+            "description": ""
+        },
+        "45": {
+            "name": "Addicted",
+            "description": ""
+        },
+        "46": {
+            "name": "Nightmares",
+            "description": ""
+        },
+        "51": {
+            "name": "Artifact Decay",
+            "description": ""
+        },
+        "52": {
+            "name": "Bad Luck",
+            "description": ""
+        },
+        "53": {
+            "name": "Black Market",
+            "description": ""
+        },
+        "54": {
+            "name": "Jovial",
+            "description": ""
+        },
+        "55": {
+            "name": "Constructive",
+            "description": ""
+        },
+        "56": {
+            "name": "Cattle Yard",
+            "description": ""
+        },
+        "61": {
+            "name": "Law Abiding",
+            "description": ""
+        },
+        "62": {
+            "name": "Fancy House",
+            "description": ""
+        },
+        "63": {
+            "name": "Unstable Economy",
+            "description": ""
+        },
+        "64": {
+            "name": "Dimensional Paradox",
+            "description": ""
+        },
+        "65": {
+            "name": "Well-Defended",
+            "description": ""
+        },
+        "66": {
+            "name": "Unique Location",
+            "description": ""
+        }
+    },
+    "jobs": {
+        "1": {
+            "title": "X Marks the Spot",
+            "keywords": ["Job", "Frontier", "Find"],
+            "background": "A prospector has come across an old map, but doesn’t have the resources or the courage to follow it to the end and instead offers to sell you the map, though the Posse has no guarantee that the map actually leads to anything useful.",
+            "location": "Random Mine",
+            "time": 0,
+            "description": "This is an optional side Job that may be completed at any point in the future, but you automatically begin this Job in the next Mine you enter. You may roll for another Job, in addition to this Job. The next time the Heroes have a Mission in a Mine, they may go on an optional side mission to look for whatever this map is pointing towards. To go off in search of the reward: the Heroes need to make a Strength 4+ test at a closed doorway in the first available room in their current Mission. The Heroes then need to find 1 extra Clue Icon past that point to find the reward and this Clue Icon cannot be applied towards whatever their main mission is in that Mine.",
+            "reward": "Each Hero in the Posse gains 25 XP. Upon locating the Clue Icon, the Heroes come across an ancient chest. Roll a D8 to discover what If the Posse gives up on the Job, doesn't find the chest on this Mission or loses the map for whatever reason, then someone or something else finds the treasure before them. The Job is over. lies inside: 1 You’ve sprung a trap! Each Hero takes D6 Wounds from the exploding chest! 2-7 You’ve found a chest filled with gold! Each Hero gets D3x$50. 8 Draw 1 Mine Artifact",
+            "failure": "If the Posse gives up on the Job, doesn't find the chest on this Mission or loses the map for whatever reason, then someone or something else finds the treasure before them. The Job is over."
+        },
+        "2": {
+            "title": "Inexplicable Murder",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "3": {
+            "title": "Last Stand",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "4": {
+            "title": "The Charon Express",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "5": {
+            "title": "Arzhakov's Gate",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "6": {
+            "title": "Slave Labor",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "7": {
+            "title": "Derailed Train",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "8": {
+            "title": "The Dead Don't Stay Dead",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "9": {
+            "title": "Indian War Party",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "10": {
+            "title": "At Loggerheads",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "11": {
+            "title": "Gun Fighting Competition",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "12": {
+            "title": "Bounty Huntin'",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "13": {
+            "title": "Raging River Rescue",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "14": {
+            "title": "Cowboys and Aliens",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "15": {
+            "title": "job_15",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "16": {
+            "title": "job_16",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "17": {
+            "title": "job_17",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "18": {
+            "title": "job_18",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "19": {
+            "title": "job_19",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "20": {
+            "title": "job_20",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "21": {
+            "title": "job_21",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "22": {
+            "title": "job_22",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "23": {
+            "title": "job_23",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "24": {
+            "title": "job_24",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "25": {
+            "title": "job_25",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "26": {
+            "title": "job_26",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "27": {
+            "title": "job_27",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "28": {
+            "title": "job_28",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "29": {
+            "title": "job_29",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "30": {
+            "title": "job_30",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "31": {
+            "title": "job_31",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "32": {
+            "title": "job_32",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "33": {
+            "title": "job_33",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "34": {
+            "title": "job_34",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "35": {
+            "title": "job_35",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "36": {
+            "title": "job_36",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "37": {
+            "title": "job_37",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "38": {
+            "title": "job_38",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "39": {
+            "title": "job_39",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "40": {
+            "title": "job_40",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "41": {
+            "title": "job_41",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "42": {
+            "title": "job_42",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "43": {
+            "title": "job_43",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "44": {
+            "title": "job_44",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "45": {
+            "title": "job_45",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "46": {
+            "title": "job_46",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "47": {
+            "title": "job_47",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "48": {
+            "title": "job_48",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "49": {
+            "title": "job_49",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "50": {
+            "title": "job_50",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "51": {
+            "title": "job_51",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "52": {
+            "title": "job_52",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "53": {
+            "title": "job_53",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "54": {
+            "title": "job_54",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "55": {
+            "title": "job_55",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "56": {
+            "title": "job_56",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "57": {
+            "title": "job_57",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "58": {
+            "title": "job_58",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "59": {
+            "title": "job_59",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "60": {
+            "title": "job_60",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "61": {
+            "title": "job_61",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "62": {
+            "title": "job_62",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "63": {
+            "title": "job_63",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "64": {
+            "title": "job_64",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "65": {
+            "title": "job_65",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "66": {
+            "title": "job_66",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "67": {
+            "title": "job_67",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "68": {
+            "title": "job_68",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "69": {
+            "title": "job_69",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "70": {
+            "title": "job_70",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "71": {
+            "title": "job_71",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "72": {
+            "title": "job_72",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "73": {
+            "title": "job_73",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "74": {
+            "title": "job_74",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "75": {
+            "title": "job_75",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "76": {
+            "title": "job_76",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "77": {
+            "title": "job_77",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "78": {
+            "title": "job_78",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "79": {
+            "title": "job_79",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "80": {
+            "title": "job_80",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "81": {
+            "title": "job_81",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "82": {
+            "title": "job_82",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "83": {
+            "title": "job_83",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "84": {
+            "title": "job_84",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "85": {
+            "title": "job_85",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "86": {
+            "title": "job_86",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "87": {
+            "title": "job_87",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "88": {
+            "title": "job_88",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "89": {
+            "title": "job_89",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "90": {
+            "title": "job_90",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "91": {
+            "title": "job_91",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "92": {
+            "title": "job_92",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "93": {
+            "title": "job_93",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "94": {
+            "title": "job_94",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "95": {
+            "title": "job_95",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "96": {
+            "title": "job_96",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "97": {
+            "title": "job_97",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "98": {
+            "title": "job_98",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "99": {
+            "title": "job_99",
+            "keywords": [],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        },
+        "100": {
+            "title": "Wanted: An Ugly, No Good Bandido",
+            "keywords": ["Job", "Law", "Bounty"],
+            "background": "",
+            "location": "",
+            "time": 0,
+            "description": "",
+            "reward": "",
+            "failure": ""
+        }
+    }
+}
