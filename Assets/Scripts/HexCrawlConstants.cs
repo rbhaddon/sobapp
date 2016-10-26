@@ -61,36 +61,23 @@ namespace HexCrawlConstants {
 
 		public enum JobState {Started, Not_Started, Passed, Failed};
 
-		public enum Trait {None, Trait1, Trait2, Trait3};
+		//public enum Trait {None, Trait1, Trait2, Trait3};
 
 		public enum BuiltInType {Campsite, Hotel};
 
-		public enum LocationType {
-			GeneralStore, FrontierOutpost, Church, DocsOffice, Saloon, Blacksmith, SheriffsOffice,
-			GamblingHall, StreetMarket, SmugglersDen, MutantQuarter, IndianTradingPost 
+		public static Dictionary<int, string> Locations = new Dictionary<int, string>() {
+			{1, "General Store"},
+			{2, "Frontier Outpost"},
+			{3, "Church"},
+			{4, "Doc's Office"},
+			{5, "Saloon"},
+			{6, "Blacksmith"},
+			{7, "Sheriff's Office"},
+			{8, "Gambling Hall"},
+			{9, "Street Market"},
+			{10, "Smuggler's Den"},
+			{11, "Mutant Quarter"},
+			{12, "Indian Trading Post"},
 		};
-
-		//}
-
-		public static string[] LocationTypeName = {
-			"General Store",
-			"Frontier Outpost",
-			"Church",
-			"Doc's Office",
-			"Saloon",
-			"Blacksmith",
-			"Sheriff's Office",
-			"Gambling Hall",
-			"Street Market",
-			"Smuggler's Den",
-			"Mutant Quarter",
-			"Indian Trading Post"
-		};
-
-		public static string LocationToString(LocationType location)
-		{
-			return LocationTypeName [(int)location];
-		}
-
 	}
 }

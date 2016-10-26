@@ -2,6 +2,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 using HexCrawlConstants;
 
@@ -14,10 +15,10 @@ public class Town
 	public int max_size;
 	public int max_builtins;
 	public string type;
-	public TownData.Trait trait;
+	public TownTrait trait;
 	public JobData[] jobs;
 	public TownData.BuiltInType[] builtIns;
-	public TownData.LocationType[] locations;
+	public List<int> locations = new List<int>();
 	public string[] keywords;
 
 	public Town()
@@ -28,11 +29,14 @@ public class Town
 		max_size = TownData.MAX_LOCATIONS;
 		max_builtins = TownData.MAX_BUILTINS;
 		type = GetTownType ();
-		trait = TownData.Trait.Trait1;
+		trait = new TownTrait ();
 		jobs = new JobData [TownData.MAX_BUILTINS];
 		builtIns = new TownData.BuiltInType[] {TownData.BuiltInType.Campsite, TownData.BuiltInType.Hotel};
-		locations = new TownData.LocationType [size];
+//		for (int i = 0; i < size; i++) {
+//			locations.Add(Roll.D12 ());
+		//		}
 		keywords = new string[]{ "Town" };
+		SetLocations (size);
 	}
 
 	public static Town Create()
@@ -61,6 +65,33 @@ public class Town
 
 		return type;
 	}
+
+	public void SetLocations(int num, params int[] fixedLocs)
+	{
+		List<int> responses = new List<int>();
+		Dictionary<int, string> locations = new Dictionary<int, string>(TownData.Locations);
+
+		foreach (int loc in fixedLocs)
+		{
+			responses.Add(loc);
+			if (locations.ContainsKey (loc)) {
+				locations.Remove (loc);
+			}
+		}
+
+		if (fixedLocs.Length >= num)
+		{
+			this.locations = responses;
+		}
+
+		foreach (int pick in locations.Keys.OrderBy (x => TownData.random.Next ()).Take (num - fixedLocs.Length))
+		{
+			responses.Add (pick);
+		}
+		this.locations = responses;
+
+
+	}
 }
 
 [Serializable]
@@ -71,11 +102,4 @@ public class JobData
 	public string startLocation = "";
 	public string turnInLocation = "";
 	public TownData.JobState jobState;	
-}
-
-[Serializable]
-public class LocationData
-{
-	public string locationId;
-	public TownData.LocationType loctionType;
 }

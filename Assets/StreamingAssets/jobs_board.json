@@ -1,0 +1,2104 @@
+{
+    "array": [
+        {
+            "roll": 1,
+            "data": {
+                "title": "Scientist, research (maths)",
+                "keywords": [
+                    "Job",
+                    "Frontier",
+                    "Delivery"
+                ],
+                "background": "Error cupiditate laborum error dignissimos.",
+                "location": "Random Mine",
+                "time": 7,
+                "description": [
+                    "Facere commodi quisquam nobis et cum atque. Accusantium consectetur est asperiores repellendus temporibus iusto autem. Ipsam ex ab distinctio repellat voluptate reiciendis. Odio quisquam quos dolor natus ipsum.",
+                    "Minus aspernatur enim possimus distinctio aut. Tempora sequi alias molestias veniam enim sit. Perspiciatis esse voluptatibus odit consectetur veniam assumenda magnam quae. Fuga ex tenetur cupiditate illum quasi autem error.",
+                    "In aspernatur ducimus perferendis voluptate minus magni. Autem molestias blanditiis voluptatem quia. Dolores animi illum porro placeat."
+                ],
+                "reward": "Quod veniam omnis error mollitia iusto ipsam alias. Assumenda earum tenetur nihil recusandae consequatur magni. Cumque quibusdam ipsam minima dolorem atque similique. Modi quas laborum eum modi eaque rem atque.",
+                "failure": "Sint dolores reiciendis voluptatum veritatis quia ex odio. Non iste excepturi modi voluptatum. Nam ipsa temporibus aliquam est maiores beatae ullam corrupti."
+            }
+        },
+        {
+            "roll": 2,
+            "data": {
+                "title": "Advertising account executive",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Fight"
+                ],
+                "background": "Facilis reiciendis sunt illo officia.",
+                "location": "Random Town",
+                "time": 5,
+                "description": [
+                    "Quaerat totam id beatae. Voluptatem odio repellendus nam delectus aliquam autem molestias. Repudiandae nemo porro minima nemo nulla est.",
+                    "Numquam amet dolorem nobis amet qui ab in. Explicabo tempora dicta velit. Accusamus culpa repudiandae ut corporis deserunt.",
+                    "Molestias alias veritatis ab eaque. Praesentium ipsa a doloremque repellat velit id necessitatibus. Excepturi laudantium enim sed omnis natus debitis alias. Aperiam iusto eveniet assumenda velit autem quae voluptatum."
+                ],
+                "reward": "Similique vitae odit deserunt laudantium consequuntur. Totam cum dolore ex ducimus aut accusamus. Sequi architecto eos laboriosam.",
+                "failure": "Quasi iste nemo tempora labore quia est maiores. Debitis velit deleniti sunt molestias. Repudiandae necessitatibus minus voluptates corrupti. Quo molestias autem cumque porro nihil molestias rem accusamus."
+            }
+        },
+        {
+            "roll": 3,
+            "data": {
+                "title": "Marine scientist",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Escort"
+                ],
+                "background": "Tempora quod quibusdam voluptatibus perferendis facere.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Nobis eos veritatis porro vitae. Quo maiores eius tenetur ad exercitationem optio. A vero nobis dolores provident possimus.",
+                    "Nesciunt tempora velit eos cupiditate earum praesentium. Quidem est odio sapiente omnis odit doloremque qui. Et molestiae dolore cumque tenetur alias iusto incidunt. Aperiam natus voluptate ad fugiat.",
+                    "Nostrum possimus voluptate neque. Praesentium accusantium itaque accusantium pariatur distinctio. Esse debitis tenetur quasi omnis nihil incidunt."
+                ],
+                "reward": "Ab eum modi explicabo quisquam qui fuga. Tenetur exercitationem iste eum cumque. Officiis nemo molestias nisi modi sint perferendis expedita iure.",
+                "failure": "Labore iure velit sint nostrum ea neque autem. Quibusdam occaecati ipsam necessitatibus recusandae esse blanditiis ipsum. Inventore saepe maiores dicta. Voluptatibus dignissimos quos repellendus rem minus."
+            }
+        },
+        {
+            "roll": 4,
+            "data": {
+                "title": "Librarian, public",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Research"
+                ],
+                "background": "Odit perferendis quas quisquam numquam.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Placeat adipisci incidunt reiciendis culpa alias voluptatum aut. Ipsum rem dolores placeat incidunt. Ipsum voluptas quod a vero et sunt minus. Tenetur quibusdam veniam natus voluptatem fugiat deserunt.",
+                    "Earum facere magnam earum in. Temporibus hic doloremque distinctio quibusdam aperiam alias. Possimus saepe quisquam ad ea dolores dolor fugit. Minus delectus eius nostrum itaque.",
+                    "Animi sequi deleniti sapiente eveniet cumque. Iste pariatur voluptas quas quidem temporibus sequi fuga. Cum ipsam molestiae corrupti. Labore praesentium pariatur ipsa soluta unde labore."
+                ],
+                "reward": "Natus perspiciatis ex consequuntur illo deleniti. Earum doloribus delectus beatae. Sequi minus libero error eius voluptates quis repellendus ad. Libero ex aut et fugiat.",
+                "failure": "Ex tempore earum temporibus architecto dolores officia. Veritatis mollitia molestiae ipsam laboriosam labore. Tempora fugiat asperiores tempora voluptatibus neque."
+            }
+        },
+        {
+            "roll": 5,
+            "data": {
+                "title": "Customer service manager",
+                "keywords": [
+                    "Job",
+                    "Frontier",
+                    "Holy"
+                ],
+                "background": "Harum possimus pariatur temporibus maxime magnam.",
+                "location": "Random Town",
+                "time": 5,
+                "description": [
+                    "Nulla quos asperiores voluptate odio ipsam ab consequatur vel. Quos nulla repudiandae nobis repellat sequi cumque. Cumque odit fugit repellat.",
+                    "Eligendi ab architecto ex. Vitae esse fuga harum impedit nisi impedit sunt. Tempora dicta voluptates culpa explicabo sint. Autem deserunt aliquam delectus quae enim.",
+                    "Praesentium repellat quaerat tempore quos accusamus dolore. Quis ratione ex beatae placeat ad quasi. Reprehenderit doloribus dolor repudiandae corrupti porro dolorum pariatur."
+                ],
+                "reward": "Suscipit modi et illum quod animi. Dolor fugiat sapiente neque voluptatem quis repellat. Atque vero odit eius itaque harum non. Iure quam ab praesentium tempore officiis pariatur.",
+                "failure": "Maiores eum eius fugiat vel velit ipsum. Omnis perspiciatis deserunt qui natus. Vero sapiente accusamus nihil eligendi velit officiis commodi."
+            }
+        },
+        {
+            "roll": 6,
+            "data": {
+                "title": "Therapist, nutritional",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Settler"
+                ],
+                "background": "Cupiditate quo ducimus voluptatibus id libero earum placeat veritatis.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "At vel animi est at. Sapiente nisi nemo praesentium. Dolores sit incidunt quos ad velit culpa. Vero omnis iste vel dolore sequi recusandae.",
+                    "Consequatur occaecati doloremque itaque a quis dicta. Dolores maxime sapiente excepturi minima eaque officia consequuntur. Doloribus blanditiis nesciunt odio dolore deleniti. Facere eligendi maxime repellendus aliquid consequatur nulla nam.",
+                    "Labore deserunt possimus alias. Nulla voluptatem dolorem corporis odio. Alias blanditiis numquam voluptatem amet. Mollitia adipisci laboriosam ipsum praesentium nobis occaecati dolorum quidem."
+                ],
+                "reward": "Corrupti eum saepe magnam magnam quisquam neque ratione. Mollitia beatae illum accusamus dolorem. Nostrum qui ducimus magnam dolorem sunt eaque.",
+                "failure": "Aperiam doloribus ducimus molestias occaecati beatae dicta. Tempora illo iure asperiores magni incidunt. Tempore eum quasi illum."
+            }
+        },
+        {
+            "roll": 7,
+            "data": {
+                "title": "Engineer, materials",
+                "keywords": [
+                    "Job",
+                    "Holy",
+                    "Negotiation"
+                ],
+                "background": "Officia ex eveniet praesentium sint magnam incidunt totam.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Voluptates ex possimus beatae harum rerum earum. Autem consequatur a reiciendis culpa. Quisquam velit consectetur voluptate. Numquam libero doloremque nulla autem.",
+                    "Minima dolorum repellendus praesentium quibusdam reprehenderit ipsum similique. Corrupti odio aut ullam. Sit veniam quo ut cupiditate eum. Saepe iste facilis reiciendis laborum temporibus vel sapiente.",
+                    "Officia cumque ullam reprehenderit adipisci laudantium voluptates. Eius in corporis dolore eaque recusandae. Nostrum consectetur autem optio necessitatibus sapiente dignissimos aut. Illum excepturi excepturi quaerat aut quisquam."
+                ],
+                "reward": "Ipsum in laudantium minima. Itaque asperiores accusantium occaecati facilis dolor repellendus. Minima minus occaecati quis id repellendus sapiente ex. Necessitatibus ipsam quaerat repellat beatae ad corrupti nisi.",
+                "failure": "Ipsum dignissimos exercitationem necessitatibus nostrum fuga labore. Inventore harum nobis voluptatibus porro perspiciatis repellat ipsum. Molestias ipsa cum recusandae dignissimos."
+            }
+        },
+        {
+            "roll": 8,
+            "data": {
+                "title": "Architectural technologist",
+                "keywords": [
+                    "Job",
+                    "Train",
+                    "Tribal"
+                ],
+                "background": "Suscipit accusantium in nobis.",
+                "location": "Local Town",
+                "time": 10,
+                "description": [
+                    "Corporis deserunt reiciendis ipsam maiores corrupti. Ratione enim voluptatum impedit possimus possimus necessitatibus quam. Molestias in exercitationem similique. In soluta ullam reprehenderit. Ratione quae libero ullam deleniti corrupti ab nihil.",
+                    "Cum nam qui mollitia maiores adipisci libero inventore. Consequatur quaerat officiis aliquid in. Deserunt recusandae maiores suscipit repellat id.",
+                    "Sint tempore consectetur id numquam odio facere atque. Enim itaque quidem incidunt. Quod facilis voluptates repellendus consequatur quibusdam odit."
+                ],
+                "reward": "Atque deleniti odio laudantium fugit minus. Voluptatibus eos quam voluptate vero esse. Exercitationem delectus alias eveniet minus deserunt error ratione. Perspiciatis ipsam id doloribus amet voluptates.",
+                "failure": "Enim autem sed mollitia. Itaque aliquid debitis temporibus. Doloribus pariatur recusandae animi nostrum beatae non. Id et sequi molestias delectus."
+            }
+        },
+        {
+            "roll": 9,
+            "data": {
+                "title": "Minerals surveyor",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Strange"
+                ],
+                "background": "Tenetur corrupti ut occaecati quo voluptates sequi ipsa.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Pariatur deleniti esse quae illo accusamus possimus. Dolore quaerat illum doloribus perferendis praesentium recusandae atque. Ea ad accusantium minima vero. Et recusandae deserunt cum fugit debitis aliquid ad.",
+                    "Molestias dolor veritatis ipsa. Ea reprehenderit amet assumenda enim doloremque. Facere voluptatem minus facilis possimus. Sunt iusto autem in odit sunt animi doloremque. At ea dolorum odio incidunt dicta magni laborum amet.",
+                    "Nulla incidunt sapiente doloribus eaque blanditiis. Repellat animi quos nesciunt repellendus dolores. Ex dignissimos perspiciatis rem at. Dicta magnam atque laudantium accusamus dolorum beatae dolore."
+                ],
+                "reward": "Rem harum est amet nemo. Consequuntur voluptas sint numquam maxime quod asperiores deserunt. Quidem sequi sed ipsam sint ipsa ipsum ullam reprehenderit.",
+                "failure": "Eligendi error temporibus laborum magnam dignissimos. Sapiente illum natus velit quas quibusdam."
+            }
+        },
+        {
+            "roll": 10,
+            "data": {
+                "title": "Plant breeder/geneticist",
+                "keywords": [
+                    "Job",
+                    "Delivery",
+                    "Rumor"
+                ],
+                "background": "Labore placeat illo earum ducimus similique totam architecto.",
+                "location": "Local Town",
+                "time": 5,
+                "description": [
+                    "Laudantium ipsa consectetur provident officia. Sint tempore deleniti eius aperiam. Exercitationem accusantium fugiat vitae soluta aliquam facere.",
+                    "Totam aperiam aut quo a recusandae tempora voluptate. Aliquid aliquam ad quibusdam neque optio eligendi enim.",
+                    "Autem tempore placeat perspiciatis ipsum veritatis. Excepturi error asperiores nulla molestias corrupti. Dignissimos ducimus culpa pariatur accusamus consequatur."
+                ],
+                "reward": "Dolores quae dignissimos iure reprehenderit necessitatibus maiores. Ipsum et tenetur velit odio. Ab eum autem earum voluptas eos quam velit. Perspiciatis necessitatibus possimus in sapiente et aspernatur ipsa.",
+                "failure": "Deleniti qui accusamus explicabo sunt eum voluptatum officiis. Culpa veniam cumque autem perferendis dolore occaecati distinctio. Corrupti ut ut incidunt eum asperiores maiores at. Aliquam aut iste odio asperiores ipsa sapiente."
+            }
+        },
+        {
+            "roll": 11,
+            "data": {
+                "title": "Advertising art director",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Strange"
+                ],
+                "background": "Maxime totam reprehenderit quam eaque tempora placeat amet.",
+                "location": "Local Town",
+                "time": 15,
+                "description": [
+                    "Voluptates vel ad ab modi culpa magnam animi. Officia ab sequi et unde velit. Voluptates tempora quod corporis.",
+                    "Sapiente molestiae nostrum porro praesentium quo quod. Vero asperiores modi temporibus. Quaerat distinctio consequatur ab quia.",
+                    "Unde asperiores reiciendis architecto nisi similique mollitia. Corrupti non vitae omnis et. Veniam tempore cumque esse."
+                ],
+                "reward": "Adipisci modi odit quia accusantium rem. Veniam cupiditate ab incidunt quam voluptates quod. Dolorum ullam alias possimus dolorem ab. Officia officia officia doloremque saepe.",
+                "failure": "Minus eius maxime laborum ex. Aspernatur nemo eveniet voluptate tenetur doloribus beatae. Enim doloribus distinctio distinctio assumenda tempore nostrum et. Dolore reprehenderit perferendis minus esse nihil ab harum in."
+            }
+        },
+        {
+            "roll": 12,
+            "data": {
+                "title": "Brewing technologist",
+                "keywords": [
+                    "Job",
+                    "Escort",
+                    "Occult"
+                ],
+                "background": "Doloribus laudantium deserunt perferendis corporis iste ullam.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Maiores corrupti necessitatibus sunt aliquid. Nostrum omnis natus delectus iusto consectetur. Odio voluptatum laudantium alias ratione.",
+                    "Repudiandae iure numquam provident. Quis beatae sunt hic tempora consectetur earum. Inventore impedit aut ex quaerat. In quisquam maiores doloremque facere rem.",
+                    "Odit ipsam corrupti maiores error voluptates eius. Libero placeat molestias illo temporibus. Nobis fugit corporis maxime ipsam. Iure ducimus ipsa tenetur nostrum velit unde cum eius. Quo adipisci officiis facilis deleniti saepe."
+                ],
+                "reward": "Dolore expedita pariatur quam quos. Harum aliquam asperiores error.",
+                "failure": "Dolorum blanditiis distinctio sed aliquam eum itaque. Eum maxime iure a odit culpa porro ea. Quisquam repudiandae eum ipsum doloremque debitis nam. Neque est ipsum itaque rem inventore."
+            }
+        },
+        {
+            "roll": 13,
+            "data": {
+                "title": "Engineer, materials",
+                "keywords": [
+                    "Job",
+                    "Tribal",
+                    "Strange"
+                ],
+                "background": "Consequuntur exercitationem tempora sequi quibusdam.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Cumque eligendi iure numquam aliquam. Consectetur error modi dolore eius. Aspernatur quos beatae magnam molestias velit nulla. Unde quae error minus quidem fugit delectus accusamus.",
+                    "Necessitatibus maxime possimus minus iste vitae consectetur. Nulla est incidunt incidunt impedit accusamus beatae. Ea ratione maxime omnis expedita harum.",
+                    "Consectetur voluptatum ab itaque rerum. Corrupti nulla magni voluptatum."
+                ],
+                "reward": "Fuga culpa aut hic aspernatur dicta blanditiis dolor. Minus tempora odit sit placeat. Odio eius dolorum doloribus quidem. Molestiae ullam porro mollitia sequi odio nam velit.",
+                "failure": "Sunt aut quis distinctio consequuntur impedit. Labore ab laudantium quas vero modi culpa. Voluptatem soluta nemo quod vel ad earum at. Minima tempora modi doloribus rem."
+            }
+        },
+        {
+            "roll": 14,
+            "data": {
+                "title": "Radiographer, therapeutic",
+                "keywords": [
+                    "Job",
+                    "Labor",
+                    "Youth"
+                ],
+                "background": "Accusamus tempora repudiandae minima aliquid nemo.",
+                "location": "Random Town",
+                "time": 15,
+                "description": [
+                    "Saepe dolore sed quo. Deserunt voluptate nihil exercitationem perspiciatis. Deserunt sequi laboriosam iste. Laborum necessitatibus labore quasi laboriosam enim tempore.",
+                    "Magni voluptate odit explicabo qui. Consequatur impedit accusantium quae vitae consequatur. Officia odio voluptatem doloribus sequi earum aperiam inventore. Quod eaque eligendi iusto consequatur corporis quisquam nemo.",
+                    "Cum quisquam praesentium quasi voluptatem. Ipsam rerum rerum qui. Impedit totam ea quo qui repellendus a quae."
+                ],
+                "reward": "Iusto rem ratione alias rerum incidunt veritatis nostrum. Ipsum alias labore quaerat consequatur nihil. Ducimus quo tenetur sint dolorum iure delectus. Facere quisquam ratione hic recusandae deleniti. Sunt optio nemo ipsum deserunt debitis maiores ipsa.",
+                "failure": "Aspernatur nulla quam quam autem at illo harum. Dignissimos veritatis molestias voluptatibus quaerat repellat et nihil quis. Aperiam tenetur explicabo magnam neque."
+            }
+        },
+        {
+            "roll": 15,
+            "data": {
+                "title": "Biomedical engineer",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Settler"
+                ],
+                "background": "Architecto delectus quod reprehenderit ea perferendis quos.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Sapiente ratione non deserunt perferendis. Eaque officiis perferendis aliquam. Beatae natus assumenda rem ipsa praesentium nobis.",
+                    "Repellat possimus aliquam tenetur error impedit possimus voluptate. Dolores nobis suscipit minima aliquam. Tempore expedita distinctio temporibus laborum asperiores nesciunt. Corporis sit commodi minima excepturi. Quo quibusdam laborum molestias corporis.",
+                    "Animi nisi expedita dolore optio placeat molestias. Itaque voluptate deserunt sint ad. Iure velit veniam est neque. Corrupti dolore sequi ut laborum."
+                ],
+                "reward": "Illo quo officia officiis temporibus laboriosam. Rerum voluptas sequi alias alias libero tenetur nam. Alias quas autem architecto esse blanditiis.",
+                "failure": "Porro necessitatibus inventore nobis sint laborum laboriosam. Iusto error quae tenetur nulla. Quis id recusandae assumenda. Dolorum excepturi laboriosam ipsum porro tempore blanditiis suscipit."
+            }
+        },
+        {
+            "roll": 16,
+            "data": {
+                "title": "Civil Service fast streamer",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Settler"
+                ],
+                "background": "Beatae tempora minus veritatis odio in autem ipsum ipsa.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Ipsum commodi laudantium optio ex ex perferendis expedita. Eveniet optio fugiat hic maiores hic laboriosam.",
+                    "Similique repellat mollitia quam debitis voluptatem. Libero quia asperiores at quo. Repellendus libero dignissimos natus corporis.",
+                    "Maxime eveniet ipsum dolor voluptatum. Voluptate atque ratione doloremque dolores eius. Sed rem nihil dicta hic dignissimos nulla vitae. Delectus modi sint laborum in saepe esse ex. Sapiente commodi a occaecati odit ipsum."
+                ],
+                "reward": "Id architecto ut nostrum iure quaerat praesentium. Odit quisquam maxime reprehenderit non. Quis praesentium eos ex alias. Mollitia molestiae maiores officia natus rerum quod aperiam necessitatibus.",
+                "failure": "Voluptatum animi deserunt veniam labore quas aliquid. Deserunt nihil sed impedit enim perferendis doloremque commodi. A odio a ex vitae. Quidem hic placeat consequuntur iusto quos rerum maiores."
+            }
+        },
+        {
+            "roll": 17,
+            "data": {
+                "title": "IT sales professional",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Escort"
+                ],
+                "background": "Doloremque labore at iure sapiente nulla.",
+                "location": "Random Mine",
+                "time": 15,
+                "description": [
+                    "Iusto autem ipsa excepturi adipisci. Eaque optio earum possimus recusandae repellat earum repudiandae. Magni inventore non minima culpa. Ab aut minima doloremque non commodi sint.",
+                    "Aliquid neque magni perspiciatis dolore repellat. Nobis velit beatae nulla omnis eligendi quis nostrum. Repudiandae aspernatur rem officia sapiente.",
+                    "Doloribus ad adipisci aliquid dolores modi architecto. Eligendi animi quidem placeat. Repellendus officiis eum vitae illo laudantium earum sunt. Corrupti debitis minus distinctio atque ea."
+                ],
+                "reward": "Nam vel velit praesentium tempore dolorem. Voluptates eius explicabo doloremque nisi vero. Iusto ipsa porro distinctio ducimus.",
+                "failure": "Dignissimos mollitia nostrum rerum explicabo consequuntur facere laudantium. Corporis quae dolor veniam similique neque. Similique ullam ipsam architecto autem natus distinctio pariatur totam."
+            }
+        },
+        {
+            "roll": 18,
+            "data": {
+                "title": "Multimedia specialist",
+                "keywords": [
+                    "Job",
+                    "Science",
+                    "Outlaw"
+                ],
+                "background": "Eos eveniet dolorem possimus ab laborum.",
+                "location": "Random Town",
+                "time": 5,
+                "description": [
+                    "Accusamus alias quibusdam facere minus tenetur maxime voluptatem. Veniam at aspernatur incidunt consequatur neque. Magni rerum voluptas laudantium nisi incidunt ratione. Earum ab occaecati rem voluptates nobis.",
+                    "Voluptatibus a fuga doloremque soluta debitis autem. Facilis vitae quidem ab architecto vel. Eaque commodi eaque vero fuga.",
+                    "Reprehenderit facilis minima optio dolorum quae iste. Amet laborum numquam suscipit id. Ipsa doloribus ducimus non dicta accusamus. Tempore perspiciatis temporibus in aperiam omnis nemo."
+                ],
+                "reward": "Cum nulla recusandae rerum expedita inventore ratione. Unde facilis odio error eius. Similique officiis temporibus eum reprehenderit eos dolores. Reiciendis nemo necessitatibus laudantium unde tempora sapiente.",
+                "failure": "Voluptatibus dolorem blanditiis commodi sequi. Tempora accusamus assumenda aliquid veniam ea. Nisi non sint ipsa nobis dolore quis saepe. Maiores eius corporis perspiciatis beatae totam reiciendis."
+            }
+        },
+        {
+            "roll": 19,
+            "data": {
+                "title": "Media planner",
+                "keywords": [
+                    "Job",
+                    "Politics",
+                    "Occult"
+                ],
+                "background": "Voluptatem aliquam aspernatur aspernatur.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Fugit reiciendis ullam quibusdam quasi nulla. Harum quia quibusdam iusto voluptates. Dicta eligendi unde non. Reiciendis tempora nesciunt ducimus cum enim magni incidunt.",
+                    "Neque voluptates tempore veniam inventore possimus. Facere quisquam eveniet minima explicabo harum veniam officiis. Dicta voluptatibus deleniti eveniet ab accusantium veritatis officia.",
+                    "Quis corporis quisquam earum architecto quibusdam voluptates quos reprehenderit. Aut vel tenetur quidem adipisci soluta ex eos. Perferendis rerum tempora repellendus dolorum perferendis asperiores. Quis impedit molestiae hic odit dicta."
+                ],
+                "reward": "Veniam impedit odit soluta architecto earum voluptatum. Commodi quos facilis tempora id. Sed maiores nam blanditiis repellendus suscipit. Laudantium saepe delectus inventore laudantium.",
+                "failure": "Ut minus dicta at. Occaecati velit ut eos atque. At a vel iure at labore cupiditate praesentium. Unde pariatur voluptas nam sed cum inventore aperiam."
+            }
+        },
+        {
+            "roll": 20,
+            "data": {
+                "title": "Network engineer",
+                "keywords": [
+                    "Job",
+                    "Negotiation",
+                    "Supernatural"
+                ],
+                "background": "Fugit earum ipsa modi ullam fugit.",
+                "location": "Random Mine",
+                "time": 15,
+                "description": [
+                    "Suscipit laudantium nisi atque voluptatum totam quam a voluptate. Tempore incidunt illum impedit corporis. Quae saepe voluptatum illo impedit.",
+                    "Nam molestiae quis quos vitae eos blanditiis. Ipsa facere rerum amet saepe animi consequuntur optio. Aspernatur deleniti voluptatibus sed. Repellendus quidem quasi aut maxime sed quod cumque illum.",
+                    "Enim molestias ullam itaque aliquid nemo laudantium. Odit inventore ab ipsam incidunt. Dolorum aspernatur provident aut earum magnam."
+                ],
+                "reward": "Quam odio iure nobis earum in. Veniam atque labore rem sint nihil. Voluptates quam reiciendis error reprehenderit velit aliquam fuga. Quaerat ab id fugiat nisi incidunt. Quasi nesciunt impedit culpa reiciendis veniam.",
+                "failure": "Qui impedit quas facilis quos. Aperiam ad necessitatibus minus laboriosam temporibus asperiores. Natus quia dolores nesciunt voluptates impedit. Laudantium minus doloribus error voluptas nesciunt."
+            }
+        },
+        {
+            "roll": 21,
+            "data": {
+                "title": "Paramedic",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Science"
+                ],
+                "background": "Tempora deleniti cupiditate maxime facere et mollitia impedit.",
+                "location": "Random Hex",
+                "time": 7,
+                "description": [
+                    "Ipsa molestiae quidem ea minus. Veniam aperiam fugit distinctio nam eos ad. Ipsam ex nulla ad fugiat.",
+                    "Maiores nihil inventore quam est provident voluptate earum. Consequatur asperiores voluptates architecto debitis laboriosam animi est. Quisquam fugiat odit dicta nobis sapiente harum assumenda. Eveniet nam hic occaecati illo iste excepturi excepturi.",
+                    "Voluptatum eaque assumenda sed sint. Neque sapiente provident qui beatae cumque voluptatum. Illum esse laboriosam quisquam mollitia ullam dolore."
+                ],
+                "reward": "Necessitatibus quasi omnis odio fuga. Repellat consequatur doloribus assumenda enim sed sequi voluptates nisi. Molestiae dicta consectetur laudantium.",
+                "failure": "Praesentium veritatis dignissimos natus ipsam adipisci magni. Enim totam optio debitis officiis magnam. Soluta id ducimus doloremque quo animi voluptates. Vero omnis ullam ipsa neque atque dicta aperiam."
+            }
+        },
+        {
+            "roll": 22,
+            "data": {
+                "title": "Clothing/textile technologist",
+                "keywords": [
+                    "Job",
+                    "Performer",
+                    "Traveler"
+                ],
+                "background": "Molestiae repudiandae accusamus fuga error aliquam nulla omnis provident.",
+                "location": "Random Hex",
+                "time": 7,
+                "description": [
+                    "Asperiores nulla omnis debitis rerum. Rem dicta laborum earum quis et ipsa. Veniam iusto harum accusantium id. Soluta distinctio consequuntur voluptates repudiandae.",
+                    "Molestias nam officia nesciunt est autem cumque. Cum quibusdam ab accusamus iure quis. A sapiente enim laboriosam reiciendis. Quas voluptate voluptas error libero.",
+                    "Dolor omnis esse quas aperiam. Corrupti minus earum voluptate recusandae inventore. Maxime officiis id corrupti explicabo animi fugiat. Quas veniam recusandae similique consequuntur."
+                ],
+                "reward": "Voluptatum similique harum eum aspernatur deleniti ab eius repellat. Consectetur non reiciendis nulla dignissimos. Soluta numquam quisquam exercitationem. Explicabo ipsa ipsum cum est optio velit illum corporis.",
+                "failure": "Autem architecto autem labore dolor ipsam adipisci eius. Inventore dolor harum a vero iusto."
+            }
+        },
+        {
+            "roll": 23,
+            "data": {
+                "title": "Museum/gallery conservator",
+                "keywords": [
+                    "Job",
+                    "Holy",
+                    "Occult"
+                ],
+                "background": "Neque quisquam ullam laudantium deleniti autem velit.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Culpa veritatis consectetur officiis cum atque delectus. Sit veritatis excepturi dolor repudiandae debitis cumque excepturi voluptatum.",
+                    "Omnis aliquid vitae eum non error recusandae. Quia iste neque repellat porro voluptate harum. Possimus voluptates tempore dolor sapiente. Ducimus doloribus dicta sapiente maxime voluptatum rerum.",
+                    "Laudantium blanditiis quia rerum qui. Saepe rem similique dicta exercitationem omnis deserunt. Amet quisquam facere harum facilis quasi deleniti. Itaque est aliquam dolores quas magnam ut."
+                ],
+                "reward": "Officia dolores dignissimos facilis. Dolores at natus itaque aut non mollitia quas inventore. In occaecati molestias enim et nulla. Distinctio deserunt modi voluptatum ducimus aperiam recusandae consequuntur.",
+                "failure": "Recusandae consequatur sint labore odio similique impedit. Fugiat omnis provident atque in vero. Pariatur iusto unde reiciendis dolorum. Dignissimos odio doloribus repellat sed maiores. Qui totam reprehenderit et illum exercitationem et."
+            }
+        },
+        {
+            "roll": 24,
+            "data": {
+                "title": "Geophysicist/field seismologist",
+                "keywords": [
+                    "Job",
+                    "Undead",
+                    "Delivery"
+                ],
+                "background": "Ea dolores sapiente sunt harum quidem deserunt corporis.",
+                "location": "Local Town",
+                "time": 5,
+                "description": [
+                    "Quidem consequuntur nostrum fugiat qui repellat provident blanditiis. Alias deleniti ex earum hic esse culpa natus. Laboriosam recusandae perferendis quisquam totam sequi. Voluptatibus voluptate quis commodi eius laborum voluptatibus quae recusandae. Distinctio debitis dolore rem similique optio eum.",
+                    "Tenetur optio vero autem. Sed fuga impedit mollitia nihil libero omnis.",
+                    "Ad commodi a fuga omnis ratione officiis. Eius dolore omnis explicabo dolorum nesciunt magnam. Assumenda repellat nulla placeat ea nesciunt reprehenderit delectus. Perspiciatis beatae laboriosam blanditiis ea."
+                ],
+                "reward": "Culpa numquam facilis necessitatibus dolore ab eaque. Vero quam doloremque quaerat beatae voluptatem est. Voluptas consectetur earum delectus vero molestiae commodi cumque.",
+                "failure": "Fugiat deleniti maiores error dolore aut sed nam. Molestias odio fuga minus architecto aliquam inventore."
+            }
+        },
+        {
+            "roll": 25,
+            "data": {
+                "title": "Engineer, water",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Fight"
+                ],
+                "background": "Et mollitia explicabo sequi quas quis soluta pariatur praesentium.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Similique cupiditate placeat eligendi ab ullam mollitia. Culpa nobis repellat culpa voluptas. Ab labore corporis voluptatibus sint. Ipsam recusandae officia consectetur officia nostrum quos cum.",
+                    "Deserunt nesciunt rerum corporis praesentium corporis perspiciatis. Accusantium dolor libero aut minus maiores. Sunt vitae deleniti praesentium quibusdam unde quam aperiam nostrum.",
+                    "Dolor voluptas unde distinctio voluptate. Delectus expedita veniam vero similique neque. Provident illo rem dolore."
+                ],
+                "reward": "Nihil facilis temporibus error inventore et. Dolor unde pariatur esse earum.",
+                "failure": "Quae facere asperiores consequuntur officiis dolorum vitae voluptatibus. Laboriosam perferendis impedit sequi. Dolorum assumenda veniam mollitia pariatur et."
+            }
+        },
+        {
+            "roll": 26,
+            "data": {
+                "title": "Chartered management accountant",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Youth"
+                ],
+                "background": "Quo mollitia debitis voluptas eligendi quos est aliquid voluptatem.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Voluptatum porro aperiam voluptas excepturi laudantium. Dolor maiores nam velit beatae velit tenetur. Neque nam nesciunt architecto quo et voluptates nesciunt.",
+                    "Reprehenderit rem suscipit distinctio ex odio. Sed doloribus provident nobis esse repellendus quos inventore quasi. Ad harum dignissimos qui quidem nisi eaque laborum. Quo error modi porro natus reprehenderit sit. Fuga harum consectetur veritatis.",
+                    "Delectus nostrum fuga numquam dolores ipsum. Sunt corrupti ipsam ut esse."
+                ],
+                "reward": "Ipsam asperiores illo quos expedita fuga labore accusamus. Voluptas maiores dolorem animi autem itaque. Ipsum explicabo consequatur dicta sapiente ad delectus. Provident illo libero totam illo architecto porro similique.",
+                "failure": "Dignissimos quasi minus ipsum consequuntur. Quos provident occaecati totam. Tempore veritatis temporibus tempore quidem."
+            }
+        },
+        {
+            "roll": 27,
+            "data": {
+                "title": "Engineer, building services",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Mine"
+                ],
+                "background": "Quisquam impedit animi ipsum cupiditate.",
+                "location": "Random Town",
+                "time": 5,
+                "description": [
+                    "Debitis accusantium sapiente deserunt saepe exercitationem. Voluptatum architecto dolorum at molestias laborum. Quasi quisquam quasi porro quia voluptas aliquam omnis.",
+                    "Hic ducimus non deserunt consequuntur ad cum impedit. Est molestias ratione officia distinctio porro est consequatur. Adipisci nobis consequuntur nostrum exercitationem voluptatibus. Facere facilis deleniti quasi eveniet.",
+                    "Sit rerum repellendus distinctio id. Blanditiis eligendi magni reprehenderit praesentium dolores. Exercitationem nostrum nulla exercitationem neque. Praesentium ea maxime nam ea laboriosam."
+                ],
+                "reward": "Quasi aliquam ut deserunt vel quidem repudiandae. A assumenda et magni modi a blanditiis incidunt atque. Minima minus repellat veniam cumque fugit. Corporis corporis qui dolor.",
+                "failure": "Asperiores quasi doloribus dicta dolore culpa. Sint odio minus voluptatem quis blanditiis eaque impedit. Explicabo saepe repellendus placeat quam aperiam culpa et. Nihil ut rerum autem minima harum modi."
+            }
+        },
+        {
+            "roll": 28,
+            "data": {
+                "title": "Market researcher",
+                "keywords": [
+                    "Job",
+                    "Find",
+                    "Performer"
+                ],
+                "background": "Architecto ratione accusamus labore neque similique eum.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Asperiores earum deleniti eligendi temporibus quis facere. Possimus ut esse possimus placeat itaque porro magni. Beatae qui numquam sunt enim in beatae a. Repellat dignissimos officiis repellat incidunt commodi velit.",
+                    "Veritatis esse corporis dignissimos itaque a nisi animi cum. Doloremque iure iste sequi. Odio exercitationem commodi vel omnis quod quos. Sint suscipit maiores assumenda possimus fugiat consequuntur sunt.",
+                    "Qui dolore voluptas facere. Laudantium repellat laudantium natus inventore. Optio quam dolores harum libero quam. Doloremque ad animi eos sit aliquid veniam quasi."
+                ],
+                "reward": "At similique nulla ad animi iure debitis. Totam quidem consectetur odit omnis tempora nostrum voluptas. Enim sequi consectetur dolor facilis minima nam. Ratione velit natus aspernatur officia nostrum laboriosam.",
+                "failure": "Repellat voluptate quos illo sunt aperiam adipisci. Doloremque quam labore impedit in consectetur velit. Sit facere quo quos enim."
+            }
+        },
+        {
+            "roll": 29,
+            "data": {
+                "title": "Barrister",
+                "keywords": [
+                    "Job",
+                    "Holy",
+                    "Labor"
+                ],
+                "background": "Vitae atque non deleniti qui reiciendis velit harum fugit.",
+                "location": "Random Hex",
+                "time": 15,
+                "description": [
+                    "Beatae rem quia vero in. Excepturi quibusdam velit tempora similique fugit similique fugit. Reprehenderit ipsam alias perspiciatis recusandae. Placeat et blanditiis nostrum vero cupiditate consequuntur.",
+                    "Doloremque nisi doloremque ad asperiores officiis. Sequi excepturi perferendis amet eligendi. Non repudiandae porro sint facilis ipsum atque ad. Eaque maxime neque quae dignissimos molestiae.",
+                    "Saepe commodi sequi dolor impedit ducimus. Quod culpa delectus exercitationem pariatur eum. Odit ipsam quaerat at id labore."
+                ],
+                "reward": "Accusamus explicabo eligendi reprehenderit amet quibusdam ducimus adipisci. Deleniti ducimus neque eius maxime velit modi voluptate. Esse dolorem officia aspernatur recusandae tempora esse. Quo ullam blanditiis iusto eius labore.",
+                "failure": "Tempore molestiae sit culpa ratione natus. Omnis nihil nam suscipit eaque."
+            }
+        },
+        {
+            "roll": 30,
+            "data": {
+                "title": "Energy manager",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Tribal"
+                ],
+                "background": "Vitae maxime cumque necessitatibus quod.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Aliquam sed rem voluptates nisi aperiam cumque culpa consectetur. Neque earum cumque placeat sed excepturi occaecati. Repudiandae minima reiciendis culpa accusantium architecto.",
+                    "Dolore cupiditate magnam id impedit deleniti. Omnis reiciendis sunt non saepe explicabo vitae tempore. Nam consequatur quae quo accusantium aperiam consectetur quaerat delectus.",
+                    "Consequatur veniam laborum laudantium numquam. Sint reiciendis nam beatae libero mollitia. Ipsum nemo dolore error quia laborum ab nemo delectus. Non veritatis quod temporibus accusamus placeat."
+                ],
+                "reward": "Aperiam facilis dolorum sequi ullam. Aspernatur labore eligendi beatae quae.",
+                "failure": "Velit quasi repudiandae id cupiditate nobis quia officia sunt. Accusamus asperiores aliquam debitis minus. Ut iusto esse laudantium tempora. Illum aliquid beatae ullam corrupti illo qui."
+            }
+        },
+        {
+            "roll": 31,
+            "data": {
+                "title": "Teaching laboratory technician",
+                "keywords": [
+                    "Job",
+                    "Escort",
+                    "Negotiation"
+                ],
+                "background": "Quibusdam sed recusandae veniam quidem reiciendis error.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Quibusdam dolore veritatis suscipit officia earum illo quos similique. Tempora accusamus molestias officia ea similique assumenda. Numquam expedita quo recusandae sed ab qui corrupti. Pariatur modi sunt earum dolor voluptatem tempora officia.",
+                    "Quas aut ex facere sequi eveniet expedita nulla. Aliquid deserunt accusantium praesentium eum molestias. Suscipit asperiores saepe voluptatibus quaerat a veritatis. Doloremque officia nulla magni saepe voluptate cumque.",
+                    "Minima reiciendis saepe itaque facere molestias. Consequuntur provident ad dolorem nobis. Exercitationem voluptates modi illo labore alias."
+                ],
+                "reward": "Laboriosam officiis earum itaque cum sit reiciendis. Odit nisi a blanditiis hic. Nesciunt doloribus molestiae dolorum dignissimos fugiat quam ipsum. Molestiae quasi voluptatum maiores debitis architecto debitis. Dignissimos veritatis doloremque neque dolore amet corporis.",
+                "failure": "Natus laudantium mollitia odit cupiditate libero. Alias ad dolores pariatur facere perferendis exercitationem. Similique qui aperiam nihil rerum assumenda inventore fuga. Earum repudiandae inventore est praesentium iste sed aut illo."
+            }
+        },
+        {
+            "roll": 32,
+            "data": {
+                "title": "Cabin crew",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Holy"
+                ],
+                "background": "Quae officia eveniet saepe incidunt porro alias neque.",
+                "location": "Random Hex",
+                "time": 7,
+                "description": [
+                    "Repellat omnis a est sit. Perspiciatis saepe at neque officia soluta.",
+                    "Ea reiciendis amet molestiae labore perferendis. Eveniet quod commodi rem eaque molestias. Enim totam debitis nostrum quaerat dignissimos.",
+                    "Earum nam expedita ut repellendus sapiente. Nostrum animi quae quaerat repellat. Sunt quod nesciunt aperiam magnam."
+                ],
+                "reward": "Porro ad placeat quibusdam occaecati eum nostrum velit. Amet suscipit nam iure saepe rem voluptatum ab. Rem maxime blanditiis neque hic recusandae consectetur. Minus totam aliquid aliquid a culpa ipsam. Ducimus provident quas id odio harum ea.",
+                "failure": "A odio laboriosam reprehenderit eligendi in. Repellat quas deleniti quam ratione sequi quam minima. Voluptate ex atque ipsam."
+            }
+        },
+        {
+            "roll": 33,
+            "data": {
+                "title": "Scientist, research (life sciences)",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Strange"
+                ],
+                "background": "Vitae consequatur architecto fugiat deleniti corrupti quisquam.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Enim quasi earum eius esse sed non velit. Labore non quasi veritatis. Deserunt recusandae accusamus nihil qui.",
+                    "Molestiae dicta consectetur minus corrupti dolorum quibusdam libero. Tempora perferendis maiores aut dolorum. Similique quo quo eius minima dolore cupiditate. Delectus fugiat delectus quos eveniet impedit excepturi. Consequuntur nam quos dignissimos incidunt.",
+                    "Ad unde illum eligendi in expedita. Voluptas quia atque voluptas voluptatum magnam cum iure. Laborum non quasi veritatis maxime. Molestiae ullam deleniti cum voluptatibus modi."
+                ],
+                "reward": "Nesciunt in quasi repellat ratione. Placeat porro quod magni ipsum natus sit. Doloribus sint exercitationem molestiae numquam velit. Aliquam dignissimos in molestias qui.",
+                "failure": "Veniam consequuntur reprehenderit distinctio provident magni ullam. Architecto saepe pariatur laudantium occaecati praesentium beatae. Reprehenderit dicta fuga porro unde molestias fugit. Repellat vel eos accusantium adipisci deleniti."
+            }
+        },
+        {
+            "roll": 34,
+            "data": {
+                "title": "Surveyor, building control",
+                "keywords": [
+                    "Job",
+                    "Science",
+                    "Murder"
+                ],
+                "background": "Animi repellendus voluptatum nostrum cupiditate illo itaque.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Aut quasi totam eius quod in reprehenderit quisquam. Quo sunt exercitationem dolores consectetur eius. Asperiores aliquam rerum fuga tempora veritatis recusandae. Quas eos reprehenderit quasi at distinctio incidunt.",
+                    "Numquam dolorem facere praesentium ex. Eum maiores sapiente ipsa ab amet magni.",
+                    "Veritatis et sapiente reprehenderit molestiae. Atque earum placeat minima quis odit assumenda. Nulla doloribus et est neque laborum accusamus explicabo. Modi veniam quidem asperiores occaecati cum eius quos nihil."
+                ],
+                "reward": "Reprehenderit officia provident voluptate harum eos a quas. In excepturi non aliquid minus beatae. Explicabo accusamus repellendus hic consequatur optio unde debitis perferendis. Quibusdam architecto dolorum totam similique fugiat voluptate.",
+                "failure": "Eos laborum quibusdam illum cumque consequatur. Blanditiis ullam at cum quos eligendi ullam. Qui itaque tempore dolorum minima unde excepturi."
+            }
+        },
+        {
+            "roll": 35,
+            "data": {
+                "title": "Surveyor, building control",
+                "keywords": [
+                    "Job",
+                    "Labor",
+                    "Strange"
+                ],
+                "background": "Beatae neque unde reprehenderit.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Ratione repellendus quae sunt porro voluptate. Illum voluptate similique harum laborum error soluta rerum. Debitis adipisci ex laboriosam assumenda molestias. Quasi dolores ad cupiditate sint ad.",
+                    "Fuga eaque quas iusto impedit sint voluptatum placeat. Alias magnam doloribus repellat necessitatibus voluptates officia placeat. Sapiente distinctio praesentium fuga repudiandae. Voluptatem officia sit earum eius cum nobis. Reiciendis quo laboriosam laboriosam veritatis commodi mollitia velit.",
+                    "Aspernatur asperiores placeat mollitia quae occaecati fugit provident. Eius distinctio facere dolor hic. Incidunt aperiam laudantium vero. Ab voluptatem iusto dolores nulla sed."
+                ],
+                "reward": "Et architecto assumenda quas dolorum. Libero nesciunt iure ab repellat optio. Facilis dolorem eligendi incidunt animi tempore dolore eum.",
+                "failure": "Sunt repudiandae possimus minima enim enim similique beatae. Doloremque in ullam numquam dolorum voluptatibus. Cupiditate occaecati quidem ad ullam sit. Suscipit minus quia rerum voluptas eaque."
+            }
+        },
+        {
+            "roll": 36,
+            "data": {
+                "title": "Pharmacologist",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Politics"
+                ],
+                "background": "Libero amet modi vero est ducimus cum itaque.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Similique quisquam occaecati inventore. Sit error iusto repellendus tempora. Laudantium hic error dolore corporis rem aliquid deleniti. Dicta quisquam cupiditate officiis laudantium.",
+                    "Odit officia corporis fuga unde dolore adipisci in. Velit fugiat ipsam labore voluptas reprehenderit aliquid. Accusamus cumque dolorem quod non possimus. Reprehenderit cumque nisi tempore voluptate porro porro. Distinctio tenetur natus aliquam similique quo atque magni architecto.",
+                    "Eveniet explicabo enim autem ullam occaecati a occaecati adipisci. Sunt cupiditate ex explicabo distinctio sunt beatae modi. Magnam aperiam deleniti dolor iste hic numquam quas. Sed accusamus quo rem nisi."
+                ],
+                "reward": "Distinctio minus eos deleniti itaque corporis nobis non error. Architecto id iste nostrum ducimus alias. Dolore facere sit dolores ratione accusantium. Fugit cumque beatae corporis nobis maxime sit. Expedita iste fuga similique alias sint alias aliquam ut.",
+                "failure": "Velit sint molestias similique. Aut esse eius occaecati quidem quasi dolore accusantium. Iure ullam ea asperiores quae. Eaque sint consequatur odio eligendi modi officiis."
+            }
+        },
+        {
+            "roll": 37,
+            "data": {
+                "title": "Research officer, trade union",
+                "keywords": [
+                    "Job",
+                    "Occult",
+                    "Law"
+                ],
+                "background": "Dolorum magnam magni asperiores nobis ratione.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Dicta incidunt dicta ea quasi esse enim. Placeat amet delectus perferendis quibusdam. Non quam culpa aliquid labore. Vel rem aut molestias assumenda expedita.",
+                    "Neque laboriosam corrupti reprehenderit repudiandae similique accusamus. At nostrum ullam consequuntur occaecati quo suscipit debitis. Nisi debitis laborum iure dolor praesentium.",
+                    "Perferendis corporis similique architecto praesentium facere. Facilis aspernatur eius nulla qui aliquid. Ducimus qui eveniet quasi voluptas maiores."
+                ],
+                "reward": "Porro dolor nam perspiciatis minus eos. Accusamus fuga dolore voluptatum consequatur. Enim quod magnam excepturi perspiciatis odit laboriosam quo.",
+                "failure": "Sint occaecati nemo odit voluptatum cum est. Tempore ipsam neque quas laboriosam amet porro. Illum id alias eius maxime."
+            }
+        },
+        {
+            "roll": 38,
+            "data": {
+                "title": "Astronomer",
+                "keywords": [
+                    "Job",
+                    "Rumor",
+                    "Law"
+                ],
+                "background": "Optio fuga occaecati veniam in aut rem repellat.",
+                "location": "Local Town",
+                "time": 7,
+                "description": [
+                    "Perferendis explicabo nemo doloribus ut modi. Velit ratione deleniti pariatur iusto odio voluptatum velit. Error dolores corporis dolorum veritatis odio laborum.",
+                    "Distinctio voluptate beatae nesciunt tempora officiis. Occaecati sequi repellendus ea alias. Alias harum eius quaerat.",
+                    "Numquam sint reprehenderit rem id quae. Fugiat facilis consequatur vel perferendis quia totam. Inventore sed exercitationem accusamus amet esse ducimus."
+                ],
+                "reward": "Dignissimos reiciendis molestiae accusantium quo. A ipsum ad qui perferendis mollitia id. Temporibus id reiciendis temporibus libero.",
+                "failure": "Quibusdam culpa quod doloremque. Quibusdam a perferendis repellendus voluptates optio consectetur perferendis. Culpa veritatis id cum voluptate nesciunt. Nulla in molestiae aperiam voluptas. Pariatur pariatur voluptate vero aliquid."
+            }
+        },
+        {
+            "roll": 39,
+            "data": {
+                "title": "Youth worker",
+                "keywords": [
+                    "Job",
+                    "Politics",
+                    "Murder"
+                ],
+                "background": "Debitis asperiores quasi itaque provident expedita tempora.",
+                "location": "Random Hex",
+                "time": 10,
+                "description": [
+                    "Placeat fugiat eaque molestias consequatur dolorum aliquam sint. Facere quae consequuntur debitis minima quibusdam. Quasi ipsam reiciendis amet ipsam autem perferendis.",
+                    "Consequatur perferendis quibusdam aspernatur voluptas culpa ratione reiciendis. Voluptates odit velit eaque amet. Temporibus inventore impedit dolorum velit delectus quia atque.",
+                    "Maiores debitis aspernatur temporibus iste corporis non. Maiores voluptatem excepturi distinctio dolorum laboriosam esse aliquid provident. Cumque atque ratione animi exercitationem quo dignissimos est. Numquam iste nisi est iure nemo aliquid."
+                ],
+                "reward": "Explicabo nisi voluptas voluptates. Rem quibusdam repellendus laborum eum ab esse. Cum eius aut error quasi.",
+                "failure": "Quibusdam explicabo atque expedita. Consequatur ipsum deleniti architecto nostrum tenetur. Sint laudantium soluta commodi adipisci."
+            }
+        },
+        {
+            "roll": 40,
+            "data": {
+                "title": "Herbalist",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Law"
+                ],
+                "background": "Facere odit reiciendis quasi rerum reiciendis dolorem.",
+                "location": "Local Town",
+                "time": 10,
+                "description": [
+                    "Eum dolorem repudiandae cumque soluta numquam ad. Fugiat ipsum quis nulla beatae adipisci. Voluptates beatae incidunt dolorum dolore veniam odit sed. Nostrum asperiores eaque quam et culpa in.",
+                    "Quas et occaecati mollitia nemo itaque doloribus a. Modi atque non deserunt ab laudantium voluptas at. Accusantium adipisci ab laborum expedita veritatis. Ducimus ipsum repudiandae eius corporis.",
+                    "Illum reiciendis reprehenderit ex quis ex reprehenderit. Repellat maxime quibusdam facere tempora quia maiores. Ut quos odit dolores."
+                ],
+                "reward": "Libero modi impedit dolores. Nisi sed quis esse animi debitis cupiditate enim. Vel cum natus consectetur earum. Iure porro corporis accusantium.",
+                "failure": "Alias tenetur expedita quis consequatur veritatis error. Atque ipsum mollitia saepe accusamus. Quam excepturi ipsa id aliquid. Nihil minima tenetur eum id vitae libero. Numquam aliquam at deleniti."
+            }
+        },
+        {
+            "roll": 41,
+            "data": {
+                "title": "Runner, broadcasting/film/video",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Law"
+                ],
+                "background": "Est explicabo illo error nemo commodi fuga molestiae.",
+                "location": "Random Mine",
+                "time": 7,
+                "description": [
+                    "Adipisci dignissimos veniam natus aspernatur quo. Repellendus saepe repellat enim sed explicabo voluptas facilis. Ipsum ducimus tenetur amet. Libero soluta qui iste. Labore maxime iste quas quibusdam.",
+                    "Quas ducimus accusamus quasi. Ratione odio odio facilis doloribus eius. Earum assumenda officia commodi cumque labore iure possimus libero. Non iure dolor quisquam harum.",
+                    "Magni maiores necessitatibus ut ut. Voluptatum sequi eos quisquam possimus ducimus expedita occaecati nobis. Quis minus laborum minus porro. Sed dolore nulla explicabo nemo libero eos."
+                ],
+                "reward": "Perferendis minus quam voluptas. Eum possimus eum consequuntur voluptas. Ipsam mollitia laudantium tenetur.",
+                "failure": "Nihil ipsam fuga cumque harum. Ducimus quaerat impedit veniam tempore quae sint itaque. Quam at voluptatem similique doloremque dolor."
+            }
+        },
+        {
+            "roll": 42,
+            "data": {
+                "title": "Engineer, automotive",
+                "keywords": [
+                    "Job",
+                    "Politics",
+                    "Personal"
+                ],
+                "background": "Quo architecto eveniet omnis sunt harum exercitationem fugit repudiandae.",
+                "location": "Random Hex",
+                "time": 15,
+                "description": [
+                    "Fuga nobis cumque esse distinctio minus. Quod tenetur animi veniam ad eveniet. Illum ducimus fugiat non. Earum voluptatibus enim adipisci voluptatem id saepe.",
+                    "Labore nam fuga veritatis laudantium repudiandae. Aut nobis qui minus veniam. Nemo pariatur ratione inventore consectetur commodi.",
+                    "Libero iste laboriosam provident voluptas rem nam. Natus excepturi aliquam aut iusto dicta possimus eveniet. Error sequi officiis necessitatibus laboriosam nihil pariatur provident."
+                ],
+                "reward": "Recusandae dolor dicta accusantium ipsa consectetur rerum. Voluptatum deserunt exercitationem enim nulla velit sunt reprehenderit ipsa. Cupiditate voluptatibus similique sequi saepe consequatur inventore cum error. Atque totam repellat magni voluptatum ex. Molestias explicabo explicabo nostrum perspiciatis pariatur minima.",
+                "failure": "Repellat deserunt soluta corrupti. Sit voluptatibus nulla consectetur a possimus. Placeat voluptatem explicabo harum pariatur."
+            }
+        },
+        {
+            "roll": 43,
+            "data": {
+                "title": "Camera operator",
+                "keywords": [
+                    "Job",
+                    "Delivery",
+                    "Performer"
+                ],
+                "background": "Ea nihil amet placeat.",
+                "location": "Random Town",
+                "time": 7,
+                "description": [
+                    "Illum natus ipsam corporis culpa mollitia nam. Perferendis in temporibus eveniet soluta voluptatem deserunt.",
+                    "Sit non animi delectus. Sint beatae aut fugiat culpa sunt ipsum hic. Ullam architecto reiciendis eos maiores quibusdam labore.",
+                    "Unde at officia praesentium fugit. Libero soluta adipisci maxime totam est eum."
+                ],
+                "reward": "Eveniet dolores saepe itaque dolorem. Id nisi deleniti adipisci eos suscipit voluptates sapiente accusantium. Ducimus aliquam mollitia ipsum ut corporis natus perspiciatis. Aspernatur vero nobis nam quaerat est.",
+                "failure": "Voluptate deserunt ad quis pariatur perspiciatis. Mollitia veniam saepe ullam. Soluta fuga sequi neque aperiam officia eos eveniet ut."
+            }
+        },
+        {
+            "roll": 44,
+            "data": {
+                "title": "Geneticist, molecular",
+                "keywords": [
+                    "Job",
+                    "Research",
+                    "Supernatural"
+                ],
+                "background": "Voluptate iure nobis quasi.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Illum provident ut eveniet accusantium harum consequuntur. Praesentium provident at velit amet fuga illum. Enim voluptas blanditiis soluta magnam quas exercitationem nemo.",
+                    "Officia hic molestiae dolore natus dignissimos aperiam. Ipsum totam repellendus dolore corrupti labore. Aliquid neque esse nemo doloremque tempore nam explicabo soluta. Unde quo dicta natus aspernatur aliquam.",
+                    "Earum laudantium occaecati alias nulla enim architecto assumenda quidem. Delectus cum reiciendis officiis delectus nulla tenetur harum. Autem doloribus ut consequuntur aliquid ducimus. Accusantium totam enim quasi corrupti corrupti."
+                ],
+                "reward": "Repellat occaecati sit officiis esse accusantium. Delectus nulla odit rem ullam fuga deserunt dolore. Doloremque eveniet harum libero provident.",
+                "failure": "Facilis mollitia dolor consequuntur. Pariatur quidem ullam perferendis."
+            }
+        },
+        {
+            "roll": 45,
+            "data": {
+                "title": "Textile designer",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Delivery"
+                ],
+                "background": "Iure ad ipsam autem vitae voluptates dolorem rerum expedita.",
+                "location": "Random Town",
+                "time": 7,
+                "description": [
+                    "Sapiente repellendus sapiente iure. Repellendus accusamus doloribus nemo laborum. Cupiditate corrupti suscipit earum neque eveniet quis. Molestiae voluptates aliquam ea neque repudiandae eius quaerat nisi.",
+                    "Dolorum eos ex sint dolore reiciendis nostrum. Eveniet repellendus architecto tenetur dicta sint.",
+                    "Perferendis cupiditate molestias consequuntur minus omnis. Repellendus qui reprehenderit perspiciatis ipsa consectetur delectus adipisci. Facere possimus eius inventore neque architecto. Optio ipsum facere saepe incidunt dolores sapiente minima."
+                ],
+                "reward": "Accusamus ipsam explicabo officiis tenetur nostrum reiciendis excepturi temporibus. Dicta quisquam in laborum iste nesciunt modi consequatur. Voluptatum corporis et debitis fuga tempore accusamus harum architecto. Ducimus adipisci aliquam est eum perspiciatis omnis.",
+                "failure": "Laudantium assumenda mollitia quaerat numquam. Officia est laudantium voluptatibus asperiores voluptas aspernatur maxime. Consequatur quaerat consequuntur nihil modi dolorem quis. Veniam ab minus vitae pariatur facilis aspernatur. Labore nesciunt nemo repellat ad."
+            }
+        },
+        {
+            "roll": 46,
+            "data": {
+                "title": "Surgeon",
+                "keywords": [
+                    "Job",
+                    "Outlaw",
+                    "Supernatural"
+                ],
+                "background": "Amet quos recusandae dolorem eius velit praesentium maxime nemo.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Rerum fugit quos nulla saepe soluta aliquam voluptate. Voluptatibus magnam consequatur distinctio veniam sint. Maxime accusantium blanditiis natus minus.",
+                    "Ad omnis laborum maiores natus labore necessitatibus. Magnam nulla quo cum saepe. Similique ex atque id voluptatibus ipsa sed.",
+                    "Amet recusandae expedita facere iste iste. Delectus est dicta a deleniti occaecati rem minus."
+                ],
+                "reward": "Hic reiciendis ad ipsa culpa earum maxime aut voluptatem. Voluptate et adipisci eum neque esse occaecati sed. Necessitatibus ipsam ut vitae assumenda aspernatur. Similique voluptate magni culpa quibusdam ullam dolores incidunt. Magni tempore laborum illo dolores totam nulla odio nulla.",
+                "failure": "Error dignissimos placeat ducimus voluptatem. Numquam dolores ex exercitationem eum dolorum. Excepturi sunt officiis distinctio blanditiis a."
+            }
+        },
+        {
+            "roll": 47,
+            "data": {
+                "title": "Air cabin crew",
+                "keywords": [
+                    "Job",
+                    "Delivery",
+                    "Politics"
+                ],
+                "background": "Quaerat recusandae ipsam laborum est autem facilis exercitationem.",
+                "location": "Local Town",
+                "time": 15,
+                "description": [
+                    "Vitae fugit quam facilis architecto quaerat. Nobis labore ipsam sapiente placeat quasi iste harum ipsum. Dolores sapiente sint consequatur quas minima delectus laboriosam quod. Assumenda laudantium eius natus facilis officiis.",
+                    "Magnam porro laboriosam at dolorem. Harum voluptas officia aperiam nobis alias. Sequi quasi enim quas exercitationem. Quia aperiam omnis voluptatibus consequatur veritatis laboriosam.",
+                    "Minima aspernatur maxime et nobis quod. At distinctio consequatur pariatur totam deserunt doloremque ducimus. Vero dignissimos maiores eveniet voluptatum nisi eligendi accusamus iusto. Suscipit eligendi at placeat consectetur quibusdam."
+                ],
+                "reward": "Veniam delectus veniam quaerat quidem. Dolore ipsa laborum doloribus assumenda rem hic. Est impedit dignissimos voluptate corrupti. Voluptas quia earum ut provident.",
+                "failure": "Distinctio sequi optio quo sed minus. Dolorum quidem fuga error cupiditate rem iusto incidunt. Fuga reprehenderit provident mollitia sint aliquid dignissimos quo."
+            }
+        },
+        {
+            "roll": 48,
+            "data": {
+                "title": "Designer, blown glass/stained glass",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Mine"
+                ],
+                "background": "Numquam quaerat laboriosam doloribus omnis laborum autem nam.",
+                "location": "Random Town",
+                "time": 7,
+                "description": [
+                    "Expedita illo dolorem officia. Repellendus autem consectetur mollitia iusto. Atque aliquam sit enim aperiam exercitationem harum non. Eveniet quas inventore voluptatibus praesentium laboriosam.",
+                    "Sunt mollitia rem voluptatum quae harum sapiente magnam vero. Aperiam quam vel cumque nisi possimus. Modi et impedit fugit sequi ipsam.",
+                    "Impedit ex veniam quas at earum itaque quibusdam officiis. Nostrum ipsa adipisci rem voluptatem. A minima tenetur quasi voluptas sequi distinctio cum esse."
+                ],
+                "reward": "Quidem praesentium tempora aspernatur beatae accusantium. Molestiae explicabo occaecati eveniet blanditiis repellat vero suscipit. Non illum fugiat voluptatum sint. Consequatur maiores distinctio totam eligendi. Nostrum doloremque voluptatum laborum eos minus nesciunt.",
+                "failure": "Natus labore temporibus minus aut alias tempora voluptates. Ducimus quos culpa ea officiis totam quisquam illo vero. Fugiat dolorem laudantium labore laudantium."
+            }
+        },
+        {
+            "roll": 49,
+            "data": {
+                "title": "Air traffic controller",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Personal"
+                ],
+                "background": "Accusamus natus vitae eveniet nemo perferendis dolorem quisquam.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Repellendus dolor dolores doloremque soluta voluptas. Neque fugit nulla ea iste. Accusantium sit minus facilis ab voluptatum expedita. Commodi hic ducimus itaque sunt quasi error. Officiis voluptatibus neque animi blanditiis.",
+                    "Minus dolor dignissimos eius illo culpa. Dicta beatae natus nostrum officiis. Facere nisi quisquam voluptatum earum.",
+                    "Sequi possimus illo earum omnis molestiae neque reprehenderit esse. Blanditiis dignissimos quo tempore temporibus. Odit nam a labore. Reprehenderit est itaque mollitia quisquam."
+                ],
+                "reward": "Corporis odit corrupti aliquid nostrum. Numquam optio ex ad vel itaque officia. Tempore repudiandae corporis ducimus minima repudiandae quidem. Voluptates veniam repellat laborum provident cupiditate labore provident.",
+                "failure": "Dignissimos voluptatem rem eligendi dignissimos optio accusamus ab. Optio iste molestias sequi temporibus quis fugit voluptates."
+            }
+        },
+        {
+            "roll": 50,
+            "data": {
+                "title": "Tax adviser",
+                "keywords": [
+                    "Job",
+                    "Research",
+                    "Murder"
+                ],
+                "background": "A libero eius cum illum labore voluptates.",
+                "location": "Random Mine",
+                "time": 7,
+                "description": [
+                    "Possimus rem nulla nulla placeat eveniet rerum laborum. Asperiores eligendi maxime consectetur reiciendis vero repellendus facere. Tempore dolore cupiditate iusto neque enim.",
+                    "Rem corrupti explicabo quasi autem amet impedit ipsum. Dolorem dicta quidem iusto rem deserunt facere iste. Quam a ut molestias asperiores. Sit ab ullam quia odio autem error.",
+                    "Id numquam placeat a velit iste odio. Blanditiis veniam enim reiciendis pariatur cumque unde reiciendis. Maiores aperiam quo veritatis maxime. Earum a et voluptatem illum. Ea beatae aliquid facilis."
+                ],
+                "reward": "Incidunt soluta quod quis vitae laudantium. Quam earum unde laboriosam nemo ea blanditiis.",
+                "failure": "Dicta neque dolorum perspiciatis qui ut. Rem vel commodi perspiciatis explicabo praesentium ex. Quo occaecati officia ducimus officia consequatur ratione. In commodi quasi quidem aliquam cumque veniam commodi voluptatum."
+            }
+        },
+        {
+            "roll": 51,
+            "data": {
+                "title": "Heritage manager",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Investigate"
+                ],
+                "background": "Facere doloribus illo nisi atque quia molestiae repellendus quibusdam.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Ducimus fugiat qui aliquid. Suscipit quas harum dolorem ad. Temporibus atque eos delectus animi.",
+                    "Aut quibusdam est atque accusantium sed optio illum hic. Nobis ab ipsa magnam culpa et ad quisquam. Omnis facere labore quibusdam rerum dolore delectus veniam nihil. Quis atque cumque aliquam rem tempora.",
+                    "Et accusantium molestias nam dolores dolores ipsum. Magnam molestiae quo ex exercitationem non enim ipsum architecto. Dolore quod expedita repudiandae sequi dolor."
+                ],
+                "reward": "Minus similique nostrum ut illum. Deleniti beatae et occaecati et nemo. Ex id aut deleniti a nihil.",
+                "failure": "Alias ipsam eum ex reprehenderit quam cumque ullam. Quae aut ipsum quo quos atque. Illum voluptatibus amet fugiat."
+            }
+        },
+        {
+            "roll": 52,
+            "data": {
+                "title": "Copy",
+                "keywords": [
+                    "Job",
+                    "Negotiation",
+                    "Investigate"
+                ],
+                "background": "Dolorem nostrum sint aperiam fuga occaecati facilis.",
+                "location": "Local Town",
+                "time": 5,
+                "description": [
+                    "Magni debitis magni placeat consequatur. Totam aut placeat quo harum voluptates.",
+                    "Distinctio soluta ut alias. Culpa atque molestiae porro dolor maxime. Provident dicta sit repellat. Omnis aperiam fugit similique dolore veritatis aspernatur.",
+                    "Assumenda voluptas similique nesciunt quisquam sapiente. Non provident consequuntur aliquid sunt facere porro enim. Totam eum possimus commodi laboriosam qui cum. Atque assumenda voluptatum minus deleniti totam."
+                ],
+                "reward": "Unde assumenda consequuntur a necessitatibus aliquid. Sint aut nobis iure ea fuga. Fugit ipsam autem tempore sed vel tenetur. Minima consequatur sed iure labore mollitia minima.",
+                "failure": "Veniam placeat delectus quod ad sint quibusdam architecto quibusdam. Commodi repellat nulla architecto ab. Molestias sed quibusdam ullam voluptatum quas saepe."
+            }
+        },
+        {
+            "roll": 53,
+            "data": {
+                "title": "Petroleum engineer",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Fight"
+                ],
+                "background": "Temporibus sequi harum tenetur dicta.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Rem eaque non saepe vel deserunt earum harum. Quidem nisi occaecati delectus debitis. Provident totam dignissimos rem repudiandae unde iste. Facere amet voluptate suscipit quibusdam possimus asperiores necessitatibus.",
+                    "Id voluptatum accusamus laborum culpa exercitationem. Repudiandae nobis perspiciatis nemo. Suscipit perferendis qui commodi corrupti culpa commodi quo. Consequuntur corporis excepturi velit magnam quasi doloribus repellat officia.",
+                    "Tenetur maxime est voluptate qui officiis. Impedit unde eos sapiente asperiores. Totam ducimus blanditiis esse velit."
+                ],
+                "reward": "Laboriosam totam adipisci non alias distinctio. Dolor culpa occaecati harum sint provident officia libero.",
+                "failure": "Maiores ipsum perferendis adipisci quia iste fuga dicta doloribus. Ut vitae sapiente tempora optio veritatis. Similique quis numquam ipsa repellendus."
+            }
+        },
+        {
+            "roll": 54,
+            "data": {
+                "title": "Presenter, broadcasting",
+                "keywords": [
+                    "Job",
+                    "Frontier",
+                    "Murder"
+                ],
+                "background": "Blanditiis adipisci non sequi aperiam ab qui sed vitae.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Accusamus impedit ratione iste accusantium illum error. Officiis quod impedit vitae asperiores. Corporis repellat incidunt nostrum incidunt suscipit rem.",
+                    "Id odit perferendis iste architecto vero autem. Quasi consectetur incidunt occaecati vel aliquid nemo alias. Non illo nobis ab qui. Eum sapiente blanditiis labore doloribus dolor commodi eligendi.",
+                    "Odit ipsam veniam voluptatibus veniam accusamus ipsam saepe. Cumque corrupti alias enim. Natus repudiandae itaque incidunt quas qui sed labore fugiat."
+                ],
+                "reward": "Debitis quaerat aspernatur explicabo architecto laborum unde eos. Illum nobis labore quod laudantium molestiae sint. Nesciunt minima repudiandae magnam suscipit numquam excepturi vero.",
+                "failure": "Omnis eveniet tenetur cumque placeat libero deserunt. Voluptas laudantium eaque dignissimos nesciunt corporis magnam. Dolores quia inventore adipisci totam nulla."
+            }
+        },
+        {
+            "roll": 55,
+            "data": {
+                "title": "Television production assistant",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Supernatural"
+                ],
+                "background": "A quibusdam facilis consequuntur pariatur veritatis quos.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Recusandae illo similique cum deleniti illum. Dicta reiciendis quas pariatur eos fugit ex.",
+                    "Sint mollitia fuga recusandae. Debitis officiis alias alias cumque molestiae. Corporis commodi voluptates facilis fugiat accusantium ducimus.",
+                    "Aspernatur cumque est eius illum repellat perspiciatis pariatur. Quis non nemo minus tempora molestiae nam porro. Quos recusandae dicta nulla inventore tempore aspernatur."
+                ],
+                "reward": "Dolores et nam autem non. Officia autem eligendi facilis officia. Odit aperiam nobis dolorem perferendis atque corporis.",
+                "failure": "Hic culpa dolor laudantium pariatur. Ab qui sequi expedita id quae nam voluptatum. Aliquid amet ullam ad tempora esse molestiae expedita iste."
+            }
+        },
+        {
+            "roll": 56,
+            "data": {
+                "title": "Tourism officer",
+                "keywords": [
+                    "Job",
+                    "Law",
+                    "Traveler"
+                ],
+                "background": "Eaque fugiat quidem voluptas illum eligendi dicta.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Unde cum impedit iusto velit nisi. Placeat minima culpa nihil nemo voluptatibus libero animi. Libero perferendis illo saepe quod alias modi.",
+                    "Recusandae laborum quidem animi atque adipisci eaque aliquid dicta. Consectetur quam maiores dignissimos rem at illum facilis illum. Quis illum iste cumque dolore expedita autem optio. Dolorum sequi debitis ipsa.",
+                    "Accusantium eum nesciunt tempore aliquam. Doloribus accusamus perferendis beatae error expedita. Ipsam dolores dolorem enim a."
+                ],
+                "reward": "Qui dicta provident dolores error nihil culpa veniam. Reiciendis debitis alias quisquam ipsam. Explicabo possimus ipsum doloremque ullam.",
+                "failure": "Repellendus praesentium corrupti cumque culpa minus. Qui dolor quod quo nulla veritatis. Laborum ut veritatis vitae autem unde."
+            }
+        },
+        {
+            "roll": 57,
+            "data": {
+                "title": "Engineering geologist",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Personal"
+                ],
+                "background": "Quo sapiente molestiae excepturi nesciunt dolor fugit.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Nihil provident dolor repellat architecto. Aperiam cupiditate occaecati asperiores pariatur iste. Nulla cupiditate nemo unde. Sapiente non eos ducimus necessitatibus commodi iste nemo aliquam.",
+                    "Laudantium occaecati molestias deleniti assumenda labore quibusdam. Modi aut reiciendis asperiores consequuntur dignissimos reprehenderit molestiae. Expedita repellendus reprehenderit fugiat veritatis a animi aliquam.",
+                    "Eos quis voluptatum consectetur tempora pariatur impedit ad. Eum facere dicta repellendus corporis molestiae similique quisquam. Quo facilis perspiciatis illum aliquid sapiente. Optio animi corporis deleniti aspernatur. Mollitia corrupti hic dignissimos maxime perspiciatis officia nisi dolorum."
+                ],
+                "reward": "Illo sed in beatae laborum facilis quod. Nihil consequatur ut atque assumenda maiores ipsum. Molestias enim officia dolore et. Distinctio maiores impedit totam soluta facere quas.",
+                "failure": "Eius magni sunt sequi. Vitae officia perspiciatis officiis. Perferendis dolore qui veniam tempora provident. Veniam repellat voluptas tempore corrupti nulla fuga."
+            }
+        },
+        {
+            "roll": 58,
+            "data": {
+                "title": "Chartered loss adjuster",
+                "keywords": [
+                    "Job",
+                    "Outlaw",
+                    "Holy"
+                ],
+                "background": "Voluptatibus temporibus mollitia nihil.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Quisquam unde a nulla iste quos magni unde. Eligendi voluptates nesciunt sint eaque occaecati doloremque itaque. Est id porro exercitationem totam mollitia perferendis similique libero.",
+                    "Velit ad provident dolore atque doloribus adipisci odio mollitia. Excepturi iste error consectetur necessitatibus laudantium quod quaerat. Sunt incidunt asperiores excepturi fuga excepturi optio reiciendis. Placeat dolorum mollitia non blanditiis cumque voluptate. Pariatur voluptas assumenda sapiente porro ea voluptatibus.",
+                    "Quis facilis deleniti temporibus adipisci minima asperiores. Est ex repellat maxime rerum voluptas impedit similique. Veritatis ullam sint quibusdam dolor."
+                ],
+                "reward": "Pariatur voluptatem quas corporis ipsam quidem reprehenderit magni. Consequatur inventore fugiat odit reprehenderit hic porro. Unde totam consequatur dolorum aperiam iusto veniam occaecati.",
+                "failure": "Deserunt incidunt aperiam recusandae fuga. Ratione unde beatae assumenda inventore. Reiciendis ullam ad explicabo ad."
+            }
+        },
+        {
+            "roll": 59,
+            "data": {
+                "title": "Engineer, manufacturing systems",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Rumor"
+                ],
+                "background": "Consequuntur ad expedita perferendis.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Labore commodi sit quos enim enim. Similique odio cumque culpa atque.",
+                    "Aut dolores eveniet numquam praesentium quia. Commodi quisquam quae fugiat maiores. Incidunt repudiandae ea cumque ducimus. Quibusdam voluptatum nisi commodi voluptate esse suscipit.",
+                    "Assumenda cupiditate quos totam commodi dolorem sit nisi repellat. Facere velit tempore a quae debitis. Laboriosam iusto vero eaque expedita non."
+                ],
+                "reward": "Maiores ducimus reprehenderit quis. Illum sunt distinctio mollitia ipsam. Ea at ipsa eos et ullam. Esse maxime deserunt dolor eum iste.",
+                "failure": "Nesciunt ex dicta nesciunt modi at aperiam quam. Repellat laboriosam non blanditiis ullam quasi amet dolor. Incidunt blanditiis cupiditate vero laboriosam ut nostrum in. Quidem natus alias praesentium quaerat beatae. A facere similique laborum amet deserunt perferendis."
+            }
+        },
+        {
+            "roll": 60,
+            "data": {
+                "title": "Health promotion specialist",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Outlaw"
+                ],
+                "background": "Delectus iure ipsa provident officia nostrum.",
+                "location": "Random Town",
+                "time": 15,
+                "description": [
+                    "Dolorem harum ratione nostrum ea. Magni quis natus sequi excepturi. Consequatur assumenda impedit repellat repellat voluptate perspiciatis. Accusantium voluptates laudantium rerum itaque deleniti.",
+                    "Nisi sint nobis ipsum eligendi. Inventore iste ipsa quam. Assumenda totam quaerat consequatur occaecati saepe.",
+                    "Aut itaque repellat quidem fugit. Eos quis modi voluptate perspiciatis temporibus impedit. Explicabo sint ipsum natus deserunt sapiente corrupti aspernatur. In totam tempora quae aspernatur modi natus."
+                ],
+                "reward": "Optio repudiandae dolor earum eligendi libero veniam. Commodi similique vero repellendus consequatur recusandae excepturi. Commodi deleniti voluptatibus debitis doloribus repudiandae sed.",
+                "failure": "Adipisci magni doloremque aut ut. Minus voluptatum vel sapiente eum corrupti non. Eum dicta occaecati consequuntur id. Similique commodi dolore facere error odit asperiores. Facilis quibusdam harum mollitia aspernatur veniam error esse."
+            }
+        },
+        {
+            "roll": 61,
+            "data": {
+                "title": "Adult nurse",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Strange"
+                ],
+                "background": "Sed debitis ea eveniet unde similique quidem.",
+                "location": "Random Town",
+                "time": 0,
+                "description": [
+                    "Odit vel in placeat labore. Porro voluptatum debitis tempora iste unde ullam quidem est. Necessitatibus perspiciatis distinctio excepturi explicabo laudantium placeat totam.",
+                    "In exercitationem iusto omnis laboriosam officia eius. Minus dolorum amet ut a. Distinctio nihil repudiandae laudantium unde debitis. Architecto id velit ullam quae non error aliquam.",
+                    "Doloribus nihil consectetur aperiam a vero fugiat. Officiis esse blanditiis illo officia nemo fuga. Assumenda ducimus ducimus adipisci iste."
+                ],
+                "reward": "Beatae similique molestiae ad quidem vel tenetur. Vitae sint quasi totam. Pariatur quaerat fugiat doloribus qui nobis ipsa.",
+                "failure": "Voluptates voluptates illum cupiditate excepturi pariatur error aut. Blanditiis cumque ullam placeat qui fugiat minima ipsum. Quidem debitis sed asperiores neque omnis dicta."
+            }
+        },
+        {
+            "roll": 62,
+            "data": {
+                "title": "Dealer",
+                "keywords": [
+                    "Job",
+                    "Youth",
+                    "Supernatural"
+                ],
+                "background": "Sint error omnis natus repudiandae quisquam.",
+                "location": "Random Mine",
+                "time": 10,
+                "description": [
+                    "Tempora dignissimos adipisci adipisci doloremque necessitatibus. Repellendus dolore ea reiciendis explicabo iure ratione in. Sint perspiciatis in beatae quibusdam maiores ipsa. Harum eos dolores reprehenderit.",
+                    "Commodi ullam illo ipsa. Facilis placeat non libero quod vel quo officiis. Commodi exercitationem nisi non odit delectus ea.",
+                    "Soluta nihil provident voluptatum deserunt. Doloribus aperiam voluptate asperiores esse. Fugiat illum cumque temporibus voluptatibus."
+                ],
+                "reward": "Similique minima culpa aspernatur in dolores harum laudantium accusamus. Veniam fugit doloremque officiis tenetur aspernatur fugiat. Mollitia id cum fugit neque quidem eum vero eum. Laboriosam autem pariatur eum natus consectetur.",
+                "failure": "Quidem facilis perspiciatis vero. Laboriosam omnis consequuntur cumque dolorem explicabo adipisci architecto. Non eos aliquam optio animi iusto totam ipsa. Inventore ratione veritatis velit id doloremque exercitationem alias. Consequuntur occaecati delectus in at cumque beatae."
+            }
+        },
+        {
+            "roll": 63,
+            "data": {
+                "title": "Therapist, sports",
+                "keywords": [
+                    "Job",
+                    "Holy",
+                    "Personal"
+                ],
+                "background": "Nobis modi veritatis soluta optio aut ipsa consequuntur in.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Nesciunt architecto commodi totam rem vel omnis. Nam officia reiciendis laborum illo ipsum. Quis facilis totam animi amet quisquam magni unde quibusdam. Beatae pariatur beatae facere exercitationem doloribus neque.",
+                    "Sequi praesentium ratione ex quia laudantium sunt. A delectus nulla facere vitae.",
+                    "Perferendis officiis ipsam neque ea. Aliquam eius iusto voluptates expedita sapiente. Aliquid voluptatum aliquid illum repudiandae."
+                ],
+                "reward": "Amet repellendus reprehenderit deserunt eaque at earum. Corporis excepturi quis nam velit. Dicta fugit laudantium aspernatur.",
+                "failure": "Incidunt ab consequuntur velit in. Voluptatum voluptatem ipsa a reprehenderit laborum libero neque. Officiis eveniet nemo architecto error labore. Voluptatibus aut voluptatum est officiis ipsam numquam velit. Totam natus eligendi voluptates in quisquam adipisci."
+            }
+        },
+        {
+            "roll": 64,
+            "data": {
+                "title": "Designer, textile",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Traveler"
+                ],
+                "background": "Voluptatibus ut vero eaque fugit rerum eveniet atque.",
+                "location": "Random Town",
+                "time": 7,
+                "description": [
+                    "Asperiores beatae nisi cupiditate laudantium laborum placeat. Nobis blanditiis sequi eveniet asperiores incidunt sit rem. Qui numquam facilis sapiente voluptatum ab omnis.",
+                    "Cum quod fugit veniam magni odit. Eligendi odit dolorum voluptatibus ad laborum. Debitis quo illo cumque repellendus.",
+                    "Sequi accusantium ut doloribus sequi doloremque vero. Possimus laboriosam accusamus facere modi quibusdam quos. Neque possimus laboriosam numquam commodi veritatis dolor quam. Maxime eaque ut corporis asperiores natus iste."
+                ],
+                "reward": "Consequatur sapiente debitis adipisci delectus voluptatem. Illum tenetur optio omnis repellat dignissimos veritatis. Debitis qui ut nobis dolores illo voluptatem.",
+                "failure": "Deserunt a quasi consequuntur rem omnis. Praesentium quidem numquam labore quam nam fugit. Alias alias dolor perferendis fugiat minus blanditiis."
+            }
+        },
+        {
+            "roll": 65,
+            "data": {
+                "title": "Set designer",
+                "keywords": [
+                    "Job",
+                    "Labor",
+                    "Law"
+                ],
+                "background": "Vel amet laboriosam ab corrupti autem ut delectus.",
+                "location": "Random Mine",
+                "time": 10,
+                "description": [
+                    "Enim accusamus distinctio debitis enim dolorem et voluptas culpa. Cumque sapiente animi doloremque corporis.",
+                    "Iste architecto ullam tenetur fuga animi libero. Similique laboriosam earum aut quaerat facere voluptatem odit. Eaque voluptate quam ut odio quis eum.",
+                    "Nemo adipisci omnis asperiores libero expedita eligendi itaque. Illum atque eaque laboriosam perspiciatis ab voluptatem. Quisquam nam impedit cum eos optio impedit veritatis aut."
+                ],
+                "reward": "Dignissimos dolores ab accusamus ipsam saepe labore dolore. Porro veniam fuga delectus ut temporibus. Aspernatur veniam ipsam illum enim dolorem doloribus iusto.",
+                "failure": "Aliquid repellendus illo libero nisi vitae fugit ipsum. Corporis dolorem voluptates repellendus expedita deleniti voluptate. Cumque deleniti exercitationem exercitationem nobis facere placeat."
+            }
+        },
+        {
+            "roll": 66,
+            "data": {
+                "title": "Air broker",
+                "keywords": [
+                    "Job",
+                    "Undead",
+                    "Train"
+                ],
+                "background": "Id aliquid voluptatibus alias inventore blanditiis repudiandae nobis.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Natus occaecati atque similique. Minus quaerat blanditiis commodi rem. Et qui nihil aut provident dolore.",
+                    "Ut maiores harum earum saepe. Tempora ad maxime blanditiis. Exercitationem amet enim officia atque.",
+                    "Voluptatem ad itaque reprehenderit adipisci quis. Reiciendis iusto voluptatibus eum soluta. Culpa exercitationem beatae consequuntur earum. Laborum nulla suscipit illo sequi nemo beatae."
+                ],
+                "reward": "Rerum eveniet dolorum nobis necessitatibus quidem explicabo impedit quos. Est eligendi eum tempora illo molestias optio nobis. Error quo aperiam nobis eos.",
+                "failure": "Beatae optio pariatur accusantium. Quisquam explicabo autem cupiditate quos dolor. Voluptate occaecati ratione quasi saepe doloribus. Natus fuga minus temporibus officia autem similique quam."
+            }
+        },
+        {
+            "roll": 67,
+            "data": {
+                "title": "Psychologist, clinical",
+                "keywords": [
+                    "Job",
+                    "Research",
+                    "Rumor"
+                ],
+                "background": "Ipsa facilis animi reiciendis fugiat illum debitis sit facilis.",
+                "location": "Random Mine",
+                "time": 15,
+                "description": [
+                    "Nisi possimus tenetur provident nulla libero deserunt necessitatibus. Molestias est velit nulla architecto consequuntur. Eius minus ut nulla et consequuntur vero. Vero quae reprehenderit deleniti in.",
+                    "Provident perspiciatis itaque consequatur quisquam quidem sunt cumque quis. Sint molestias facere deleniti quia nostrum necessitatibus mollitia. Ullam id esse laboriosam modi rem pariatur ducimus. Tenetur accusantium rerum molestiae minus.",
+                    "Officiis vel praesentium rerum exercitationem quisquam eveniet cum. Molestias dolores ad quis ducimus eaque aspernatur voluptatibus. Eum rem voluptate eos asperiores at occaecati. Cumque consequatur praesentium aspernatur accusantium eligendi quae hic."
+                ],
+                "reward": "Fuga molestiae sunt delectus earum. Rem debitis quae culpa. Iure accusamus quaerat mollitia nisi.",
+                "failure": "Debitis beatae sapiente explicabo odit eligendi et. Maiores animi voluptatum temporibus dolorem. Provident perspiciatis natus dignissimos odio sapiente distinctio. Itaque magni odio vero sit veniam iure."
+            }
+        },
+        {
+            "roll": 68,
+            "data": {
+                "title": "Health and safety adviser",
+                "keywords": [
+                    "Job",
+                    "Outlaw",
+                    "Tribal"
+                ],
+                "background": "Expedita ipsum excepturi dicta sed.",
+                "location": "Random Town",
+                "time": 15,
+                "description": [
+                    "Qui temporibus explicabo numquam aspernatur quaerat dignissimos. Facere harum maxime corrupti quia laboriosam quis maxime. Quam quaerat nam reiciendis porro enim blanditiis.",
+                    "At eveniet quasi necessitatibus ea magnam. Doloribus rerum sapiente totam amet nostrum. Ullam commodi dolorum accusantium cupiditate delectus ipsum voluptates.",
+                    "Cupiditate placeat sed quis nemo. Illo quas repellendus aliquam modi fugit dolores. Doloremque alias optio ea accusamus neque at."
+                ],
+                "reward": "Non neque doloremque ad qui. Corporis aliquam quis harum temporibus. Laboriosam repudiandae amet fugit debitis porro ullam dolores iusto.",
+                "failure": "Fuga dolorem ratione tempore deleniti maiores reprehenderit. Maiores aliquam veritatis tempora voluptatum. Reprehenderit blanditiis architecto commodi."
+            }
+        },
+        {
+            "roll": 69,
+            "data": {
+                "title": "Exercise physiologist",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Occult"
+                ],
+                "background": "Quo quisquam id possimus vel.",
+                "location": "Local Town",
+                "time": 7,
+                "description": [
+                    "Similique similique ex repudiandae perspiciatis facere fuga ducimus. Quae rerum assumenda porro perferendis accusantium corrupti quam. Natus velit quae corrupti iste error nobis.",
+                    "Distinctio repellendus iste natus. Nemo eos nostrum molestiae. Maiores nesciunt voluptas quasi excepturi. Dicta autem quo inventore.",
+                    "Facilis odio illo impedit ipsa odio. Optio ullam unde alias quas. Labore eveniet neque neque eum magni."
+                ],
+                "reward": "Doloremque dolorum ut numquam vitae. Dolore pariatur eaque esse. Officia excepturi est sint odio.",
+                "failure": "Sequi necessitatibus aspernatur nemo nemo nam dolor. Maiores consequuntur optio iste accusamus iusto. Quod eius provident perferendis voluptatum inventore officiis commodi."
+            }
+        },
+        {
+            "roll": 70,
+            "data": {
+                "title": "Merchandiser, retail",
+                "keywords": [
+                    "Job",
+                    "Escort",
+                    "Settler"
+                ],
+                "background": "Repellendus provident doloremque voluptatem eligendi quam.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Ratione recusandae dolorum exercitationem perferendis soluta. Laudantium minima laboriosam libero ipsum illum voluptatum officiis. Voluptatem voluptatibus esse ab modi sed. Praesentium quas hic enim non unde quae sapiente.",
+                    "Labore laudantium excepturi deserunt porro. Magnam consequuntur sequi repellat repellat amet nemo. Eos harum fugiat iste deserunt. Molestiae aliquid ea quia ipsum commodi magni laudantium.",
+                    "Veniam voluptatibus ullam iure asperiores voluptatum explicabo tenetur. Repudiandae fugit accusamus repellendus eligendi vitae officia necessitatibus. Veritatis ipsam sapiente illum mollitia perferendis."
+                ],
+                "reward": "Officia nulla porro nobis fuga. Facere numquam magnam omnis neque. Debitis nemo exercitationem dignissimos ratione exercitationem perspiciatis quam. Minima veritatis distinctio natus dicta pariatur nulla provident. Itaque quibusdam fugit ut vero repudiandae quos.",
+                "failure": "Est ad laboriosam eligendi facere repudiandae. Magni voluptate sit ratione numquam quaerat."
+            }
+        },
+        {
+            "roll": 71,
+            "data": {
+                "title": "Scientist, forensic",
+                "keywords": [
+                    "Job",
+                    "Merchant",
+                    "Holy"
+                ],
+                "background": "Voluptatibus est deserunt nobis esse voluptatibus iste.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Quia at corrupti quia ipsam laudantium doloremque optio ipsa. Optio reprehenderit quam quisquam officiis aliquid commodi. Vel enim quae animi omnis officiis culpa quo.",
+                    "Sunt architecto vel ratione reiciendis ipsa accusantium exercitationem. Dolor quae nostrum molestiae veritatis dolor. Dolorem amet eveniet iure ipsum quas.",
+                    "Blanditiis beatae maxime et incidunt. Harum similique magnam sed nulla amet. Animi eos magnam perspiciatis natus placeat."
+                ],
+                "reward": "Dolorum iusto veniam animi velit ab animi officia soluta. Rerum aspernatur eligendi neque totam perspiciatis delectus. Qui nam sequi optio voluptate ea libero.",
+                "failure": "Unde voluptate dicta corrupti voluptate fuga ab. Animi repudiandae voluptatum sapiente ipsum doloribus recusandae explicabo."
+            }
+        },
+        {
+            "roll": 72,
+            "data": {
+                "title": "Publishing copy",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Personal"
+                ],
+                "background": "Nostrum at qui sequi tenetur est.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Voluptates omnis beatae ex ab accusantium aut reprehenderit. Odit consequatur atque consequuntur. Dolorum officia iusto ab nesciunt labore.",
+                    "Quia quis nemo dolorem voluptatem. Ipsum optio cumque pariatur officiis. Unde adipisci ad neque in ducimus.",
+                    "Voluptas nihil corporis repellendus provident doloremque. Animi soluta doloremque accusamus repudiandae. Voluptate impedit expedita natus minima perferendis voluptatum fugit."
+                ],
+                "reward": "Nesciunt ipsum maiores iure mollitia. Distinctio inventore inventore magnam consectetur facilis pariatur. Vero maxime repellendus dicta rerum ducimus natus.",
+                "failure": "Recusandae eum minus quis natus id sunt. At et animi nemo impedit distinctio. Ut nam sapiente id."
+            }
+        },
+        {
+            "roll": 73,
+            "data": {
+                "title": "Theatre director",
+                "keywords": [
+                    "Job",
+                    "Train",
+                    "Find"
+                ],
+                "background": "Molestiae placeat esse tempora officia eos laborum odit.",
+                "location": "Local Town",
+                "time": 10,
+                "description": [
+                    "Rem cupiditate provident numquam officiis aspernatur dolores facilis dolore. Laboriosam minima voluptates est consectetur impedit ea eos. Soluta voluptates suscipit quisquam perspiciatis velit mollitia. Perspiciatis nobis illo beatae molestias odio amet quisquam.",
+                    "Quibusdam eveniet minima nostrum distinctio dolorum earum ut. Voluptas iure est incidunt quia eum nam quo. Aliquid distinctio distinctio est laborum nisi repellendus. Eos hic eligendi non ea.",
+                    "Esse expedita possimus aliquid expedita voluptatem praesentium nisi. Saepe perspiciatis eaque temporibus quibusdam. Quos adipisci laboriosam ullam vero in. Culpa sunt assumenda laudantium ea architecto distinctio."
+                ],
+                "reward": "Officiis repudiandae earum illo blanditiis ut. Maiores blanditiis cumque ex voluptas architecto velit minima dolorum. Maiores porro eius ut eum dicta dolore beatae.",
+                "failure": "Iure enim explicabo asperiores voluptatum voluptas sit quam. Ullam ipsa perspiciatis quam. Officiis itaque quos deleniti ea repudiandae. Dolores iusto perspiciatis minima."
+            }
+        },
+        {
+            "roll": 74,
+            "data": {
+                "title": "Petroleum engineer",
+                "keywords": [
+                    "Job",
+                    "Settler",
+                    "Labor"
+                ],
+                "background": "Quasi facilis illo voluptatum commodi accusamus reiciendis.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Itaque tempora hic eos exercitationem asperiores rerum earum. Ipsa mollitia perspiciatis eveniet iste quo facere. Occaecati illum saepe possimus natus delectus ducimus optio.",
+                    "Maxime quisquam voluptates suscipit totam culpa odio praesentium. Dolores adipisci voluptatem sed. Facilis quisquam fugit quaerat consequatur odio. A tempora ut corrupti minima culpa nostrum animi.",
+                    "Temporibus necessitatibus praesentium ipsa deleniti occaecati eius debitis. Numquam a ullam in id sunt velit dolorum dicta. Beatae aliquam molestiae qui aut quo nihil."
+                ],
+                "reward": "Qui sapiente soluta pariatur vel dolore. Nesciunt quas tempore iusto laudantium nulla quibusdam. Nihil sint corrupti quos expedita omnis cumque maxime amet. Culpa a nihil ut repellendus itaque.",
+                "failure": "Libero quos explicabo alias laudantium autem temporibus nihil maxime. Earum ab distinctio necessitatibus quaerat veritatis tempore. Vitae ipsa autem eum mollitia repudiandae saepe. Libero molestiae provident nulla aperiam doloremque expedita."
+            }
+        },
+        {
+            "roll": 75,
+            "data": {
+                "title": "Engineer, structural",
+                "keywords": [
+                    "Job",
+                    "Find",
+                    "Tribal"
+                ],
+                "background": "Ea quo necessitatibus officiis asperiores odit.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "At repellendus consequatur ex neque saepe asperiores molestias. Totam doloremque sint quae a eos numquam accusantium aliquam. Dolorum ipsum sunt dicta pariatur perspiciatis consectetur odit. Laudantium itaque et laborum et.",
+                    "Provident ullam beatae enim eius. Repellendus beatae asperiores enim neque dicta optio. Facilis molestias quis incidunt tenetur facere veniam odio quod.",
+                    "Tempore tempore inventore ducimus nam itaque. Iure quasi dolore sed. Et optio voluptas temporibus quasi. Consectetur incidunt ratione est molestias nisi."
+                ],
+                "reward": "Nulla provident facere dolorem aspernatur sed ullam error. At ad facilis deleniti debitis. Eius rem iure architecto expedita velit totam officiis. Libero eveniet amet incidunt natus mollitia.",
+                "failure": "Ipsum atque at sunt nisi error saepe eos. Sit esse illo quo excepturi. Quis possimus fugiat ad necessitatibus laboriosam modi quae. Consectetur assumenda est cupiditate perferendis."
+            }
+        },
+        {
+            "roll": 76,
+            "data": {
+                "title": "Building control surveyor",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Supernatural"
+                ],
+                "background": "Neque minus sit veniam beatae eligendi.",
+                "location": "Random Mine",
+                "time": 7,
+                "description": [
+                    "Minus animi ipsam placeat. Unde tempore vel ea corrupti molestias dolores corporis praesentium. Perspiciatis animi aperiam quae voluptatem pariatur. Quasi corrupti delectus quidem officiis.",
+                    "Qui dicta maxime voluptates corrupti quaerat. Ipsum expedita quidem a quisquam soluta. Quod temporibus distinctio libero expedita dicta modi suscipit.",
+                    "Totam labore expedita aperiam aperiam. Maiores minima exercitationem occaecati beatae nisi officia iste laborum. Sit consectetur cupiditate sequi occaecati ad amet. Necessitatibus ipsam enim rem quam."
+                ],
+                "reward": "Aut in autem modi suscipit error. Accusamus sit laudantium eligendi non qui voluptatem. Ex pariatur ipsum corrupti.",
+                "failure": "Maiores vero vel vitae ut. Esse dolores laborum sed sunt excepturi vel ut. Nostrum eius placeat praesentium quisquam exercitationem. Dolorum non aspernatur esse autem alias reprehenderit ipsum."
+            }
+        },
+        {
+            "roll": 77,
+            "data": {
+                "title": "Holiday representative",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Negotiation"
+                ],
+                "background": "Modi explicabo asperiores earum natus quidem.",
+                "location": "Random Mine",
+                "time": 10,
+                "description": [
+                    "Maiores dicta quo ut soluta excepturi et. Enim tenetur nulla repellat id reprehenderit vel quibusdam natus. Nostrum nihil similique cumque cumque delectus.",
+                    "Et enim commodi unde odit. Eos sequi deserunt amet quibusdam ratione. Sit quis ipsam velit quam.",
+                    "Itaque labore ipsam beatae fuga. Eaque placeat a officiis voluptatem maxime. Voluptate architecto maiores expedita iste occaecati."
+                ],
+                "reward": "Explicabo illo cupiditate repellat hic perspiciatis. Aspernatur cupiditate sapiente tempore asperiores pariatur odit beatae. Tempora aut vero provident iste aspernatur quod.",
+                "failure": "Ut repudiandae inventore dignissimos nam magnam nostrum vero aut. Aliquid non omnis ipsam quaerat fugit consectetur vero. Dolorum officiis vel rem vitae mollitia numquam beatae exercitationem. Tempora possimus odit hic incidunt eaque."
+            }
+        },
+        {
+            "roll": 78,
+            "data": {
+                "title": "Tour manager",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Performer"
+                ],
+                "background": "Minus dolore delectus necessitatibus.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Expedita sed voluptates quibusdam nesciunt sequi enim. Nam excepturi nulla sapiente esse voluptatum. Dicta provident veritatis non repellat deserunt dolorem.",
+                    "Excepturi vitae molestiae reiciendis. Reiciendis fugiat eum aperiam harum facilis voluptas odio.",
+                    "Cum impedit nihil possimus eveniet nulla. Sint debitis possimus aperiam fugit velit corrupti architecto. Vel ratione impedit similique vitae. Similique et similique tempora expedita molestiae dolorem."
+                ],
+                "reward": "Dicta explicabo eum exercitationem temporibus harum rerum corporis. Totam non beatae cupiditate voluptas culpa possimus maxime.",
+                "failure": "Voluptatum recusandae sed consequatur. Itaque pariatur voluptatem voluptatibus explicabo assumenda ex commodi. Ratione ab recusandae natus fugiat qui. Reprehenderit id incidunt adipisci tempora consequatur."
+            }
+        },
+        {
+            "roll": 79,
+            "data": {
+                "title": "Illustrator",
+                "keywords": [
+                    "Job",
+                    "Fight",
+                    "Politics"
+                ],
+                "background": "Aspernatur voluptatibus nulla doloribus quam veniam velit ea.",
+                "location": "Local Town",
+                "time": 5,
+                "description": [
+                    "Doloribus iste tempore ad tempore eligendi. Exercitationem ullam perspiciatis labore libero. Dolorem sed pariatur ad nostrum. Quod nostrum corrupti at magnam expedita unde debitis.",
+                    "Sequi nam earum maxime id nobis natus. Vitae sapiente vero vero modi esse odio in. Sequi quibusdam excepturi illum suscipit.",
+                    "Neque laboriosam non magni quaerat. Nemo reiciendis voluptatibus excepturi illo necessitatibus sit. Quos nisi accusantium esse laudantium dolorem dolore iusto. Omnis praesentium sed repellendus amet nemo nesciunt."
+                ],
+                "reward": "Delectus necessitatibus distinctio culpa culpa necessitatibus. Sequi quis reiciendis unde explicabo debitis quibusdam sint. Molestias dicta ut cumque necessitatibus deserunt.",
+                "failure": "Soluta recusandae quae animi quis repudiandae blanditiis aliquid iure. Quis consequuntur aliquam sunt architecto distinctio quisquam. Aliquid non harum sequi reiciendis molestias. Odit ipsum odit et architecto."
+            }
+        },
+        {
+            "roll": 80,
+            "data": {
+                "title": "Electronics engineer",
+                "keywords": [
+                    "Job",
+                    "Performer",
+                    "Murder"
+                ],
+                "background": "Explicabo at voluptas dolor pariatur.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Voluptatum deserunt est ut minima ex. Numquam iure fuga rerum similique tenetur. Harum voluptatem saepe voluptates assumenda provident est.",
+                    "Non tenetur maxime temporibus nostrum dolorem earum. Sint necessitatibus maxime quasi earum repellendus est aliquam. Accusantium praesentium rem accusantium modi.",
+                    "Dignissimos consequuntur iusto labore ducimus ea laboriosam quisquam. Sed enim nostrum temporibus eos nobis odio distinctio. Tenetur magnam possimus iusto tenetur. Voluptatibus beatae velit voluptatibus sapiente expedita."
+                ],
+                "reward": "Beatae voluptas magni modi eligendi minus. Dolore quidem error rem occaecati dicta beatae vitae dicta. Quaerat sequi ratione amet.",
+                "failure": "Quod quibusdam eum eaque. Blanditiis esse quisquam mollitia atque saepe fugit aspernatur. Laborum eius ipsam quo suscipit sed nisi. Et rerum recusandae laudantium eaque voluptas."
+            }
+        },
+        {
+            "roll": 81,
+            "data": {
+                "title": "Clinical research associate",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Law"
+                ],
+                "background": "Vitae odio dolorum occaecati ad.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Repellat ut est officiis natus voluptatum eligendi. Possimus totam nostrum tempore repellat. Aliquam consequatur impedit quidem hic doloremque. Quos beatae officiis non accusantium fugit aut maxime.",
+                    "Doloremque odio ratione dolorum delectus dolorum eos. Necessitatibus aliquam deleniti sunt dolor est. Corporis rerum commodi libero at accusantium odio. Pariatur animi laboriosam voluptate odit alias fuga fugit. Veritatis nisi beatae officia itaque ad iusto sit perspiciatis.",
+                    "Nulla sequi corrupti ullam eius fugiat modi sed. Error animi quam corporis sapiente doloremque ipsam. Commodi odit quibusdam nemo rerum consequuntur provident voluptate cupiditate."
+                ],
+                "reward": "Ipsam porro doloremque atque nihil similique laboriosam mollitia. Quo ex aut eos repellendus corporis facilis. Explicabo eligendi odio porro unde. Sint ipsa ullam recusandae est. Sint dolor perspiciatis provident tempore amet modi in.",
+                "failure": "Illum molestias quibusdam nihil perferendis quaerat perferendis. Tempora deserunt rem animi molestias iusto asperiores. Atque cumque commodi minima assumenda inventore veritatis."
+            }
+        },
+        {
+            "roll": 82,
+            "data": {
+                "title": "Contracting civil engineer",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Undead"
+                ],
+                "background": "Quasi autem non odit asperiores fuga.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Dolor fugit commodi nulla nesciunt vitae. Nihil illum delectus sint. Eum mollitia modi atque qui.",
+                    "Reiciendis cumque beatae reprehenderit aliquid. Quas quibusdam nostrum dolor necessitatibus dignissimos sed. Adipisci culpa dolorum accusamus. Itaque provident dolor quas at amet. Accusamus saepe dolore alias recusandae numquam repellat neque vero.",
+                    "Unde minus nesciunt necessitatibus libero laudantium id. Optio distinctio iure ea repellendus sed. Eum illum saepe dolore recusandae quae. Libero quae blanditiis velit occaecati reiciendis."
+                ],
+                "reward": "Enim accusantium veritatis earum iste. Autem quidem consequatur recusandae veniam perspiciatis sunt doloribus. Officia animi quae repudiandae vero. Ipsam animi nesciunt similique.",
+                "failure": "Esse voluptatem aliquid fugiat amet et. Soluta magni sed quidem voluptatem ut. Expedita error sunt sequi inventore voluptatum quod."
+            }
+        },
+        {
+            "roll": 83,
+            "data": {
+                "title": "Advertising art director",
+                "keywords": [
+                    "Job",
+                    "Undead",
+                    "Strange"
+                ],
+                "background": "Vitae illo quae mollitia dolore tenetur qui quo.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Nam fuga in porro eligendi atque. Reprehenderit nihil saepe possimus minus. Voluptate accusamus voluptatem voluptatum recusandae tempora debitis veniam.",
+                    "Nisi voluptas assumenda veritatis vero. Fuga quasi illo quibusdam. Vero natus blanditiis explicabo.",
+                    "Harum alias officia quaerat consectetur. Exercitationem voluptatum explicabo corrupti quia occaecati. Alias aliquam commodi id fugit. Dolor porro consequuntur eaque corrupti."
+                ],
+                "reward": "Quasi commodi eaque explicabo quis. Voluptate eos consectetur ducimus sed. Iusto sapiente dolorem sapiente mollitia doloribus id. Beatae repellendus voluptates repellendus aliquid sint.",
+                "failure": "Natus explicabo cupiditate inventore impedit iure ut. Eligendi aperiam perferendis cum. Eaque labore velit assumenda voluptatem nisi."
+            }
+        },
+        {
+            "roll": 84,
+            "data": {
+                "title": "Administrator, charities/voluntary organisations",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Rumor"
+                ],
+                "background": "Doloribus numquam odit placeat dolor reiciendis nam quam sit.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Laboriosam possimus doloribus laudantium labore consequuntur corrupti ipsa. Minus quod consectetur vel.",
+                    "Aperiam recusandae pariatur modi modi omnis. Cum vero error enim quis optio. Tempore ullam libero at debitis rerum corporis dicta dignissimos. Quia placeat laboriosam consectetur facere aliquid.",
+                    "Veniam eos maxime quaerat sit aliquam incidunt ab. Occaecati sit ratione tenetur fugiat. Nisi atque hic ex ea quos. Suscipit doloremque dolore molestiae delectus."
+                ],
+                "reward": "Libero natus officiis enim magnam. Nobis voluptas doloremque ullam sapiente nam quam. Odio nesciunt dicta velit eos tempore.",
+                "failure": "Assumenda nulla ut labore voluptatem repudiandae facilis placeat impedit. Praesentium quo vitae delectus nesciunt doloribus rem."
+            }
+        },
+        {
+            "roll": 85,
+            "data": {
+                "title": "Geophysicist/field seismologist",
+                "keywords": [
+                    "Job",
+                    "Train",
+                    "Performer"
+                ],
+                "background": "Debitis nisi optio officiis quisquam incidunt.",
+                "location": "Local Town",
+                "time": 15,
+                "description": [
+                    "Nihil exercitationem aliquam natus nemo. Quia omnis ullam dignissimos amet eaque recusandae. Porro ullam quas perferendis sed. Temporibus quo doloribus tempore molestiae culpa.",
+                    "Odit libero nostrum excepturi tempore. Deleniti quas doloremque sapiente omnis minus quas. Molestias at consequuntur quas recusandae quam ipsa adipisci ut. Corporis necessitatibus error blanditiis saepe deleniti magni.",
+                    "Ullam neque corrupti sunt aliquid consequuntur nostrum voluptatem. Qui adipisci aperiam odit fugit sit veritatis nam. Molestias similique ex magnam laborum inventore at. Ullam quaerat nisi ipsa unde facere libero veritatis."
+                ],
+                "reward": "Eius similique excepturi nemo nostrum natus. Vero veniam facilis facere consectetur aspernatur nostrum. Corporis alias minima quas doloremque.",
+                "failure": "Eum nesciunt animi rem culpa. Fuga dolorem molestiae quos fuga illo in. Laborum nesciunt deleniti doloribus accusantium dolore voluptatum. Quo nobis omnis voluptatibus molestias eos illo dolor. Reprehenderit praesentium quo esse ex asperiores necessitatibus quaerat."
+            }
+        },
+        {
+            "roll": 86,
+            "data": {
+                "title": "Scientist, biomedical",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Train"
+                ],
+                "background": "Dolor saepe at quas consequuntur perspiciatis rem quisquam.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Amet id quaerat corporis mollitia. Distinctio dolorem qui commodi iure dolorem ipsa. Cum reprehenderit velit adipisci odit dolorum quia dolorum. Numquam nobis inventore alias modi ipsum. Eius ab deserunt non unde neque.",
+                    "Rem ab excepturi temporibus nihil rerum. Dolorem blanditiis soluta assumenda ipsum perferendis nulla. Cum laudantium rerum voluptas eos eum. Id quaerat nesciunt accusamus vero molestiae a.",
+                    "Eius id magnam autem facilis velit id commodi. Aperiam quibusdam aperiam veritatis suscipit. Corporis natus similique assumenda vero eligendi. Cum consectetur voluptate iste tempora."
+                ],
+                "reward": "Est culpa voluptate quasi alias vitae sequi. Voluptate sunt aut fugiat quasi. Sed illum iste ex facilis quam. Omnis ut aspernatur doloribus saepe natus facere vero.",
+                "failure": "Nisi omnis quis natus molestiae ipsum vitae dignissimos. Commodi placeat excepturi ex odit. Ipsum culpa adipisci consectetur nihil incidunt ut."
+            }
+        },
+        {
+            "roll": 87,
+            "data": {
+                "title": "Mining engineer",
+                "keywords": [
+                    "Job",
+                    "Bounty",
+                    "Tribal"
+                ],
+                "background": "Sit eius cum quas sunt expedita aut nostrum aspernatur.",
+                "location": "Local Town",
+                "time": 15,
+                "description": [
+                    "Illo sed officiis veritatis possimus maxime autem consequatur. Sit quos unde deserunt deserunt voluptas optio. Saepe dolor architecto quas velit alias dolores hic. Nesciunt sed voluptatibus fugit tenetur.",
+                    "Beatae occaecati quam debitis sit veniam. Similique sapiente atque quaerat incidunt repellendus tempore. Labore provident dolor velit consequatur eos molestias nemo. Consequatur dicta iste nemo ipsum quod.",
+                    "Dolore fugit error ullam. Ex dolore accusantium repellat cupiditate expedita enim. Quaerat quaerat totam officia nobis assumenda amet. Autem aperiam repellendus laborum blanditiis incidunt."
+                ],
+                "reward": "Culpa occaecati culpa distinctio quos doloremque illo. Itaque dolore qui labore quasi. Ullam omnis maxime nam expedita esse. Beatae rerum laboriosam possimus laborum quod doloremque nostrum.",
+                "failure": "Occaecati unde recusandae distinctio autem. Autem hic laboriosam laudantium. Ad in dolores laboriosam quibusdam corrupti asperiores atque."
+            }
+        },
+        {
+            "roll": 88,
+            "data": {
+                "title": "Engineer, mining",
+                "keywords": [
+                    "Job",
+                    "Politics",
+                    "Settler"
+                ],
+                "background": "Sed architecto laudantium dolor inventore totam ipsa.",
+                "location": "Local Town",
+                "time": 10,
+                "description": [
+                    "Dignissimos voluptatibus nobis nostrum quis hic. Eos perferendis quisquam expedita exercitationem. Exercitationem corrupti quaerat architecto veritatis laborum id assumenda.",
+                    "Cum modi excepturi esse error dolor corrupti. Cum dignissimos maiores recusandae ullam aspernatur. Perspiciatis doloribus reprehenderit mollitia aperiam qui. Excepturi quam quidem culpa minus minus hic. Repudiandae fugiat totam minus nam sit maxime.",
+                    "Facilis ad placeat soluta culpa sit nisi deserunt totam. Voluptatum doloribus molestiae maiores velit. Ad omnis laborum qui quasi neque. Molestiae libero maxime est tempore animi."
+                ],
+                "reward": "Maxime labore architecto maiores architecto ipsam. Reiciendis occaecati recusandae quisquam saepe excepturi eaque laudantium quidem. Dolore molestiae iste possimus maxime asperiores officiis eius.",
+                "failure": "Expedita cum doloribus incidunt. Ipsum ea quo excepturi similique at quos cumque. Illum sequi optio repellendus ullam laboriosam at."
+            }
+        },
+        {
+            "roll": 89,
+            "data": {
+                "title": "Insurance underwriter",
+                "keywords": [
+                    "Job",
+                    "Labor",
+                    "Youth"
+                ],
+                "background": "Velit quia harum inventore.",
+                "location": "Random Town",
+                "time": 10,
+                "description": [
+                    "Mollitia quam velit quasi. Optio amet voluptatem fugit. Vel sint tempora expedita fuga harum rerum a. Quisquam architecto quia hic repellat.",
+                    "Libero reprehenderit vitae necessitatibus error a dolorum voluptatem facilis. Itaque ab et sed atque saepe recusandae. Quis quas corrupti consequuntur nihil. Deleniti accusantium quibusdam voluptates vitae reprehenderit.",
+                    "Laudantium molestias aut ea necessitatibus ea. Ratione possimus expedita commodi odit nemo. Veniam reiciendis veritatis quisquam accusamus praesentium labore."
+                ],
+                "reward": "Cupiditate maiores possimus nihil. Accusamus earum ea corporis delectus.",
+                "failure": "Facilis a fugit quos rem neque et perferendis. Non ratione id repudiandae sit atque voluptas. Illum odio atque unde dignissimos. Tenetur minus quasi at."
+            }
+        },
+        {
+            "roll": 90,
+            "data": {
+                "title": "Scientist, research (life sciences)",
+                "keywords": [
+                    "Job",
+                    "Tribal",
+                    "Law"
+                ],
+                "background": "Eos molestias porro praesentium odit dolore cumque.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Excepturi veritatis nam fuga dolores. Odio numquam voluptatem ipsa accusantium soluta quisquam. Harum tenetur necessitatibus provident praesentium sapiente ullam sequi.",
+                    "Facilis laudantium adipisci labore illo ipsam expedita quos. Consectetur sequi omnis ea optio expedita ullam vel in. Dolore quidem adipisci qui natus.",
+                    "Atque beatae veniam numquam animi odit aut adipisci expedita. Assumenda neque voluptatem quaerat minima incidunt repellat atque. Inventore aperiam est dolorum magnam vitae temporibus explicabo."
+                ],
+                "reward": "Quaerat expedita blanditiis inventore vitae officiis cumque. Voluptatem eius id corporis id officia voluptas optio minima. Labore illo non blanditiis. Adipisci fugit occaecati id modi.",
+                "failure": "Temporibus quam odio earum ducimus. Voluptates animi quod aliquid assumenda omnis aliquam. Officia consequuntur sit minima dolorum harum pariatur. Officiis aspernatur sapiente nihil labore. Necessitatibus architecto natus velit odit rem."
+            }
+        },
+        {
+            "roll": 91,
+            "data": {
+                "title": "Cartographer",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Bounty"
+                ],
+                "background": "Mollitia dolore rem officiis in repellendus corrupti.",
+                "location": "Random Mine",
+                "time": 10,
+                "description": [
+                    "Commodi voluptatum debitis alias quae quaerat. Ab asperiores dolorum sequi provident magni praesentium. Nemo sit nemo fugit consequatur aperiam.",
+                    "Laborum eaque corrupti perspiciatis pariatur voluptatum. Vero deserunt fuga sunt labore. Nulla repellat similique soluta optio. Recusandae perspiciatis dolorum laudantium dicta optio doloremque ipsam.",
+                    "Inventore nobis itaque repellat quae dolor qui cumque. Accusantium itaque quis rem dolor quaerat. A ipsam dolores dolorem recusandae eum perferendis molestiae dolore."
+                ],
+                "reward": "Sed voluptate quisquam unde odio vel maxime. Distinctio odio eaque consequatur omnis culpa id velit temporibus. Id reprehenderit rem vitae delectus incidunt commodi. Odit asperiores totam aspernatur culpa. Laboriosam aperiam aspernatur illum rem.",
+                "failure": "Repudiandae numquam debitis nulla ad dicta alias. Eaque consectetur excepturi quisquam quidem laborum. Ab nihil hic soluta temporibus. Hic quia esse soluta sit architecto tempora perspiciatis."
+            }
+        },
+        {
+            "roll": 92,
+            "data": {
+                "title": "Psychologist, forensic",
+                "keywords": [
+                    "Job",
+                    "Train",
+                    "Find"
+                ],
+                "background": "Magni deserunt repellat velit nihil officia asperiores a.",
+                "location": "Random Town",
+                "time": 5,
+                "description": [
+                    "Impedit similique quibusdam iusto sed nemo doloribus. Veritatis delectus rem hic voluptates delectus. Dolorem libero quae mollitia aperiam optio incidunt nobis quo. Quam consequatur tenetur a voluptate.",
+                    "Voluptate eos asperiores unde suscipit sunt quo natus numquam. Quidem blanditiis quasi suscipit porro veniam fugiat. Dolores sapiente quasi saepe incidunt quidem incidunt. Laboriosam ipsam necessitatibus amet perferendis minima.",
+                    "Accusantium ipsum quasi quod animi molestiae. Quae nemo maxime sed culpa facere quam eum. Velit unde delectus voluptates eveniet hic quam."
+                ],
+                "reward": "Molestiae commodi doloremque minima. Fugit facere deserunt occaecati illum fuga. Nam dolor explicabo aperiam hic provident dolorem ducimus. Culpa similique placeat ut esse. Sit autem iste distinctio corrupti cum quas odio.",
+                "failure": "Facere consectetur assumenda in cumque sunt. Ipsa laborum eos fuga nobis. Tempore accusantium laborum id labore officiis veritatis earum minima."
+            }
+        },
+        {
+            "roll": 93,
+            "data": {
+                "title": "Personal assistant",
+                "keywords": [
+                    "Job",
+                    "Science",
+                    "Tribal"
+                ],
+                "background": "Quod rem unde recusandae id.",
+                "location": "Random Town",
+                "time": 7,
+                "description": [
+                    "Repellendus rem ducimus odit exercitationem tempora nam provident. Laboriosam corporis officiis perferendis in suscipit esse. Itaque totam eligendi sapiente.",
+                    "Autem porro enim similique possimus commodi illo. Animi id ullam culpa animi expedita nesciunt. Officia eos nesciunt tenetur cum reiciendis quam.",
+                    "Ut vero recusandae cumque accusamus voluptates minus. Sunt sunt odio id deleniti molestiae exercitationem eaque illum. Culpa temporibus quo quam eum."
+                ],
+                "reward": "Tempora blanditiis quas aliquam odio nam. Omnis deleniti unde aspernatur dolorem quo vitae sunt. Odit sapiente possimus architecto dolorem magnam suscipit repudiandae recusandae. Mollitia molestiae hic ea harum est optio.",
+                "failure": "Ullam ducimus porro nisi architecto consectetur vel. Quia magni quis at modi voluptatibus perferendis incidunt. Enim maiores labore cum sit est. Deserunt sequi accusamus quia corrupti impedit temporibus."
+            }
+        },
+        {
+            "roll": 94,
+            "data": {
+                "title": "Human resources officer",
+                "keywords": [
+                    "Job",
+                    "Labor",
+                    "Occult"
+                ],
+                "background": "Blanditiis quisquam laudantium laudantium quasi asperiores placeat nam.",
+                "location": "Local Town",
+                "time": 0,
+                "description": [
+                    "Dicta magni esse fugit qui labore. Adipisci blanditiis quas delectus error expedita rerum voluptate. Voluptate suscipit ex error veritatis reiciendis. Numquam aperiam nesciunt reprehenderit reiciendis nemo soluta cum. Voluptatum deleniti neque eligendi veniam ducimus.",
+                    "Autem vel esse quod ea. Dolore ducimus fuga dolorum itaque eos. Cum maxime provident sequi totam. Voluptate nam doloremque ullam molestias omnis eveniet.",
+                    "Doloribus quasi pariatur beatae et. Et dicta hic officia esse. Minima accusantium animi optio. Necessitatibus tempora saepe harum voluptates laboriosam optio ab."
+                ],
+                "reward": "Iusto eos libero voluptatem molestias saepe iusto. Ipsum alias libero sequi nisi fugit numquam. Iure exercitationem perspiciatis labore ab reiciendis itaque. Suscipit dolorem incidunt voluptate debitis dolores dolores. Tenetur odio quisquam quod culpa beatae voluptates.",
+                "failure": "Impedit nostrum nostrum consectetur. Iusto dolorem labore nihil explicabo aut ut numquam."
+            }
+        },
+        {
+            "roll": 95,
+            "data": {
+                "title": "Building surveyor",
+                "keywords": [
+                    "Job",
+                    "Negotiation",
+                    "Murder"
+                ],
+                "background": "Corrupti eligendi nisi soluta odio sequi quia cumque.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Voluptatem sunt rem est nisi. Facilis esse maiores inventore id odio officia. Maxime natus vel consectetur. Deserunt facilis quibusdam fugiat iste corporis incidunt id.",
+                    "Deleniti maxime occaecati assumenda tempore mollitia nam. Enim labore totam magnam earum. Accusantium natus accusamus quibusdam voluptatum dolorem velit aspernatur. Minus non corrupti perferendis inventore.",
+                    "Culpa itaque molestias doloremque ratione voluptatibus omnis. Voluptas aut dolorem nisi dolor. Illum officia quae illo a molestias error eveniet."
+                ],
+                "reward": "Nemo cumque ipsum dicta tenetur maiores. Necessitatibus tenetur vel fugit magni. Quod iste occaecati autem sunt repellat. Quod culpa optio fugiat nostrum a.",
+                "failure": "Dolorum ea optio cumque placeat optio officiis quisquam. Exercitationem quibusdam sint architecto ipsa quisquam a eius officia. Ea cupiditate ab expedita animi itaque fugiat possimus molestias."
+            }
+        },
+        {
+            "roll": 96,
+            "data": {
+                "title": "Exhibition designer",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Murder"
+                ],
+                "background": "Corrupti delectus sapiente libero facere officiis.",
+                "location": "Random Mine",
+                "time": 0,
+                "description": [
+                    "Vitae mollitia optio nam aut neque corrupti sapiente. Culpa adipisci nemo culpa quos earum voluptas. Odit repellat odit accusantium quibusdam facilis sequi ducimus.",
+                    "Dignissimos nobis nemo illum magnam adipisci labore. Consequuntur voluptas voluptates nesciunt. Fugit minus maiores doloribus cumque ab odit.",
+                    "Reiciendis eos a voluptas non. Nobis beatae nesciunt cum nisi suscipit eos distinctio iure. Aliquid illo quidem cupiditate delectus exercitationem aspernatur. Voluptates dolorem error error error repudiandae veniam."
+                ],
+                "reward": "Veritatis necessitatibus consequatur exercitationem odit veniam. Facilis recusandae ullam explicabo aspernatur a. Optio excepturi nobis illum error. Quod id deleniti corporis.",
+                "failure": "Aliquam ut dignissimos accusamus eligendi. Ab quod omnis aspernatur doloribus recusandae minus."
+            }
+        },
+        {
+            "roll": 97,
+            "data": {
+                "title": "Computer games developer",
+                "keywords": [
+                    "Job",
+                    "Tribal",
+                    "Supernatural"
+                ],
+                "background": "Modi labore in neque nostrum sunt quos.",
+                "location": "Random Mine",
+                "time": 5,
+                "description": [
+                    "Sapiente sit quia alias distinctio. Deserunt voluptatibus molestias consectetur modi repudiandae natus voluptas. Natus officia distinctio fuga ipsam sunt cumque facilis.",
+                    "Suscipit corrupti enim corporis libero nihil. Repellendus optio similique maxime assumenda quas eius beatae sunt. Cupiditate quibusdam mollitia vitae vel temporibus consequatur. Illo reiciendis ipsa ad minus dolore.",
+                    "Cum laudantium facilis aspernatur at nam. Reiciendis fuga accusantium quis nobis. Eaque maiores ipsa omnis facere cupiditate. Laboriosam harum deleniti alias inventore reiciendis possimus possimus."
+                ],
+                "reward": "Ipsa earum assumenda aliquam possimus minus. Reiciendis nobis inventore minima provident. Dolorum molestias dicta explicabo nisi dolores eos minus. Natus iste quibusdam illum qui ipsam illo mollitia.",
+                "failure": "Perspiciatis laborum voluptatibus officiis porro. Veritatis maiores doloremque minima eius velit quasi. Error quas assumenda mollitia eligendi. Fuga nobis ut quisquam dolor perspiciatis."
+            }
+        },
+        {
+            "roll": 98,
+            "data": {
+                "title": "Meteorologist",
+                "keywords": [
+                    "Job",
+                    "Mine",
+                    "Strange"
+                ],
+                "background": "Dolorum nihil debitis alias.",
+                "location": "Random Hex",
+                "time": 0,
+                "description": [
+                    "Id tempora corporis tempora officia nulla animi nam minus. Fuga soluta in quaerat vel dicta itaque non. Dolorem atque est id porro reprehenderit est. Maiores cupiditate iure natus. Fuga rerum quis suscipit tenetur.",
+                    "Reprehenderit deleniti culpa nesciunt laborum cupiditate facere. Voluptatibus enim similique ex. Architecto velit magni voluptatibus in. Sequi qui modi natus libero velit ab.",
+                    "Eius accusamus quibusdam excepturi amet laborum accusamus aliquam. Minima necessitatibus a debitis earum repellat nostrum magnam."
+                ],
+                "reward": "Nihil labore vitae cumque possimus. Iure iure distinctio occaecati velit deleniti ratione. Libero provident ab molestias id.",
+                "failure": "Odit a dolor vero necessitatibus quibusdam nisi quasi. Corporis optio nobis dolorum minima eveniet provident accusamus. Facere voluptatibus expedita suscipit. Molestiae eveniet maxime rem voluptas esse molestiae."
+            }
+        },
+        {
+            "roll": 99,
+            "data": {
+                "title": "Research scientist (medical)",
+                "keywords": [
+                    "Job",
+                    "Mandatory!",
+                    "Negotiation"
+                ],
+                "background": "Quibusdam voluptatibus magni excepturi ipsam ex.",
+                "location": "Random Mine",
+                "time": 10,
+                "description": [
+                    "Magnam similique nesciunt at. Accusamus amet illum consectetur odit molestiae architecto modi. Beatae animi illum aliquid beatae accusantium aut quos. Autem consequuntur possimus harum magnam sapiente vero.",
+                    "Amet ratione harum ea. Excepturi rerum dolores ab non dicta voluptatem excepturi. Ad dolores veritatis harum possimus. Aperiam architecto nihil modi veniam quasi necessitatibus.",
+                    "Impedit nesciunt quas quia laudantium totam doloremque adipisci. Cumque nihil temporibus occaecati totam consequuntur repellendus iure. Magnam quam tenetur quam neque non inventore. Consectetur nihil sint commodi ut temporibus debitis."
+                ],
+                "reward": "Eligendi odit deleniti sequi consectetur fugit minus velit. Impedit illum laboriosam esse cum fugiat. Officiis nobis voluptates repellendus accusantium necessitatibus non. Aperiam neque est harum nobis.",
+                "failure": "Incidunt culpa aliquam officiis sed placeat. Quidem eum expedita aliquam. Facere necessitatibus quaerat deleniti error dolore atque."
+            }
+        },
+        {
+            "roll": 100,
+            "data": {
+                "title": "Surveyor, commercial/residential",
+                "keywords": [
+                    "Job",
+                    "Frontier",
+                    "Politics"
+                ],
+                "background": "Veritatis beatae quod excepturi error.",
+                "location": "Random Town",
+                "time": 15,
+                "description": [
+                    "Ut quam impedit delectus eveniet itaque harum in atque. Cupiditate odit mollitia eligendi ipsum doloribus asperiores est. Voluptate dignissimos soluta voluptas assumenda itaque provident. Accusamus eveniet magnam in excepturi eaque dolore iure.",
+                    "Nam id inventore fugit numquam ad voluptate animi id. Sunt adipisci facere adipisci laborum nostrum ut autem. Exercitationem pariatur deserunt aspernatur consequatur incidunt harum.",
+                    "Velit dicta earum repellendus nesciunt ex accusantium. A vitae aspernatur nisi eius. Officia excepturi occaecati molestiae voluptates quidem libero. Quibusdam exercitationem assumenda consequuntur expedita nesciunt soluta sed."
+                ],
+                "reward": "Repudiandae facilis dolor est dolor ratione. Distinctio ipsam quibusdam a cum. Odio in nesciunt modi incidunt harum.",
+                "failure": "Voluptatum molestias reiciendis veritatis aut. Occaecati ut consequatur commodi odit incidunt ex occaecati tempore. Nostrum natus dignissimos ducimus reprehenderit aperiam. Accusantium quia doloremque porro reiciendis fuga."
+            }
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "array": [
+        {
+            "roll": 11,
+            "data": {
+                "name": "Brain Dead",
+                "flavor": "You are nothing but an empty shell now.",
+                "effect": "Your Hero is Dead"
+            }
+        },
+        {
+            "roll": 12,
+            "data": {
+                "name": "Brain Dead",
+                "flavor": "You are nothing but an empty shell now.",
+                "effect": "Your Hero is Dead"
+            }
+        },
+        {
+            "roll": 13,
+            "data": {
+                "name": "Illo",
+                "flavor": "Id asperiores labore aliquid repudiandae maxime deserunt. Architecto dolores dolorem quisquam sit dolor consequuntur ullam. Nisi eveniet nam magnam.",
+                "effect": "In distinctio suscipit aliquid repellendus expedita quibusdam officia ipsam."
+            }
+        },
+        {
+            "roll": 14,
+            "data": {
+                "name": "Distinctio",
+                "flavor": "Eum recusandae repellendus iusto blanditiis blanditiis. Ullam similique autem delectus voluptate. Quaerat excepturi quibusdam suscipit nihil.",
+                "effect": "A qui dolore quaerat magnam minima."
+            }
+        },
+        {
+            "roll": 15,
+            "data": {
+                "name": "Dicta",
+                "flavor": "Deserunt suscipit distinctio consequuntur veritatis. Ut sint voluptates iste eligendi quos. Distinctio cum voluptates fuga alias similique molestiae.",
+                "effect": "Earum iure eius labore dolores a ea adipisci."
+            }
+        },
+        {
+            "roll": 16,
+            "data": {
+                "name": "Libero",
+                "flavor": "Quibusdam reiciendis iste voluptatum nemo. Quam dignissimos unde ab iure expedita atque.",
+                "effect": "Tenetur distinctio consectetur hic repudiandae repudiandae."
+            }
+        },
+        {
+            "roll": 21,
+            "data": {
+                "name": "Consequuntur",
+                "flavor": "At itaque omnis mollitia nobis ab. Eligendi veniam aspernatur laudantium quod commodi. Deleniti aspernatur nemo nihil neque repellendus commodi. Recusandae rem tenetur nihil quam libero.",
+                "effect": "Neque consectetur commodi asperiores consequuntur facilis."
+            }
+        },
+        {
+            "roll": 22,
+            "data": {
+                "name": "Nihil",
+                "flavor": "Consequatur assumenda doloribus possimus. Quis doloribus fuga quisquam ut aperiam fugiat. Tempora quas labore architecto quo reprehenderit. Deleniti placeat eveniet reprehenderit eaque unde.",
+                "effect": "Labore eaque quaerat nobis quia repellat."
+            }
+        },
+        {
+            "roll": 23,
+            "data": {
+                "name": "Vero",
+                "flavor": "Sint fugit voluptatum harum. Illum in ratione vitae iusto sunt. Dolorum est aliquam cumque.",
+                "effect": "Consequuntur exercitationem rerum ratione laboriosam aspernatur eius voluptates."
+            }
+        },
+        {
+            "roll": 24,
+            "data": {
+                "name": "Error",
+                "flavor": "Deserunt omnis nisi culpa ipsam doloremque illum. Illum minima dolorum facilis nulla sequi. Cumque est quo facilis. Illo harum labore adipisci hic quasi iure.",
+                "effect": "Dolorem veritatis soluta aspernatur possimus adipisci ut culpa."
+            }
+        },
+        {
+            "roll": 25,
+            "data": {
+                "name": "Reprehenderit",
+                "flavor": "Temporibus commodi repellat eligendi cupiditate numquam sunt. Explicabo autem odio voluptatum soluta cupiditate. Assumenda eius quisquam modi dolor culpa dignissimos dolorum. Sint dolores qui ex reiciendis exercitationem ullam neque.",
+                "effect": "Accusamus dolore assumenda aliquid soluta placeat beatae."
+            }
+        },
+        {
+            "roll": 26,
+            "data": {
+                "name": "Dolorum",
+                "flavor": "Aspernatur a laboriosam quidem inventore ducimus aut. Alias est nesciunt est nobis qui quos. Sapiente eligendi corporis veritatis. Natus ipsum doloremque porro alias incidunt.",
+                "effect": "Exercitationem placeat beatae nulla quidem nesciunt."
+            }
+        },
+        {
+            "roll": 31,
+            "data": {
+                "name": "Eveniet",
+                "flavor": "Harum vitae expedita libero quo nam iure ratione. Voluptatibus nulla sed expedita repellat id aliquid iure. Pariatur nam consequatur ullam.",
+                "effect": "Libero architecto doloribus delectus omnis eligendi."
+            }
+        },
+        {
+            "roll": 32,
+            "data": {
+                "name": "Libero",
+                "flavor": "Neque consectetur dolores dolores. Voluptates rem perspiciatis libero ducimus. Cum quidem provident nihil beatae. Alias architecto nam soluta doloremque asperiores atque.",
+                "effect": "Delectus iusto quae provident ullam nulla molestias eligendi."
+            }
+        },
+        {
+            "roll": 33,
+            "data": {
+                "name": "Porro",
+                "flavor": "Earum dicta distinctio consequuntur non eligendi et earum unde. Consequuntur aut ex adipisci. Corporis consequuntur quia rerum eaque voluptatum. At enim perferendis dolor adipisci. Eligendi facilis aperiam repudiandae quo id illum.",
+                "effect": "Quos laborum impedit temporibus amet eos nam."
+            }
+        },
+        {
+            "roll": 34,
+            "data": {
+                "name": "At",
+                "flavor": "Officiis ipsa necessitatibus quam commodi. Quis dolor tempora blanditiis. Eaque aut numquam ut illum sed.",
+                "effect": "Ex dicta eligendi maxime repudiandae sunt suscipit."
+            }
+        },
+        {
+            "roll": 35,
+            "data": {
+                "name": "Voluptatem",
+                "flavor": "Perspiciatis dicta assumenda nemo. Ad sapiente quasi accusantium animi vel ducimus. In quia laudantium nulla nemo ab laudantium doloremque debitis. Voluptatibus ut exercitationem iste modi harum impedit consectetur esse.",
+                "effect": "Mollitia optio inventore pariatur qui corporis similique deserunt provident."
+            }
+        },
+        {
+            "roll": 36,
+            "data": {
+                "name": "At",
+                "flavor": "Ducimus iure consequatur vel possimus nisi quod sequi. Necessitatibus alias ex aliquam nemo. Distinctio sed odio sapiente consequatur. Quam sit voluptas tenetur rerum cumque sed suscipit quasi.",
+                "effect": "Rem incidunt atque fugit voluptatem voluptatum nam molestias."
+            }
+        },
+        {
+            "roll": 41,
+            "data": {
+                "name": "Soluta",
+                "flavor": "Vel expedita ex molestiae nihil. Animi corrupti illum officiis deserunt. Porro ipsum aperiam dolorem assumenda distinctio aspernatur saepe.",
+                "effect": "Porro rerum corrupti magnam aliquid."
+            }
+        },
+        {
+            "roll": 42,
+            "data": {
+                "name": "Suscipit",
+                "flavor": "Nulla quia quas alias perspiciatis. Laudantium ut voluptas molestias. Perferendis dolorum corrupti consequatur molestiae dolore voluptates. Sapiente facilis quod minima nobis ullam eaque. Asperiores blanditiis quibusdam iusto in illo mollitia.",
+                "effect": "Voluptatum sit aliquid dolorem nostrum atque nobis."
+            }
+        },
+        {
+            "roll": 43,
+            "data": {
+                "name": "Nostrum",
+                "flavor": "Cupiditate nihil quam earum est placeat facilis. Nostrum ex itaque architecto nam. Omnis quidem commodi voluptatum sequi. Suscipit minima culpa id odio quaerat.",
+                "effect": "Tempore corrupti corporis ex sunt laboriosam suscipit."
+            }
+        },
+        {
+            "roll": 44,
+            "data": {
+                "name": "Perspiciatis",
+                "flavor": "Quod repellat quis quidem harum ullam. Provident aperiam deleniti minus autem iure.",
+                "effect": "Suscipit sequi at eius aperiam voluptatibus."
+            }
+        },
+        {
+            "roll": 45,
+            "data": {
+                "name": "Repellendus",
+                "flavor": "Quod quaerat qui quam odit. Dolor sequi quod consequatur sunt delectus ex eveniet. Dolore ullam harum sunt. Neque neque animi dolorem fugit.",
+                "effect": "Officia temporibus laboriosam non in laboriosam odit eum."
+            }
+        },
+        {
+            "roll": 46,
+            "data": {
+                "name": "Accusantium",
+                "flavor": "Laborum ipsam placeat vero. Accusantium consequatur nisi corrupti itaque accusantium impedit repellendus. Et minima exercitationem libero maxime tempora illum reprehenderit. Repellendus possimus reprehenderit voluptatem tenetur.",
+                "effect": "Quidem fuga inventore aut adipisci nam eum ipsum."
+            }
+        },
+        {
+            "roll": 51,
+            "data": {
+                "name": "Excepturi",
+                "flavor": "Perferendis maxime veritatis ab tempore debitis repellat dolores. Dolores repudiandae ex harum commodi. Error quo cum repudiandae ullam.",
+                "effect": "Sit incidunt quibusdam vel accusantium nemo ea delectus."
+            }
+        },
+        {
+            "roll": 52,
+            "data": {
+                "name": "Quod",
+                "flavor": "Eligendi assumenda quae harum nostrum ratione harum. Molestias sapiente similique architecto consequuntur aliquid. Ducimus blanditiis quae fuga consequatur saepe molestiae. Non quaerat ipsa iusto recusandae neque optio. Praesentium dolores at incidunt magnam praesentium aut.",
+                "effect": "Tempore voluptas repellat doloremque esse natus nemo dolorum consectetur."
+            }
+        },
+        {
+            "roll": 53,
+            "data": {
+                "name": "Blanditiis",
+                "flavor": "Adipisci voluptates accusamus neque laborum quia unde suscipit. Iure eius repudiandae natus repellat beatae quod. Officia voluptatum eveniet dolor repudiandae expedita laborum amet. Veritatis impedit accusantium quidem accusantium natus alias optio veniam.",
+                "effect": "Modi possimus eaque dolorum aliquam necessitatibus in reprehenderit."
+            }
+        },
+        {
+            "roll": 54,
+            "data": {
+                "name": "Odit",
+                "flavor": "Molestiae cupiditate ipsam aliquid perspiciatis provident doloribus. At nihil eligendi aperiam eos. Voluptatum adipisci unde odit dolorum iste alias. Rerum modi cumque ipsum deleniti voluptatibus pariatur. Dolor quam unde aliquam tempore ut fugit rem.",
+                "effect": "Tempora ipsum aspernatur perferendis alias odit sunt quaerat possimus."
+            }
+        },
+        {
+            "roll": 55,
+            "data": {
+                "name": "Reiciendis",
+                "flavor": "Dicta unde ducimus culpa deserunt. Cumque nesciunt vitae modi praesentium vel commodi necessitatibus iste. Occaecati voluptatum culpa incidunt a nostrum.",
+                "effect": "Ratione explicabo rerum ad hic eum dolorum ratione."
+            }
+        },
+        {
+            "roll": 56,
+            "data": {
+                "name": "Possimus",
+                "flavor": "Alias quae ea maiores occaecati atque officia. Sed vitae quia temporibus. Molestias ex est dolorem aliquid nisi autem eveniet. Enim eos architecto recusandae quia perferendis cum in.",
+                "effect": "Ex repellat assumenda vel cumque voluptatem eos."
+            }
+        },
+        {
+            "roll": 61,
+            "data": {
+                "name": "Similique",
+                "flavor": "Adipisci velit corporis debitis blanditiis. Rerum sed eaque facilis minima neque expedita. Ab adipisci fugiat totam delectus neque corporis nostrum.",
+                "effect": "Quod dolor cumque nam officia."
+            }
+        },
+        {
+            "roll": 62,
+            "data": {
+                "name": "Similique",
+                "flavor": "Modi temporibus itaque iusto eaque et eaque tempore nulla. Dolores fugiat autem totam. Nemo accusamus culpa molestiae temporibus minus. Ex expedita ipsam quas sequi.",
+                "effect": "Ducimus repellendus incidunt exercitationem aspernatur doloribus incidunt est eos."
+            }
+        },
+        {
+            "roll": 63,
+            "data": {
+                "name": "Nesciunt",
+                "flavor": "Fugit sed in earum earum alias quo. Repudiandae deserunt totam laboriosam molestias quam est praesentium. Ab incidunt aliquam consequatur inventore neque rem. Delectus id veniam ab sapiente sit et totam.",
+                "effect": "Suscipit labore voluptatum ipsa quaerat impedit vitae."
+            }
+        },
+        {
+            "roll": 64,
+            "data": {
+                "name": "Repellat",
+                "flavor": "Dolorem iusto inventore nostrum nostrum. Aliquam fugiat possimus asperiores accusamus quam reiciendis dolorum. Laborum amet aliquid ipsum ipsam velit quaerat.",
+                "effect": "Quia architecto iusto magni nemo architecto."
+            }
+        },
+        {
+            "roll": 65,
+            "data": {
+                "name": "In",
+                "flavor": "Eum exercitationem voluptate saepe voluptate doloremque dolorem fuga. Est architecto harum id omnis autem quaerat. Distinctio accusamus delectus omnis aspernatur.",
+                "effect": "Dolore illo excepturi sapiente natus exercitationem sunt."
+            }
+        },
+        {
+            "roll": 66,
+            "data": {
+                "name": "Amet",
+                "flavor": "Corrupti magni distinctio similique quia quibusdam est. Corporis eaque occaecati voluptatem doloribus adipisci. Autem id saepe quis explicabo. Accusamus suscipit atque itaque natus sunt aut alias. Officiis rerum vitae neque eligendi eius ad eveniet maiores.",
+                "effect": "Architecto harum dolore blanditiis quod."
+            }
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "array": [
+        {
+            "roll": 11,
+            "data": {
+                "name": "Eviscerated",
+                "flavor": "You have seconds left to say any famous last words before you fall to the  oor and die.",
+                "effect": "Your Hero is Dead"
+            }
+        },
+        {
+            "roll": 12,
+            "data": {
+                "name": "Eviscerated",
+                "flavor": "You have seconds left to say any famous last words before you fall to the  oor and die.",
+                "effect": "Your Hero is Dead"
+            }
+        },
+        {
+            "roll": 13,
+            "data": {
+                "name": "Lacerated Eye",
+                "flavor": "Tempora ut officiis temporibus at quaerat. Rem consequuntur ratione tenetur rem recusandae ea.",
+                "effect": "Sit possimus laborum neque quisquam ab necessitatibus."
+            }
+        },
+        {
+            "roll": 14,
+            "data": {
+                "name": "Crushed Rectum",
+                "flavor": "Neque inventore perspiciatis earum porro saepe reprehenderit. Laboriosam aspernatur possimus fuga minima excepturi reiciendis autem numquam. Delectus voluptatem animi recusandae aut quod architecto.",
+                "effect": "Sed deserunt numquam libero accusantium."
+            }
+        },
+        {
+            "roll": 15,
+            "data": {
+                "name": "Pulled Heart",
+                "flavor": "Incidunt recusandae veritatis dignissimos. Magnam eos fugiat aut dignissimos consequuntur. Veniam itaque sit voluptatum ducimus. Quo amet reprehenderit quasi repellat repellendus.",
+                "effect": "Reprehenderit non maiores cupiditate."
+            }
+        },
+        {
+            "roll": 16,
+            "data": {
+                "name": "Scratched Leg",
+                "flavor": "Quas quidem culpa laborum at voluptatum. Quam nemo nemo quaerat quisquam aut possimus. Aspernatur voluptate dolor dignissimos placeat dolorum hic.",
+                "effect": "Ad doloremque ipsa sequi nemo."
+            }
+        },
+        {
+            "roll": 21,
+            "data": {
+                "name": "Fractured Stomach",
+                "flavor": "Dolorum nisi magni error officiis quae officia illum quasi. Omnis possimus hic inventore provident reprehenderit dolor ad. Quidem quasi molestias excepturi deserunt.",
+                "effect": "Magni culpa fuga autem architecto voluptatibus odio labore aliquid."
+            }
+        },
+        {
+            "roll": 22,
+            "data": {
+                "name": "Pulled Rectum",
+                "flavor": "Deleniti officiis odio totam eveniet cum eos. Vitae ab ipsa molestias quidem. Explicabo corrupti omnis provident aliquam. Rerum sunt occaecati officia architecto deleniti necessitatibus nemo.",
+                "effect": "Temporibus ullam quaerat vitae id laboriosam."
+            }
+        },
+        {
+            "roll": 23,
+            "data": {
+                "name": "Torn Neck",
+                "flavor": "Aspernatur dolores distinctio nemo in fuga nesciunt consequatur. Aut aperiam cumque libero nostrum fugiat accusantium. Et illum quam voluptate iusto. Similique deserunt earum nihil nulla perspiciatis quam.",
+                "effect": "Fugit delectus officia vitae."
+            }
+        },
+        {
+            "roll": 24,
+            "data": {
+                "name": "Bleeding Foot",
+                "flavor": "Nihil placeat tempore quos placeat placeat. Perspiciatis odit ea aspernatur sunt neque maiores sit.",
+                "effect": "Sapiente perspiciatis autem quidem."
+            }
+        },
+        {
+            "roll": 25,
+            "data": {
+                "name": "Dislocated Leg",
+                "flavor": "Tempora amet sunt inventore suscipit magnam nihil culpa dolore. Ullam deserunt officia sint aut facilis odio facilis nisi. Laboriosam tempora repellendus et animi eos voluptates veniam.",
+                "effect": "Architecto recusandae deleniti vitae magnam iste reprehenderit eligendi."
+            }
+        },
+        {
+            "roll": 26,
+            "data": {
+                "name": "Bleeding Leg",
+                "flavor": "Eum officia nesciunt unde nemo ut voluptatibus aut vero. Quisquam provident repudiandae tempora aliquam voluptate possimus occaecati. Debitis earum ipsum mollitia facilis assumenda. Ratione velit quidem vel cupiditate.",
+                "effect": "Quam dolores fugit possimus sapiente excepturi esse."
+            }
+        },
+        {
+            "roll": 31,
+            "data": {
+                "name": "Pulled Teeth",
+                "flavor": "Iste eos quam reprehenderit qui. Veniam minima sunt corporis eveniet. Vel nam ut sed rem aperiam.",
+                "effect": "Cumque nostrum et animi cum blanditiis autem."
+            }
+        },
+        {
+            "roll": 32,
+            "data": {
+                "name": "Pulled Nose",
+                "flavor": "Nostrum molestiae eius laudantium sunt ipsa. Modi maiores nostrum blanditiis. Blanditiis illum saepe eius dicta aliquid. A facere nemo totam quia tempore.",
+                "effect": "Vero animi mollitia libero ducimus alias aspernatur totam accusamus."
+            }
+        },
+        {
+            "roll": 33,
+            "data": {
+                "name": "Lacerated Stomach",
+                "flavor": "Aliquid voluptatum nobis voluptatibus cupiditate ipsa. Est tempore consequatur dolor debitis.",
+                "effect": "Modi quibusdam porro maiores nesciunt rem dolorem."
+            }
+        },
+        {
+            "roll": 34,
+            "data": {
+                "name": "Pulled Elbow",
+                "flavor": "Atque ipsum quaerat doloribus nulla doloremque. Dolores commodi dignissimos dicta. Odit eveniet reiciendis non aspernatur error non.",
+                "effect": "Delectus cupiditate ea nam vero ratione quia."
+            }
+        },
+        {
+            "roll": 35,
+            "data": {
+                "name": "Twisted Back",
+                "flavor": "Optio quas inventore tenetur nihil debitis repudiandae rem. Repudiandae omnis veniam labore sed earum reiciendis laudantium. Minus commodi voluptate voluptate eaque.",
+                "effect": "Velit minima occaecati repellendus aut autem ut qui."
+            }
+        },
+        {
+            "roll": 36,
+            "data": {
+                "name": "Pulled Genitals",
+                "flavor": "Tempora aliquam deleniti itaque debitis cum ad. Voluptates minima modi nisi voluptates nostrum amet. Incidunt perspiciatis dolores non atque facilis perspiciatis voluptate ut. Necessitatibus vel atque magni et beatae nemo.",
+                "effect": "Officia ipsum nobis accusantium."
+            }
+        },
+        {
+            "roll": 41,
+            "data": {
+                "name": "Torn Elbow",
+                "flavor": "Error vero debitis ad aliquam. Ipsum reiciendis quibusdam suscipit quos ipsa quos. Magni impedit nesciunt delectus veritatis. Unde quidem tenetur fugiat esse perferendis voluptatum officiis.",
+                "effect": "Minima qui dolore est cumque quam laborum impedit."
+            }
+        },
+        {
+            "roll": 42,
+            "data": {
+                "name": "Torn Rectum",
+                "flavor": "Incidunt magnam illo praesentium quisquam reiciendis. Voluptatibus praesentium tempore quis inventore neque facilis. Dolorem enim omnis maxime. Asperiores facilis ab rem ipsa dolores.",
+                "effect": "Possimus accusantium modi cupiditate repellendus."
+            }
+        },
+        {
+            "roll": 43,
+            "data": {
+                "name": "Pulled Stomach",
+                "flavor": "Dignissimos exercitationem dolore soluta facilis id mollitia dolor. Tenetur porro iste aut quis magnam ducimus. Fugit corrupti provident dolor cupiditate.",
+                "effect": "Porro vel ipsum nam ab perferendis."
+            }
+        },
+        {
+            "roll": 44,
+            "data": {
+                "name": "Dislocated Back",
+                "flavor": "Odit dolores animi expedita molestias repudiandae dolorem. Quaerat eaque odio ad ad qui quibusdam. Id eius quam maxime aut quos nemo nemo.",
+                "effect": "Vitae asperiores numquam possimus aut hic recusandae."
+            }
+        },
+        {
+            "roll": 45,
+            "data": {
+                "name": "Torn Teeth",
+                "flavor": "Omnis cum quisquam repudiandae placeat iure. Voluptas porro sunt fuga dolore asperiores. Iste iure fuga dignissimos deleniti sed.",
+                "effect": "Tempora totam iste quaerat beatae."
+            }
+        },
+        {
+            "roll": 46,
+            "data": {
+                "name": "Bruised Genitals",
+                "flavor": "Libero dolores dolorem deserunt consequuntur aut quam. Ut velit ipsam doloremque sapiente earum ut. Dicta mollitia omnis veniam aperiam aspernatur. Occaecati voluptate error voluptatum.",
+                "effect": "Ratione excepturi expedita rem nemo rerum ea."
+            }
+        },
+        {
+            "roll": 51,
+            "data": {
+                "name": "Bruised Spleen",
+                "flavor": "Dolore adipisci assumenda dolorem nulla occaecati esse. Deleniti impedit iusto voluptate. Optio blanditiis voluptatem cupiditate.",
+                "effect": "Corporis quae neque enim eos quia."
+            }
+        },
+        {
+            "roll": 52,
+            "data": {
+                "name": "Fractured Heart",
+                "flavor": "Explicabo alias placeat veritatis maxime. Officia harum recusandae iusto natus molestiae modi velit.",
+                "effect": "Earum accusamus similique assumenda sunt optio officiis omnis."
+            }
+        },
+        {
+            "roll": 53,
+            "data": {
+                "name": "Bleeding Spleen",
+                "flavor": "Voluptatem nam sequi iure quo libero ipsam dolore. Expedita aliquam nemo quod quibusdam consequuntur ab reiciendis. Totam quibusdam nam voluptate sit.",
+                "effect": "Eum facere exercitationem deserunt necessitatibus."
+            }
+        },
+        {
+            "roll": 54,
+            "data": {
+                "name": "Scratched Heart",
+                "flavor": "Dolore dolore provident assumenda explicabo qui nostrum fuga corporis. Ut molestiae provident officiis eligendi. Illo magni voluptas sunt eum.",
+                "effect": "Voluptatum officia fuga aliquid laborum pariatur cumque."
+            }
+        },
+        {
+            "roll": 55,
+            "data": {
+                "name": "Twisted Rectum",
+                "flavor": "Fugit vel amet ex consequatur deserunt alias tempore dicta. Quos consectetur tenetur nobis totam quidem pariatur et. Placeat itaque repellat tenetur vel.",
+                "effect": "Harum impedit possimus asperiores impedit."
+            }
+        },
+        {
+            "roll": 56,
+            "data": {
+                "name": "Twisted Face",
+                "flavor": "Ea facere suscipit impedit quae. Cum reiciendis nam reprehenderit est sint laborum nostrum. Nam a ipsum illum ad minus quibusdam.",
+                "effect": "Eligendi earum magni consequuntur harum eum."
+            }
+        },
+        {
+            "roll": 61,
+            "data": {
+                "name": "Torn Spleen",
+                "flavor": "Quos doloribus error corrupti soluta vitae ex porro. Iure iste hic sunt doloremque explicabo reiciendis corrupti. Eveniet ipsam beatae inventore tenetur. Dolorum qui voluptates dolores optio ab dolor quasi quas.",
+                "effect": "Eaque mollitia quidem quasi voluptates cumque."
+            }
+        },
+        {
+            "roll": 62,
+            "data": {
+                "name": "Butchered Foot",
+                "flavor": "Nemo possimus inventore at in facilis ab. Voluptatum facilis optio totam dolores facere consectetur sint. Provident saepe architecto quasi aliquam voluptatem atque fugit. Sapiente in earum quis unde quasi voluptate.",
+                "effect": "A est veniam molestiae autem a saepe rerum."
+            }
+        },
+        {
+            "roll": 63,
+            "data": {
+                "name": "Crushed Teeth",
+                "flavor": "Doloremque quasi excepturi magnam accusantium nesciunt beatae est. Voluptas deleniti labore quis placeat praesentium magni. Totam autem dolores nesciunt in nam occaecati iusto.",
+                "effect": "Libero fugiat provident quas consequuntur culpa sunt."
+            }
+        },
+        {
+            "roll": 64,
+            "data": {
+                "name": "Pulled Spleen",
+                "flavor": "Nobis cupiditate ut aliquam repudiandae harum. Repellendus labore delectus expedita quas labore. Consequuntur exercitationem accusantium reiciendis quo quidem. Esse vero vitae voluptate consequatur architecto odit.",
+                "effect": "Temporibus perspiciatis ut modi laboriosam."
+            }
+        },
+        {
+            "roll": 65,
+            "data": {
+                "name": "Broken Neck",
+                "flavor": "Officiis corrupti laboriosam quis hic ipsum. Natus adipisci non quia. Nemo tenetur laudantium deleniti id. Cumque ullam similique illo excepturi nihil minus incidunt amet.",
+                "effect": "Inventore quaerat enim quam ipsum dolor cupiditate."
+            }
+        },
+        {
+            "roll": 66,
+            "data": {
+                "name": "Scratched Nose",
+                "flavor": "Non magnam debitis ipsam ducimus. Blanditiis dignissimos recusandae eligendi consequatur doloremque et sit sapiente. Quisquam debitis assumenda voluptatem sed reiciendis molestiae.",
+                "effect": "Distinctio delectus impedit necessitatibus perferendis porro."
+            }
+        }
+    ]
+}

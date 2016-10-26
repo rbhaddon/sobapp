@@ -12,10 +12,10 @@ public class Fort
 	public int max_size;
 	public int max_builtins;
 	public string type;
-	public TownData.Trait trait;
+	public TownTrait trait;
 	public JobData[] jobs;
 	public TownData.BuiltInType[] builtIns;
-	public TownData.LocationType[] locations;
+	public int[] locations;
 
 	public Fort()
 	{
@@ -25,10 +25,9 @@ public class Fort
 		max_size = 4;
 		max_builtins = TownData.MAX_BUILTINS;
 		//type = GetType ();
-		trait = TownData.Trait.None;
+		trait = GameControl.gameData.townTraits[Roll.D36 ()];
 		jobs = new JobData [TownData.MAX_BUILTINS];
 		builtIns = new TownData.BuiltInType[] {TownData.BuiltInType.Campsite, TownData.BuiltInType.Hotel};
-		locations = new TownData.LocationType [size];
 	}
 
 	public static Town Create()

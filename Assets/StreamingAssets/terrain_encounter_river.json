@@ -1,0 +1,244 @@
+{
+    "array": [
+        {
+            "roll": 1,
+            "data": {
+                "name": "Johnson-Stewart",
+                "keywords": [
+                    "Encounter",
+                    "Merchant",
+                    "Transport"
+                ],
+                "description": "Explicabo ratione vitae quo ratione. Ut minima maxime officia fugit. Inventore repellat reiciendis maxime exercitationem porro. Explicabo enim eaque architecto hic fugiat omnis veritatis."
+            }
+        },
+        {
+            "roll": 2,
+            "data": {
+                "name": "Gonzalez-Gordon",
+                "keywords": [
+                    "Encounter",
+                    "Charm",
+                    "Outlaw"
+                ],
+                "description": "Nisi modi maxime maiores illo. Deserunt nisi quidem repudiandae inventore dolorem harum. Dolore nisi illum ex."
+            }
+        },
+        {
+            "roll": 3,
+            "data": {
+                "name": "Brown-Shelton",
+                "keywords": [
+                    "Encounter",
+                    "Lost",
+                    "Darkness"
+                ],
+                "description": "Consequuntur vitae cupiditate sunt illo itaque. Quos deleniti nihil ipsam harum quos. Fuga saepe eveniet eaque velit pariatur voluptatibus excepturi."
+            }
+        },
+        {
+            "roll": 4,
+            "data": {
+                "name": "Jensen-Schneider",
+                "keywords": [
+                    "Encounter",
+                    "Dark Stone",
+                    "Active"
+                ],
+                "description": "Inventore tempore placeat minima dignissimos saepe. Velit laudantium dicta ipsam. Quis aspernatur consectetur ratione. Quos aut non dicta placeat nulla dolores magnam."
+            }
+        },
+        {
+            "roll": 5,
+            "data": {
+                "name": "Preston-Reese",
+                "keywords": [
+                    "Encounter",
+                    "Lost",
+                    "Enemy"
+                ],
+                "description": "Facere nobis occaecati alias excepturi porro quod. Est molestias alias vel at. Doloribus perspiciatis voluptatibus nam reprehenderit explicabo dolor. Saepe repudiandae repellendus praesentium sunt."
+            }
+        },
+        {
+            "roll": 6,
+            "data": {
+                "name": "Goodwin-Harrison",
+                "keywords": [
+                    "Encounter",
+                    "Darkness",
+                    "Hope"
+                ],
+                "description": "Corrupti excepturi magnam voluptatibus illum aperiam voluptas perferendis. Velit deserunt quo ea voluptatum. Cum pariatur ut architecto laboriosam consequuntur."
+            }
+        },
+        {
+            "roll": 7,
+            "data": {
+                "name": "Peterson-Joseph",
+                "keywords": [
+                    "Encounter",
+                    "Merchant",
+                    "Active"
+                ],
+                "description": "Molestiae quia mollitia accusantium ratione qui quos. Sapiente saepe aliquam perferendis vel delectus voluptates."
+            }
+        },
+        {
+            "roll": 8,
+            "data": {
+                "name": "Baldwin LLC",
+                "keywords": [
+                    "Encounter",
+                    "Water",
+                    "Poison"
+                ],
+                "description": "Eligendi tempora quibusdam voluptatem qui. Praesentium magnam libero deserunt nobis."
+            }
+        },
+        {
+            "roll": 9,
+            "data": {
+                "name": "Roy-Bailey",
+                "keywords": [
+                    "Encounter",
+                    "Enemy",
+                    "Active"
+                ],
+                "description": "Nihil officia iste esse consequatur similique quam. Occaecati repellendus officiis quam nisi. Expedita laudantium numquam cupiditate assumenda. Rerum praesentium occaecati esse quod voluptatum aliquam. Omnis aut officia iure corporis quibusdam."
+            }
+        },
+        {
+            "roll": 10,
+            "data": {
+                "name": "Mathis-Collier",
+                "keywords": [
+                    "Encounter",
+                    "Weather",
+                    "Active"
+                ],
+                "description": "Consectetur quo nostrum voluptatibus totam. Esse est cumque aliquid animi porro. Quo itaque dolore praesentium dolorem."
+            }
+        },
+        {
+            "roll": 11,
+            "data": {
+                "name": "Ramirez, Lee and Riley",
+                "keywords": [
+                    "Encounter",
+                    "Merchant",
+                    "Active"
+                ],
+                "description": "A quam sed recusandae necessitatibus minus consectetur quam. Ipsa doloribus iste quidem ex. Nostrum minima eius culpa omnis maxime voluptate. Error quia sequi corrupti officiis."
+            }
+        },
+        {
+            "roll": 12,
+            "data": {
+                "name": "Fry, Bentley and Lee",
+                "keywords": [
+                    "Encounter",
+                    "Dark Stone",
+                    "Active"
+                ],
+                "description": "Dolores dolorum alias iure fugiat neque perferendis. Non ab soluta ipsum assumenda voluptatum. Perferendis repudiandae cum vel."
+            }
+        },
+        {
+            "roll": 13,
+            "data": {
+                "name": "Perkins Inc",
+                "keywords": [
+                    "Encounter",
+                    "Lost",
+                    "Weather"
+                ],
+                "description": "Perspiciatis repellat quidem voluptates excepturi. Totam libero adipisci quas quam velit. Consequatur maxime nemo et ipsum. Culpa quod nostrum ex quaerat nihil."
+            }
+        },
+        {
+            "roll": 14,
+            "data": {
+                "name": "Mckay and Sons",
+                "keywords": [
+                    "Encounter",
+                    "Madness",
+                    "Weather"
+                ],
+                "description": "Magnam nobis quae totam minima dolore esse magni fugit. Nobis sunt sed nulla a accusantium facilis voluptates."
+            }
+        },
+        {
+            "roll": 15,
+            "data": {
+                "name": "Hernandez Ltd",
+                "keywords": [
+                    "Encounter",
+                    "Madness",
+                    "Tribal"
+                ],
+                "description": "Consectetur facere distinctio provident necessitatibus repellat dolore amet. Qui eum velit sint quo ea voluptatem molestias provident. Omnis ex sunt tempore non."
+            }
+        },
+        {
+            "roll": 16,
+            "data": {
+                "name": "Clark, Davis and Vargas",
+                "keywords": [
+                    "Encounter",
+                    "Merchant",
+                    "Void"
+                ],
+                "description": "Aliquam repudiandae fugit vitae a perferendis nisi. Maiores ipsa fugit earum error voluptatum nulla doloribus."
+            }
+        },
+        {
+            "roll": 17,
+            "data": {
+                "name": "Russell-Owens",
+                "keywords": [
+                    "Encounter",
+                    "Stranger",
+                    "Poison"
+                ],
+                "description": "Officia non nam est eaque hic provident dolorum. Asperiores asperiores occaecati quod porro nisi. Eveniet nostrum impedit inventore quo voluptas."
+            }
+        },
+        {
+            "roll": 18,
+            "data": {
+                "name": "Walker Group",
+                "keywords": [
+                    "Encounter",
+                    "Hazard",
+                    "Weather"
+                ],
+                "description": "Occaecati temporibus libero mollitia repellat. Officiis iure cupiditate omnis veritatis. Ipsum quaerat quae sapiente beatae."
+            }
+        },
+        {
+            "roll": 19,
+            "data": {
+                "name": "Esparza-Kennedy",
+                "keywords": [
+                    "Encounter",
+                    "Outlaw",
+                    "Active"
+                ],
+                "description": "Delectus perferendis cumque debitis quos repellat explicabo alias. Perferendis id similique error. Non in nemo molestiae incidunt temporibus ea ipsam omnis."
+            }
+        },
+        {
+            "roll": 20,
+            "data": {
+                "name": "Shepherd, Riley and Reed",
+                "keywords": [
+                    "Encounter",
+                    "Environmental",
+                    "Active"
+                ],
+                "description": "Earum vero eos modi earum. Debitis facilis hic asperiores fuga. Commodi quo quibusdam accusamus odit minus quia."
+            }
+        }
+    ]
+}

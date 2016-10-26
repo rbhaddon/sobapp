@@ -1,0 +1,244 @@
+{
+    "array": [
+        {
+            "roll": 1,
+            "data": {
+                "name": "Washington-Mcneil",
+                "keywords": [
+                    "Encounter",
+                    "Active",
+                    "Transport"
+                ],
+                "description": "Commodi natus totam illo iste. Quidem earum et autem eum. Eaque quis architecto vitae ducimus ducimus. Distinctio iste ut mollitia. Fuga aperiam saepe quae."
+            }
+        },
+        {
+            "roll": 2,
+            "data": {
+                "name": "Brown-Jenkins",
+                "keywords": [
+                    "Encounter",
+                    "Swarm",
+                    "Hazard"
+                ],
+                "description": "Dolore quisquam nesciunt quasi magni accusantium laborum. Facere nam minus corporis voluptatum amet molestias. Cum blanditiis voluptatibus nostrum nemo quae nesciunt commodi. Rerum similique ipsa aliquam provident assumenda facere aperiam ullam."
+            }
+        },
+        {
+            "roll": 3,
+            "data": {
+                "name": "Smith PLC",
+                "keywords": [
+                    "Encounter",
+                    "Disease",
+                    "Active"
+                ],
+                "description": "Expedita ullam veritatis quisquam earum repellendus. Minima ducimus eligendi sunt earum sequi animi error dignissimos. Officiis laudantium quam reprehenderit. Beatae fugiat vel vero. Mollitia porro praesentium modi eligendi."
+            }
+        },
+        {
+            "roll": 4,
+            "data": {
+                "name": "Riddle, Wu and Cabrera",
+                "keywords": [
+                    "Encounter",
+                    "Undead",
+                    "Active"
+                ],
+                "description": "Eius impedit placeat iure dignissimos quia nihil numquam. Beatae possimus dolore in. Porro vero neque eveniet quis similique vitae."
+            }
+        },
+        {
+            "roll": 5,
+            "data": {
+                "name": "Gutierrez, Everett and Bullock",
+                "keywords": [
+                    "Encounter",
+                    "Cult",
+                    "Tribal"
+                ],
+                "description": "Debitis amet iure asperiores voluptates adipisci laudantium vel ratione. Quaerat error facere harum corrupti inventore impedit consequuntur vitae. Iusto soluta provident laboriosam necessitatibus aliquam."
+            }
+        },
+        {
+            "roll": 6,
+            "data": {
+                "name": "Allen Inc",
+                "keywords": [
+                    "Encounter",
+                    "Scavenge",
+                    "Outlaw"
+                ],
+                "description": "Maxime consectetur saepe nesciunt excepturi enim. Reiciendis totam occaecati dignissimos hic nihil ab iure. Aut explicabo culpa libero quos."
+            }
+        },
+        {
+            "roll": 7,
+            "data": {
+                "name": "Hill, Morgan and Kirby",
+                "keywords": [
+                    "Encounter",
+                    "Darkness",
+                    "Enemy"
+                ],
+                "description": "Aperiam maxime quidem a nulla. Dolores pariatur necessitatibus blanditiis. Excepturi molestias omnis eos officia voluptas."
+            }
+        },
+        {
+            "roll": 8,
+            "data": {
+                "name": "Diaz Group",
+                "keywords": [
+                    "Encounter",
+                    "Horror",
+                    "Stranger"
+                ],
+                "description": "Cum occaecati odio veniam dicta quia deleniti porro. Veniam debitis at unde expedita. Ipsam consequatur minima beatae excepturi. Optio dolorem quo error mollitia vitae fuga. Similique natus quo alias perspiciatis distinctio consequuntur ipsum."
+            }
+        },
+        {
+            "roll": 9,
+            "data": {
+                "name": "Krause-Hamilton",
+                "keywords": [
+                    "Encounter",
+                    "Mission",
+                    "Active"
+                ],
+                "description": "Mollitia ab quia voluptatum earum rem. Aperiam libero sit quidem. Debitis doloremque quia corrupti incidunt. Dignissimos omnis a fugit sunt."
+            }
+        },
+        {
+            "roll": 10,
+            "data": {
+                "name": "Cabrera LLC",
+                "keywords": [
+                    "Encounter",
+                    "Charm",
+                    "Poison"
+                ],
+                "description": "Illum necessitatibus est minus aliquam. Cum ut dolor voluptatem. Recusandae occaecati qui iure eaque. Fugiat culpa facere cupiditate quos optio iusto."
+            }
+        },
+        {
+            "roll": 11,
+            "data": {
+                "name": "Martinez, Kennedy and Cruz",
+                "keywords": [
+                    "Encounter",
+                    "Explore",
+                    "Transport"
+                ],
+                "description": "Sapiente quod alias quas voluptate dicta asperiores. Harum perspiciatis et eius repellendus nostrum quidem corporis. Illo itaque commodi cupiditate."
+            }
+        },
+        {
+            "roll": 12,
+            "data": {
+                "name": "Murphy-Hudson",
+                "keywords": [
+                    "Encounter",
+                    "Enemy",
+                    "Supernatural"
+                ],
+                "description": "Labore provident consequatur placeat perferendis commodi. Vero illum fugit possimus laboriosam est natus veritatis quaerat."
+            }
+        },
+        {
+            "roll": 13,
+            "data": {
+                "name": "Jones Inc",
+                "keywords": [
+                    "Encounter",
+                    "Gambling",
+                    "Darkness"
+                ],
+                "description": "Voluptates magnam quis quibusdam eius laborum temporibus aliquid. Blanditiis et doloribus corporis occaecati. Impedit et iusto voluptas dolores repellat."
+            }
+        },
+        {
+            "roll": 14,
+            "data": {
+                "name": "Ellis and Sons",
+                "keywords": [
+                    "Encounter",
+                    "Scavenge",
+                    "Active"
+                ],
+                "description": "Optio laboriosam aliquam asperiores impedit ea. Accusantium neque est iusto neque odio praesentium laudantium nesciunt."
+            }
+        },
+        {
+            "roll": 15,
+            "data": {
+                "name": "Wolf and Sons",
+                "keywords": [
+                    "Encounter",
+                    "Ghost",
+                    "Outlaw"
+                ],
+                "description": "Ea veritatis quae iusto accusantium fugiat ipsum iusto ea. Dicta temporibus corporis cupiditate laborum explicabo. Quisquam quod laboriosam nam rerum ad libero rerum. Dicta sunt veniam impedit rerum id quisquam."
+            }
+        },
+        {
+            "roll": 16,
+            "data": {
+                "name": "Roy LLC",
+                "keywords": [
+                    "Encounter",
+                    "Fire",
+                    "Supernatural"
+                ],
+                "description": "Eum enim ipsam soluta aliquam totam. Similique ipsum est sunt perferendis. Corporis voluptate deleniti vero perspiciatis illum ipsum aspernatur."
+            }
+        },
+        {
+            "roll": 17,
+            "data": {
+                "name": "Nichols and Sons",
+                "keywords": [
+                    "Encounter",
+                    "Undead",
+                    "Hope"
+                ],
+                "description": "Ratione quidem accusamus velit voluptatem veritatis. Incidunt cupiditate magni inventore. Rerum minima perspiciatis optio nemo atque iure. Error ex impedit perferendis quos officia error explicabo tempore. Expedita deleniti odit labore quidem."
+            }
+        },
+        {
+            "roll": 18,
+            "data": {
+                "name": "Foster-Sanchez",
+                "keywords": [
+                    "Encounter",
+                    "Monster",
+                    "Active"
+                ],
+                "description": "Iure recusandae unde molestias ratione. Ipsam hic numquam dolorum quia. Sunt rem asperiores voluptas doloribus."
+            }
+        },
+        {
+            "roll": 19,
+            "data": {
+                "name": "Hanson, Roman and Snyder",
+                "keywords": [
+                    "Encounter",
+                    "Scavenge",
+                    "Loot"
+                ],
+                "description": "Porro et vero veniam alias laboriosam repudiandae deserunt. Eveniet ducimus rerum inventore atque ea est impedit impedit. A commodi quaerat earum quasi eum minima natus unde. Adipisci eius ex fuga asperiores officiis."
+            }
+        },
+        {
+            "roll": 20,
+            "data": {
+                "name": "Page Ltd",
+                "keywords": [
+                    "Encounter",
+                    "Undead",
+                    "Mission"
+                ],
+                "description": "A optio in fugiat pariatur eligendi quod. Repellat error commodi exercitationem rem corporis quod. Ducimus ab distinctio nihil mollitia modi cumque adipisci. Dolore rerum tempore eveniet quos aperiam doloribus minus. Voluptates cumque cumque eaque natus similique."
+            }
+        }
+    ]
+}

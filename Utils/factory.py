@@ -12,9 +12,12 @@ from collections import OrderedDict
 from functools import wraps
 import json
 from random import choice
+import os.path
 
 from faker import Faker
 
+OUTDIR = "../Assets/StreamingAssets"
+OUTDIR = "/tmp"
 
 def gen_roll_d36():
     ''' generate ordered output of all 'd36' outcomes '''
@@ -303,10 +306,12 @@ def factory_main():
             ('terrain_encounter_{}'.format(terrain), make_encounters)
         )
 
-    #prefix = 'hc_'
-    prefix = 'fake_hc_'
+    prefix = 'hc_'
     for chart_name, func in chart_tuples:
-        filename = '{p}{n}.json'.format(p=prefix, n=chart_name)
+        filename = os.path.join(
+            OUTDIR,
+            '{p}{n}.json'.format(p=prefix, n=chart_name)
+        )
         with open(filename, 'w') as out:
             print('\tWriting {}'.format(filename))
             json.dump({"array": func(fake)}, out, indent=4)
