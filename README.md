@@ -4,5 +4,9 @@ This Unity3D project is a companion app for Flying Frog Production's Shadows of 
 
 ## Status
 
-Very early alpha.
+Pre-alpha.
+
+## Feature Roadmap
+
+TBD
 
