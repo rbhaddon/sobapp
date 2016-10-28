@@ -15,8 +15,10 @@ public class GameData {
 	public JobData[] jobs;
 	public Dictionary<int, Town> towns;
 	public Dictionary<int, TownTrait> townTraits = new Dictionary<int, TownTrait> ();
-	public float possePositionX;
-	public float possePositionY;
+	public float possePositionX = 0.0f;
+	public float possePositionY = 0.0f;
+
+	public int day;
 
 	public GameData()
 	{
@@ -114,13 +116,20 @@ public class GameData {
 	public void UpdateCharts()
 	{
 		Debug.Log ("DataPath: " + Application.dataPath);
-		string json = File.ReadAllText (Path.Combine (Application.dataPath, "StreamingAssets/town_traits.json"));
+		string json = File.ReadAllText (Path.Combine (Application.streamingAssetsPath , "town_traits.json"));
 		TraitChart traitChart = JsonUtility.FromJson<TraitChart> (json);
 
 		townTraits.Clear ();
 		foreach (TraitEntry entry in traitChart.array) {
 			townTraits.Add (entry.roll, entry.data);
 		}
+	}
+
+	public int NextDay()
+	{
+		day += 1;
+		Debug.Log ("Day is now " + day.ToString ());
+		return day;
 	}
 }
 /*

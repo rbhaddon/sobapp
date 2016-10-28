@@ -13,7 +13,10 @@ public class GameControl : MonoBehaviour {
 	public static GameControl gameControl;
 	public static GameData gameData;
 
-	public GameObject posseMarker = null;
+	public GameObject posseMarkerPrefab;
+	public GameObject overworld;
+
+	static GameObject posseMarker;
 	public int townSize = 0;
 	public string townName = "None";
 	public string townType = "None";
@@ -22,9 +25,9 @@ public class GameControl : MonoBehaviour {
 	public static int currentTownKey = 1;
 	public static int prevTownKey = -1;
 
-	public static int debugTown = 1;
+	//public static int debugTown = 1;
 
-	string saveFile; 
+	static string saveFile; 
 
 	void Enable()
 	{
@@ -39,17 +42,13 @@ public class GameControl : MonoBehaviour {
 		if (gameControl == null) {
 			DontDestroyOnLoad (gameObject);
 			gameControl = this;
+
 		} else if (gameControl != this)
 		{
 			Destroy (gameObject);
+			posseMarker = Instantiate (posseMarkerPrefab);
+			UpdatePossePosition ();
 		}
-		/*
-		if (gameData == null) {
-			Load ();
-		} else {
-			Populate ();
-		}
-		*/
 	}
 
 	void Start() {
@@ -58,7 +57,7 @@ public class GameControl : MonoBehaviour {
 		Debug.Log ("Save location: " + saveFile);
 		gameData = new GameData ();
 		gameData.posseName = "The Dead Bunnies";
-
+		gameData.UpdateCharts ();
 	}
 
 	void OnGUI()
@@ -66,7 +65,6 @@ public class GameControl : MonoBehaviour {
 		// First "column"
 		GUI.Label (new Rect (10, 10, 200, 30), "Town Name: " + currentTown.name);
 		GUI.Label (new Rect (10, 40, 100, 30), "Town Size: " + currentTown.size);
-
 
 		if (GUI.Button (new Rect (10, 70, 100, 30), "Save")) 
 		{
@@ -102,10 +100,9 @@ public class GameControl : MonoBehaviour {
 		GUI.Label (new Rect (250, 70, 300, 30), "Town Trait: " + currentTown.trait);
 		GUI.Label (new Rect (250, 100, 300, 30), "Town max_size: " + currentTown.max_size);
 		GUI.Label (new Rect (250, 130, 300, 30), "Town status: " + currentTown.status);
-
 	}
 
-	public void Save()
+	public static void Save()
 	{
 		Debug.Log ("Saving");
 		if (posseMarker) {
@@ -120,8 +117,10 @@ public class GameControl : MonoBehaviour {
 		file.Close ();
 	}
 
-	public void Load()
+	public static bool Load()
 	{
+		bool returnValue = false;
+
 		Debug.Log ("Loading...");
 		if (File.Exists (saveFile)) {
 			BinaryFormatter bf = new BinaryFormatter ();
@@ -130,12 +129,16 @@ public class GameControl : MonoBehaviour {
 			gameData = (GameData)bf.Deserialize (file);
 			file.Close ();
 
-			currentTown = gameData.towns [debugTown % gameData.towns.Count];
-			posseMarker.transform.position = new Vector2 (gameData.possePositionX, gameData.possePositionY);
-			debugTown += 1;
+			//currentTown = gameData.towns [debugTown % gameData.towns.Count];
+
+			UpdatePossePosition ();
+
+			//debugTown += 1;
+			returnValue = true;
 		} else {
 			Debug.Log ("No save file to load.");
 		}
+		return returnValue;
 	}
 
 	public static void SetCurrentTown(Town town)
@@ -162,10 +165,12 @@ public class GameControl : MonoBehaviour {
 
 	public void NextTown()
 	{
+		Debug.Log ("next");
 		prevTownKey = currentTownKey;
 		currentTownKey += 1;
 		try {
 			currentTown = gameData.towns [currentTownKey];
+			Debug.Log("currentTown updated");
 		}
 		catch (KeyNotFoundException) {
 			//currentTownKey = new List<int>(gameData.towns.Keys)[0];
@@ -190,4 +195,17 @@ public class GameControl : MonoBehaviour {
 	public static bool TownChanged() {
 		return (prevTownKey != currentTownKey);
 	}
+
+	public static void UpdatePossePosition() {
+		Debug.Log ("Updating posse position");
+		if (posseMarker) {
+			Vector2 position = new Vector2 (gameData.possePositionX, gameData.possePositionY);
+			posseMarker.transform.position = position;
+		}
+	}
+
+//	public static void DisplayDay()
+//	{
+//		calendarText.text = gameData.NextDay ();
+//	}
 }
