@@ -9,8 +9,8 @@ public class OnTownPanelLoad : MonoBehaviour {
 
 	public Text[] townPanelTexts;
 	public GameObject locationPanel;
-	public GameObject locationText;
-	List<GameObject> locTexts = new List<GameObject> ();
+	public GameObject locationButton;
+	List<GameObject> locationButtons = new List<GameObject> ();
 
 	Town currentTown;
 
@@ -29,7 +29,8 @@ public class OnTownPanelLoad : MonoBehaviour {
 
 	void DisplayTownData()
 	{
-		foreach (GameObject gObject in locTexts) {
+		// Clear any previous town's location buttons
+		foreach (GameObject gObject in locationButtons) {
 			Destroy (gObject);
 		}
 			
@@ -57,18 +58,15 @@ public class OnTownPanelLoad : MonoBehaviour {
 			}
 		}
 	
-		locTexts.Clear ();
+		locationButtons.Clear ();
 
 		if (GameControl.currentTown.status == TownData.Status.Okay) {
 
 			for (int i = 0; i < GameControl.currentTown.locations.Count; i++) {
-				//foreach (TownData.LocationType location in GameControl.currentTown.locations) {
-				locTexts.Add (Instantiate (locationText));
-				locTexts [i].transform.SetParent (locationPanel.transform);
-				Text text = locTexts [i].GetComponent<Text> ();
+				locationButtons.Add (Instantiate (locationButton));
+				locationButtons [i].transform.SetParent (locationPanel.transform);
+				Text text = locationButtons [i].GetComponentInChildren<Text> ();
 				text.text = TownData.Locations[GameControl.currentTown.locations [i]];
-				//GameObject locText = Instantiate (locationText);
-				//locText.transform.SetParent (locationPanel.transform);
 			}
 			GameControl.prevTownKey = GameControl.currentTownKey;
 		}

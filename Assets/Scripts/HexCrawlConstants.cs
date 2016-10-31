@@ -80,4 +80,6 @@ namespace HexCrawlConstants {
 			{12, "Indian Trading Post"},
 		};
 	}
+
+	public enum AilmentType {Injury, Madness, Mutation};
 }
