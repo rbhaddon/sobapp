@@ -14,9 +14,15 @@ public class GameData {
 	public string world;
 	public JobData[] jobs;
 	public Dictionary<int, Town> towns;
-	public Dictionary<int, TownTrait> townTraits = new Dictionary<int, TownTrait> ();
 	public float possePositionX = 0.0f;
 	public float possePositionY = 0.0f;
+
+	// Charts
+	public Dictionary<int, TownTrait> townTraits = new Dictionary<int, TownTrait> ();
+	public Dictionary<int, Ailment> injury = new Dictionary<int, Ailment> ();
+	public Dictionary<int, Ailment> madness = new Dictionary<int, Ailment> ();
+	public Dictionary<int, Ailment> mutation = new Dictionary<int, Ailment> ();
+
 
 	public int day;
 
@@ -104,7 +110,7 @@ public class GameData {
 				town.type = Town.GetNonGeographicTownType ();
 				town.trait = townTraits [Roll.D36 ()];
 				//town.SetLocations(Roll.D8(), new int[]{});
-			break;
+				break;
 			}
 
 			// save town to towns
@@ -115,14 +121,48 @@ public class GameData {
 
 	public void UpdateCharts()
 	{
-		Debug.Log ("DataPath: " + Application.dataPath);
-		string json = File.ReadAllText (Path.Combine (Application.streamingAssetsPath , "town_traits.json"));
+		string json;
+
+		// Town Traits
+		Debug.Log("Creating Town Traits");
+		json = File.ReadAllText (Path.Combine (Application.streamingAssetsPath , "town_traits.json"));
 		TraitChart traitChart = JsonUtility.FromJson<TraitChart> (json);
 
 		townTraits.Clear ();
 		foreach (TraitEntry entry in traitChart.array) {
 			townTraits.Add (entry.roll, entry.data);
 		}
+
+		// Injury Chart
+		Debug.Log("Creating Injuries");
+		json = File.ReadAllText (Path.Combine (Application.streamingAssetsPath , "injuries.json"));
+		AilmentChart injuryChart = JsonUtility.FromJson<AilmentChart> (json);
+
+		injury.Clear ();
+		foreach (AilmentEntry entry in injuryChart.array) {
+			injury.Add (entry.roll, entry.data);
+		}
+
+		// Madness Chart
+		Debug.Log("Creating Madnesses");
+		json = File.ReadAllText (Path.Combine (Application.streamingAssetsPath , "madnesses.json"));
+		AilmentChart madnessChart = JsonUtility.FromJson<AilmentChart> (json);
+
+		madness.Clear ();
+		foreach (AilmentEntry entry in madnessChart.array) {
+			madness.Add (entry.roll, entry.data);
+		}
+
+		// Mutation Chart
+		Debug.Log("Creating Mutations");
+		json = File.ReadAllText (Path.Combine (Application.streamingAssetsPath , "mutations.json"));
+		AilmentChart mutationChart = JsonUtility.FromJson<AilmentChart> (json);
+
+		mutation.Clear ();
+		foreach (AilmentEntry entry in mutationChart.array) {
+			mutation.Add (entry.roll, entry.data);
+		}
+
 	}
 
 	public int NextDay()
